@@ -1,6 +1,7 @@
 ---
 name: Ethan Gale
 role: Tutor
+email: egale@
 pronouns: he/him
 photo: Ethan_Gale.png
 ---
