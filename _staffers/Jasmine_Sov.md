@@ -1,6 +1,7 @@
 ---
 name: Jasmine Sov
 role: Tutor
+email: jasminesov@
 photo: Jasmine_Sov.jpg
 pronouns: she/her
 ---
