@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS10 Fall 2025
+title: CS10 Spring 2026
 tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
 author: Victoria Phelps
@@ -34,7 +34,7 @@ course_email: cs10@berkeley.edu
 gradescope_course_id: 1098053 # you can find this in the Gradescope URL after /courses
 bcourses_course_id: 1547647 # Same as above, but for bCourses. Leave blank if not in use...
 ed_course_id: 83126 # Again, same as above.
-sememster: fa25 # set for the current seemester
+sememster: sp26 # set for the current seemester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
 course_department: dsus
@@ -196,6 +196,7 @@ exclude:
   - spec/
   - docs/
   - node_modules/
+
 
 
 
