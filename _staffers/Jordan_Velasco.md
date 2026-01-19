@@ -1,6 +1,7 @@
 ---
 name: Jordan Velasco
 role: Tutor
+email: jordanvelasco@
 photo: jordan_velasco.jpg
 pronouns: he/him
 ---
