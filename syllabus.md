@@ -36,17 +36,17 @@ We’re really excited to have you on board with us this semester for a gentle, 
 ## Platforms
 
 
-This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students can not be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
+This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) students cannot be supported. However, there are make-up options for lecture, lab, and discussion attendance. 
 
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org. Consult the [daily schedule](https://cs10.org/sp26/schedule/) to find the times/locations for all synchronous course engagements.
 * **Edstem**: This will be our main Q&A platform, where you can ask (and answer) questions, see announcements, and read Weekly Blasts, which are required readings in CS10. Click the `Ed Discussion` tab on the left to navigate to Edstem. Here is the link to the [EdStem](https://edstem.org/us/courses/93956). If you need to join the EdStem, click the following: [Join EdStem](https://edstem.org/us/join/MKbBRM)
-* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Edstem. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1232070). To join,l you can enter the following entry code: <b>2DEGXG</b>
-* **Bcourses**: Lecture recordings can be found on [the Bcourses site](https://bcourses.berkeley.edu/courses/1552632/external_tools/90481), generally within 48h of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in Bcourses.
-* **iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should signup with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use this the following links:
-    -  [Lecture iClcker](https://join.iclicker.com/ODSE).
-    -  [Lab iClcker](https://join.iclicker.com/UQKE).
-    -  [Discussion iClcker](https://join.iclicker.com/NTCF).
+* **Gradescope**: This is where you will submit Projects 1-4, and the Final Project. Click the `Gradescope` tab on the left to open Gradescope. Submission instructions can be found at the following: [Gradescope](https://www.gradescope.com/courses/1232070). To join, you can enter the following entry code: <b>2DEGXG</b>
+* **Bcourses**: Lecture recordings can be found on [the bCourses site](https://bcourses.berkeley.edu/courses/1552632/external_tools/90481), generally within 48 hours of lecture. You will have to be logged into your Berkeley email to access the recordings. The recordings are under the "Media Gallery" tab in bCourses.
+* **iClicker**: You are required to [create a free iClicker account](https://mhe.my.site.com/iclicker/s/article/How-Students-Create-an-iClicker-Account-Through-a-Campus-Portal) and download the free iClicker app. Then, you should sign up with your Berkeley email. To get credit for attending lecture, please open the app once you're seated in the lecture hall and mark your attendance. If for some reason you are not enrolled, use the following links:
+    -  [Lecture iClicker](https://join.iclicker.com/ODSE).
+    -  [Lab iClicker](https://join.iclicker.com/UQKE).
+    -  [Discussion iClicker](https://join.iclicker.com/NTCF).
 * **PrairieLearn**: This is the platform you will use to take exams (Quest, Midterm, and Postterm). We will manually add you to the site later in the semester. For now, here is the link to [PrairieLearn](https://us.prairielearn.com/). If you are not added when you need it later in the semester, please post a message on EdStem.
 * **Snap!**: The programming language we will be using for more than half of the semester. The website can be found here: [Snap!](https://snap.berkeley.edu/). You will need to set up a Snap! account by following the [Snap! Account Setup Guide](https://docs.google.com/document/d/1yP818HbagO1fVR1Oor162raXztaXeRqcQI3TkH-WiKA/edit?usp=sharing).
 * **Gradeview**: This is the website where you will be able to access your current grades in the class. You will need to sign in using your UC Berkeley credentials on the [Gradeview](https://gradeview.eecs.berkeley.edu/login) website.
@@ -58,11 +58,11 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 Lectures will be live and in-person in Evans Hall, Room 60 on Mondays, Wednesdays, and Fridays from 10AM to 11AM. They will be recorded, and recordings will be posted on bCourses (see `platforms` section). 
 
-Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
+Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch in your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
 
-<b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 2359hrs. On this quiz, we will ask questions about lecture content. You may fill out our general extension form (linked below) to receive an automatic extension for lecture quizzes.
+<b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 23:59. On this quiz, we will ask questions about lecture content. You may fill out our general extension form (linked below) to receive an automatic extension for lecture quizzes.
 
-<b>Only Monday and Wednesday lectures have required attendance.</b> Friday lectures (we call it the Friday "Talks"!) will be optional and will have no lecture quiz. Some Friday lecture will be review where we prep for exams or go over the answers to an exam. The exam review Friday lectures will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
+<b>Only Monday and Wednesday lectures have required attendance.</b> Friday lectures (we call them the Friday "Talks"!) will be optional and will have no lecture quiz. Some Friday lectures will be review sessions where we prep for exams or go over the answers to an exam. Exam review Friday lectures will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
 
 Your lowest 5 lecture-quiz scores will be automatically dropped — so you can miss up to 5 lectures (or skip 5 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
@@ -78,9 +78,9 @@ This semester, there is only one lab option, which is in person: Tuesday and Thu
 
 <b>Attendance at lab sections is required and counts toward your grade.</b> You may miss up to 5 lab sessions without penalty, so you do not need to inform us if you cannot attend a lab. If extenuating circumstances cause you to miss more than 5 lab sections (such as prolonged illness or family emergencies), you should visit Support OH. Please note that the 5 “skip days” apply only to attendance—you are still required to complete and submit the lab assignment. Lab attendance will be tracked using iClicker.
 
-If you cannot attend a lab section on a particular day or are unable to attend labs regularly for the semester, you can earn lab attendance credit by submitting the lab assignment "early." In other words, if you miss a lab or cannot regularly attend in person, the lab will be due earlier. For example, if Lab X is due on Tuesday at 23:59 but you did not attend the in-person lab, your deadline to submit Lab X would be Thursday at 3:00 PM (before the lab section). There is no lab attendance grade for Lab 1.
+If you cannot attend a lab section on a particular day or are unable to attend labs regularly for the semester, you can earn lab attendance credit by submitting the lab assignment "early." In other words, if you miss a lab or cannot regularly attend in person, the lab will be due earlier. For example, if Lab X is due on Tuesday at 23:59 but you did not attend the in-person lab, your deadline to submit Lab X would be Thursday at 3:00 PM (the time before the lab section). There is no lab attendance grade for Lab 1.
 
-The lab attendance grade is based solely on whether you attend lab in person or submit the assignment early if you do not attend. This attendance grade is part of your overall attendance and participation grade. The actual grade you earn on a lab assignment is tracked separately under your lab grade.
+The lab attendance grade is based solely on whether you attend lab in person or submit the assignment early if you do not attend. This attendance grade is part of your overall attendance and participation grade. The grade you earn on a lab assignment is tracked separately under your lab grade.
 
 Some lab days will be designated as Project Parties or Catch-up Sessions. On these days, attendance is not required, and labs will function as optional office hours. We will explicitly label all optional labs, discussions, and lectures as “optional.”
 
@@ -200,7 +200,7 @@ If your percentage score on a latter exam is higher than your percentage score o
 | Midterm                                       | 12.5%    |
 | Postterm                                      | 18.75%   |
 
-### Specific Grading Breakdown — Points
+### Specific Grading Breakdown — Points
 
 
 | Component                                     |  Points  |
@@ -239,7 +239,7 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/Wym7CXpRUBH2UhZk9).
+For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/Wym7CXpRUBH2UhZkH2UhZk9).
 
 You are also allowed to request extensions retroactively without penalty. That is, you may request an extension even after the original deadline of a lab or project, but not after the extended deadline for that assignment.
 
@@ -336,7 +336,7 @@ On projects / other assignments, the minimum penalty is negative points on that 
 
 On exams, we will be absolutely unforgiving. Any instance of cheating results in an immediate F in the class alongside a referral to the Office of Student Conduct.
 
-If at any point in the academic-integrity process, a student lies or attempts to mislead course-staff  —thereby wasting everyone’s time— then in addition to the aforementioned sanctions, the s will write a recommendation for the student’s dismissal and submit it to the Office of Student Conduct.
+If at any point in the academic-integrity process, a student lies or attempts to mislead course-staff  —thereby wasting everyone’s time— then in addition to the aforementioned sanctions, the staff will write a recommendation for the student’s dismissal and submit it to the Office of Student Conduct.
 
 
 
@@ -355,25 +355,5 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 ## EECS Student Climate & Incident Reporting Form
 
-It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
+It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
