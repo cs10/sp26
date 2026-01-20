@@ -86,15 +86,15 @@ Some lab days will be designated as Project Parties or Catch-up Sessions. On the
 
 ### Discussion Sections
 
-Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming and to prepare for our exams. Discussion 1 (4 to 5PM) will be located in Soda Hall, Room 438. Discussion 2 (5 to 6PM) will be located in Stanley Hall, Room 106.
+Discussion sections are where you will explore course content more deeply through worksheets in a traditional “pen-and-paper” format. This is where you will develop the theoretical computational skills needed to understand the basics of programming and prepare for exams. Discussion meets from 11 AM–12 PM and will be held in Soda Hall, Room 430, the same location as lab.
 
-Discussion attendance is mandatory. If you attend, then we will check you off in person, and there is no further action needed to receive credit other than your participation during discussion. If you do not attend (either you have a regular conflict or just miss a few classes), then you can make-up the entire attendance credit by submitting the discussion worksheet (just the required portions) to Gradescope. You must complete the entire required portions of the worksheet to receive credit. Worksheets will be graded on completion and honest effort. Discussions will also be recorded, so we recommend watching the recordings to get help with the worksheet problems. However, discussions will not go over every problem on the worksheet.
+Discussion attendance is mandatory and will be tracked using iClicker. If you attend and do the iClicker, no further action is needed to receive attendance credit beyond your participation during discussion. If you do not attend—whether due to a regular conflict or missing a few sessions—you may make up the attendance credit by submitting the discussion worksheet (required portions only) to Gradescope. You must complete all required portions of the worksheet to receive credit. Worksheets will be graded based on completion and honest effort. Discussions will also be recorded, and we recommend watching the recordings to help with the worksheet problems. However, discussions will not go over every problem on the worksheet.
 
-The discussion worksheets are located on the website, and you will submit them to Gradescope. You can submit the worksheet in any format, i.e. handwritten, electronically written, typed, etc. Discussion worksheets are due the day of the next discussion section at 11:59 PM. So, if Discussion X is due when Discussion X + 1 is released.
+The discussion worksheets are located on the course website and should be submitted to Gradescope. You may submit the worksheet in any format (for example, handwritten, electronically written, or typed). <b>If you attend discussion in person, no submission is required</b>. You only need to submit the worksheet if you miss discussion. Discussion worksheets are due on the day of the next discussion section at 11:59 PM. In other words, Discussion X is due the same day Discussion X+1 is released.
 
-Your 1 lowest discussion worksheet score / miss will be dropped. This means you can not submit one worksheet and still get full credit in your discussion grade. Please reserve this drop for unexpected emergencies / sickness / etc. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please see the extension request section. 
+Your 1 lowest discussion worksheet score or one missed discussion will be dropped. This means you may skip submitting one worksheet and still receive full credit for your discussion grade. Please reserve this drop for unexpected circumstances such as illness or emergencies. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please refer to the extension request section.
 
-From experience, we've observed that students who regularly attend and pay attention in discussions tend to do better on exams.
+From experience, we have observed that students who regularly attend and actively participate in discussions tend to perform better on exams.
 
 ### Office Hours (OH) 
 
@@ -359,6 +359,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
