@@ -10,7 +10,7 @@ nav_order: 2
 If the calendar below appears blank, make sure you're signed in to your Berkeley email!
 
 <iframe
-  src="https://calendar.google.com/calendar/embed?src=c_4296da38b14c3467e90e79dc24660089f5235ef57bbdecabcc519206a7ea5004%40group.calendar.google.com&ctz=America%2FLos_Angeles"
+  src="https://calendar.google.com/calendar/embed?ctz=America%2FLos_Angeles&mode=WEEK&src=c_4296da38b14c3467e90e79dc24660089f5235ef57bbdecabcc519206a7ea5004%40group.calendar.google.com"
   style="border: solid 1px #777"
   width="800"
   height="600"
@@ -19,4 +19,5 @@ If the calendar below appears blank, make sure you're signed in to your Berkeley
 </iframe>
 
 To add these calendars to your Google Calendar, use <a href="https://calendar.google.com/calendar/ical/c_4296da38b14c3467e90e79dc24660089f5235ef57bbdecabcc519206a7ea5004%40group.calendar.google.com/public/basic.ics">(this link)</a>
+
 
