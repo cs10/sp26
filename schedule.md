@@ -59,7 +59,10 @@
           <!-- <a href="/sp26/lab_directory">Lab 1: Welcome to Snap!</a> -->
           Lab 1: Welcome to Snap!
         </td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td>
+          <!-- <a href="/sp26/discussion">Disc 1. Welcome to CS10!</a> -->
+          Disc 1. Welcome to CS10!
+        </td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -69,10 +72,7 @@
             (Recording: Talk 1)
         </td> <!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td>
-          <!-- <a href="/sp26/discussion">Disc 1. Welcome to CS10!</a> -->
-          Disc 1. Welcome to CS10!
-        </td> <!-- Discussion -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
@@ -136,7 +136,10 @@
           <!-- <a href="/sp26/labs/lab02">Lab 2. Build Your Own Blocks</a> -->
           Lab 2. Build Your Own Blocks
         </td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td>
+          <!-- <a href="/sp26/discussion">Disc 2. Number Rep & Control Structures</a> -->
+          Disc 2. Number Rep & Control Structures
+        </td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -149,10 +152,7 @@
           <!-- <a href="/sp26/labs/lab03">Lab 3. Conditionals, Reporters, & Testing</a> -->
           Lab 3. Conditionals, Reporters, & Testing
         </td> <!-- Lab -->
-        <td>
-          <!-- <a href="/sp26/discussion">Disc 2. Number Rep & Control Structures</a> -->
-          Disc 2. Number Rep & Control Structures
-        </td> <!-- Discussion -->
+        <td></td> <!-- Discussion -->
         <td>
           <!-- <a href="/sp26/projects/"><b>Proj 1: Wordle™ Lite Released</b></a> -->
           <b>Proj 1: Wordle™ Lite Released</b>
@@ -218,7 +218,10 @@
           <!-- <a href="/sp26/labs/lab04">Lab 4. Iteration NEW</a> -->
           Lab 4. Iteration NEW
         </td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td>
+          <!-- <a href="/sp26/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists</a> -->
+          Disc 3. Domain/Range, Scoping, Iteration, Lists
+        </td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -231,10 +234,7 @@
           <!-- <a href="/sp26/labs/lab05">Lab 5. Lists & HOFs</a> -->
           Lab 5. Lists & HOFs
         </td> <!-- Lab -->
-        <td>
-          <!-- <a href="/sp26/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists</a> -->
-          Disc 3. Domain/Range, Scoping, Iteration, Lists
-        </td> <!-- Discussion -->
+        <td></td> <!-- Discussion -->
         <td>
           <!-- <a href="/sp26/projects/"><b>Proj 1 DUE</b></a> -->
           <b>Proj 1 DUE</b>
@@ -303,7 +303,10 @@
         <!-- <a href="/sp26/labs/lab06">Lab 6. Algorithms</a> -->
         Lab 6. Algorithms
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 4. HOFs + Algorithmic Complexity</a> -->
+        Disc 4. HOFs + Algorithmic Complexity
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -316,10 +319,7 @@
         <!-- <a href="/sp26/labs/lab07">Lab 7. Algorithmic Complexity</a> -->
         Lab 7. Algorithmic Complexity
       </td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 4. HOFs + Algorithmic Complexity</a> -->
-        Disc 4. HOFs + Algorithmic Complexity
-      </td>
+      <td></td>
       <td><b>QUEST 1</b></td>
     </tr>
   </tbody>
@@ -372,7 +372,10 @@
         <!-- <a href="/sp26/labs/lab08">Lab 8. Boards</a> -->
         Lab 8. Boards
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 5. Nested Lists + Recursion</a> -->
+        Disc 5. Nested Lists + Recursion
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -382,10 +385,7 @@
             (Recording: Talk 5)
       </td> <!-- Lecture -->
       <td></td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 5. Nested Lists + Recursion</a> -->
-        Disc 5. Nested Lists + Recursion
-      </td>
+      <td></td>
       <td><b>QUEST 2</b></td>
     </tr>
   </tbody>
@@ -448,7 +448,10 @@
         <!-- <a href="/sp26/labs/lab09">Lab 9. Trees & Fractals</a> -->
         Lab 9. Trees & Fractals
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 6. Recursion II</a> -->
+        Disc 6. Recursion II
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -461,10 +464,7 @@
         <!-- <a href="/sp26/labs/lab10">Lab 10. Recursive Reporters</a> -->
         Lab 10. Recursive Reporters
       </td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 6. Recursion II</a> -->
-        Disc 6. Recursion II
-      </td>
+      <td></td>
       <td>
         <!-- <a href="/sp26/projects/"><b>Proj 2 Due</b></a> -->
         <b>Proj 2 Due</b><br/><b>QUEST 2</b><br/><b>QUEST 3</b>
@@ -533,7 +533,10 @@
         <!-- <a href="/sp26/labs/lab11">Lab 11. Testing + 2048</a> -->
         Lab 11. Testing + 2048
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 7. HOFs, Lambdas, Debugging</a> -->
+        Disc 7. HOFs, Lambdas, Debugging
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -546,10 +549,7 @@
         <!-- <a href="/sp26/labs/lab12">Lab 12. Functions as Data, HOFs</a> -->
         Lab 12. Functions as Data, HOFs
       </td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 7. HOFs, Lambdas, Debugging</a> -->
-        Disc 7. HOFs, Lambdas, Debugging
-      </td>
+      <td></td>
       <td><b>QUEST 3</b></td>
     </tr>
   </tbody>
@@ -612,7 +612,10 @@
       <th>Thu 3/12</th>
       <td></td>
       <td>Midterm Practice</td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 8. Midterm Preview</a> -->
+        Disc 8. Midterm Preview
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -622,10 +625,7 @@
           (Recording: Talk 8)
       </td>
       <td>Midterm Practice</td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 8. Midterm Preview</a> -->
-        Disc 8. Midterm Preview
-      </td>
+      <td></td>
       <td><b>MIDTERM 1</b></td>
     </tr>
   </tbody>
@@ -688,7 +688,10 @@
       <th>Thu 3/19</th>
       <td></td>
       <td>Project 4 // Work Session</td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 9. OOP</a> -->
+        Disc 9. OOP
+      </td>
       <td><b>MIDTERM 1</b></td>
     </tr>
     <tr>
@@ -701,10 +704,7 @@
         <!-- <a href="/sp26/labs/lab13">Lab 13. OOP in Snap!</a> -->
         Lab 13. OOP in Snap!
       </td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 9. OOP</a> -->
-        Disc 9. OOP
-      </td>
+      <td></td>
       <td><b>MIDTERM 2</b></td>
     </tr>
   </tbody>
@@ -901,7 +901,10 @@
         <!-- <a href="/sp26/labs/lab16">Lab 16. Concurrency</a> -->
         Lab 16. Concurrency
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 12: Data Structures in Python</a> -->
+        Disc 12: Data Structures in Python
+      </td>
       <td>
         <!-- <a href="/sp26/projects/">Final Project Proposals Due</a> -->
         Final Project Proposals Due<br/>
@@ -918,10 +921,7 @@
           (Recording: Talk 11)
       </td>
       <td>CU + Post Term Practice</td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 12: Data Structures in Python</a> -->
-        Disc 12: Data Structures in Python
-      </td>
+      <td></td>
       <td>
         <!-- <a href="/sp26/projects/">Final Project Proposal Meetings</a> -->
         Final Project Proposal Meetings
@@ -994,7 +994,10 @@
         <!-- <a href="/sp26/labs/lab17">Lab 17. Text Processing in Python</a> -->
         Lab 17. Text Processing in Python
       </td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 13: Concurrency + Postterm Practice</a> -->
+        Disc 13: Concurrency + Postterm Practice
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -1007,10 +1010,7 @@
         <!-- <a href="/sp26/labs/lab18">Lab 18. FUN Data Science</a> -->
         Lab 18. FUN Data Science
       </td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 13: Concurrency + Postterm Practice</a> -->
-        Disc 13: Concurrency + Postterm Practice
-      </td>
+      <td></td>
       <td><b>POSTTERM 1</b></td>
     </tr>
   </tbody>
@@ -1070,7 +1070,10 @@
       <th>Thu 4/23</th>
       <td></td>
       <td>Catchup</td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 14. Postterm Practice</a> -->
+        Disc 14. Postterm Practice
+      </td>
       <td><b>POSTTERM 1</b></td>
     </tr>
     <tr>
@@ -1080,10 +1083,7 @@
           (Recording: Talk 13)
       </td>
       <td></td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 14. Postterm Practice</a> -->
-        Disc 14. Postterm Practice
-      </td>
+      <td></td>
       <td><b>POSTTERM 2</b></td>
     </tr>
   </tbody>
@@ -1143,7 +1143,10 @@
       <th>Thu 4/30</th>
       <td></td>
       <td>Project Work Session</td>
-      <td></td>
+      <td>
+        <!-- <a href="/sp26/discussion">Disc 15: Review</a> -->
+        Disc 15: Review
+      </td>
       <td></td>
     </tr>
     <tr>
@@ -1153,10 +1156,7 @@
           (Recording: Talk 14)
       </td>
       <td>Practice Postterm</td>
-      <td>
-        <!-- <a href="/sp26/discussion">Disc 15: Review</a> -->
-        Disc 15: Review
-      </td>
+      <td></td>
       <td><b>POSTTERM 2</b><br/><b>POSTTERM 3</b></td>
     </tr>
   </tbody>
