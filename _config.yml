@@ -17,12 +17,12 @@
 title: CS10 Spring 2026
 tagline: The Beauty and Joy of Computing
 description: A gentle but thorough introduction to computer science.
-author: Victoria Phelps
+author: Nahee Jeong
 # You should use either light or dark as the theme.
 color_scheme: light
 
 # TODO(setup): Set this to the semester, e.g. /sp24, (faXX / spXX / suXX / wiXX )
-baseurl: '/fa25' # the subpath of your site, which should just be the semester.
+baseurl: '/sp26' # the subpath of your site, which should just be the semester.
 # TODO(setup): Set this to your course's domain
 url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://example.com
 
@@ -31,9 +31,9 @@ url: 'http://cs10.org' # the hostname & protocol for your site, e.g. http://exam
 # TODO(setup): Set all of these course variables
 course: CS 10
 course_email: cs10@berkeley.edu
-gradescope_course_id: 1098053 # you can find this in the Gradescope URL after /courses
-bcourses_course_id: 1547647 # Same as above, but for bCourses. Leave blank if not in use...
-ed_course_id: 83126 # Again, same as above.
+gradescope_course_id: 1232070 # you can find this in the Gradescope URL after /courses
+bcourses_course_id: 1552632 # Same as above, but for bCourses. Leave blank if not in use...
+ed_course_id: 93956 # Again, same as above.
 sememster: sp26 # set for the current seemester
 # This should be one of eecs, dsus, stat
 # (Future) This will control some footer text, and later custom styling.
@@ -47,7 +47,7 @@ class_archive_path: /
 aux_links:
   # TODO(template): Move this to be built-in.
   Ed:
-    - 'https://edstem.org/us/courses/83126/discussion'
+    - 'https://edstem.org/us/courses/93956/discussion'
   OH Queue:
     - 'https://oh.cs10.org'
   Snap!:
@@ -55,7 +55,9 @@ aux_links:
   iClicker:
     - 'https://student.iclicker.com/#/login'
   Gradescope:
-    - 'https://www.gradescope.com/courses/1098053'
+    - 'https://www.gradescope.com/courses/1232070'
+  GradeView:
+    - 'https://gradeview.eecs.berkeley.edu/login'
 
 
 
@@ -196,6 +198,7 @@ exclude:
   - spec/
   - docs/
   - node_modules/
+
 
 
 
