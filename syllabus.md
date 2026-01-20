@@ -98,46 +98,44 @@ From experience, we have observed that students who regularly attend and activel
 
 ### Office Hours (OH) 
 
-There will be three kinds of OH, described bellow. The times and locations for all OH are all posted under the 'daily schedule' tab on the course website. You <b>don't</b> need to email / obtain an appointment. You can attend any and all OH that work for you (i.e. you don't just have to attend your TA's OH.)
-
+There will be three types of office hours, described below. The times and locations for all office hours are posted under the “Daily Schedule” tab on the course website. You <b>do not</b> need to email or make an appointment to attend. You may attend any office hours that work for you.
 
 #### General OH
 
-General OH is intended for any course and content related questions. Here, you can get help with your code, debugging, understanding something conceptually, getting started on assignments, etc. General OH will be located in Soda-326
+General office hours are intended for any course- or content-related questions. You can get help with code, debugging, conceptual understanding, getting started on assignments, and more. The location for General OH will be listed under the “Daily Schedule” tab.
 
-#### Student Support OH 
+#### Student Support OH
 
-These are intended for students to discuss their status in their class, catching up, discussing extenuating circumstances, requesting extensions, getting additional support, etc. Support OH is NOT for content related questions. So if you have questions about content, we will redirect you to General OH or Instructor OH
+Student Support OH is intended for discussing your status in the class, catching up, extenuating circumstances, requesting longer extensions, or getting additional support. Support OH is not for content-related questions. If you have questions about course content, you will be redirected to General OH or Instructor OH.
 
-#### Instructor OH 
+#### Instructor OH
 
-Professor Garcia will be hosting Instructor OH (2 to 3PM on Wednesdays in Soda Hall, Room 777), which you may attend for more conceptual help (for instance, if you're confused about some topic, or want to go over practice problems) or to discuss more general topics (e.g. college advice or how you're doing in the class or research opporunities). For help with specific assignments (labs and projects), you should attend General OH.
+Professor Garcia will host Instructor OH (times and locations are also listed under the “Daily Schedule” tab). You may attend for higher-level or conceptual help (for example, if you are confused about a topic or want to go over practice problems), or to discuss more general topics such as how you are doing in the class, college advice, or research opportunities. For help with specific assignments (labs or projects), please attend General OH.
 
+<!-- ### Reading Quizzes
 
-### Reading Quizzes
-
-These are short assigned readings each week. We will discuss them as a class during discussion section. They are required reading, and you will answer the questions on the discussion worksheets pertaining to the readings.
+These are short assigned readings each week. We will discuss them as a class during discussion section. They are required reading, and you will answer the questions on the discussion worksheets pertaining to the readings. -->
 
 ### Projects 
 
-These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the course.
+These assignments will be one of the best ways for you to apply what you have learned in lecture, lab, and discussion. These will be a bit more time-intensive than the other assignments and will require you to be caught up on the other components of the course.
 
 
-- There will be 3 Snap<em>!</em> projects, 1 research-based project, and 1 project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
+- There will be 3 Snap<em>!</em> projects, 1 research-based project, and a Final Project wherein you can use a language of your choice to build something of your choice. The number of points per project is listed in the Grading Breakdown. Project specs will be released on the website and on Edstem, and you should always read them before starting to work on a project.
 
 ## Projects and Deadlines
 
 
 | Project                                       |  Submission Deadline     |
 | :----:                                        |  :----:                  |
-| Project 1: Wordle™-lite                       | Wed 9/17  |
-| Project 2: Spelling-Bee                       | FRI 10/3  |
-| Project 3: 2048                               | Mon 10/20 |
-| Project 4: Explore Post                       | WED 10/29 |
-| Project 4: Explore Post Presentations         | THU 10/30 |
-| Project 4: Explore Post Feedback + Comments   | Fri 11/7  |
-| Project 5: Final Project Porposals            | Fri 11/7  |
-| Project 5: Final Project                      | Mon 12/8  |
+| Project 1: Wordle™-lite                       | Wed 2/4  |
+| Project 2: Spelling-Bee                       | Mon 2/23  |
+| Project 3: 2048                               | Mon 3/16 |
+| Project 4: Explore Post                       | Tue 3/31 |
+| Project 4: Explore Post Presentations         | THU 4/2 |
+| Project 4: Explore Post Feedback + Comments   | Fri 4/10  |
+| Project 5: Final Project Porposals            | Mon 4/6  |
+| Project 5: Final Project                      | Mon 5/4  |
 
 **All deadlines are at 11:59PM.**
 
@@ -147,10 +145,10 @@ Here are the following Project Parties times and dates:
 | Project Parties                               |  Date | Time  |  Room  |
 | :----:                                        |  :----:        |  :----:   |
 | Project 1 Party: Wordle™-lite                       | TBD | TBD  |  TBD  |
-| Project 2 Party: Spelling-Bee                       | THUR 9/28 | 6-8PM  |  Soda 411  |
-| Project 3 Party: 2048                               | MON 10/20 | 5-8PM  |  Soda 380  |
-| Project 5 Party: Final Project                      | WED 12/3 | 3-5PM   |  Barker 101  |
-| Project 5 Party: Final Project                      | WED 12/3 | 8-10PM   |  Soda 438  |
+| Project 2 Party: Spelling-Bee                       | TBD | TBD  |  TBD  |
+| Project 3 Party: 2048                               | TBD | TBD  |  TBD  |
+| Project 5 Party: Final Project                      | TBD | TBD  |  TBD  |
+| Project 5 Party: Final Project                      | TBD | TBD  |  TBD  |
 
 ## Exams
 
@@ -161,27 +159,29 @@ There will be three take-home, untimed, online, 48-hour, open-note exams (Quest,
 
 Here are the specific dates for exams, although these dates may change. All exams will be released at 6PM on Fridays.
 
-| Exam             | Release  | Due         |   
-| :----:           | :----:   | :----:      | 
-| Quest 1          | FRI 9/26 | SUN 9/28    |  
-| Quest 2          | FRI 10/3 | SUN 10/5    |
-| Quest 3          | FRI 10/10 | SUN 10/12    |  
-| Midterm 1        | FRI 10/24 | SUN 10/26    |  
-| Midterm 2        | FRI 10/31 | SUN 11/2    |  
-| Midterm 3        | FRI 11/7 | SUN 11/9    | 
-| Postterm 1       | FRI 11/21 | SUN 11/23    |  
-| Postterm 2       | FRI 12/5 | SUN 12/7    |  
-| Postterm 3       | FRI 12/12 | SUN 12/14    |  
+| Exam             | Release   | Due         |   
+| :----:           | :----:    | :----:      | 
+| Quest 1          | SAT 2/14  | SUN 2/15    |  
+| Quest 2          | SAT 2/21  | SUN 2/22    |
+| Quest 3          | SAT 2/28  | SUN 3/1     |  
+| Midterm 1        | SAT 3/14  | SUN 3/15    |  
+| Midterm 2        | SAT 3/21  | SAT 3/21    |  
+| Midterm 3        | SAT 4/4   | SUN 4/5     | 
+| Postterm 1       | SAT 4/18  | SUN 4/19    |  
+| Postterm 2       | SAT 4/25  | SUN 4/26    |  
+| Postterm 3       | SAT 5/2   | SUN 5/3     |  
 
-You will see various exams (for example, Quest 1, 2 3, etc.) Each exam type (Quest, Midterm, Postterm) has three exams. The purpose of this is to allow you to retake the exam (it will be a simliar but different exam each time), and earn credit on questions you missed in the previous exam. Quest 1, Midterm 1, and Postterm 1 are all mandatory; however, each retake is optional.
+You will see several exams throughout the semester (for example, Quest 1, Quest 2, Quest 3, etc.). Each exam type (Quest, Midterm, and Postterm) has three versions. The purpose of this structure is to allow you to retake an exam—each retake will be similar in content but not identical—and earn credit for questions you missed on earlier attempts. You are only required to complete questions that you did not receive full credit for in previous attempts of the same exam type.
 
-Note that on a retake exam, you only need to re-do the problems you did not receive full credit on. For instance, suppose you got full credit on Question-3 but lost points on Question-5, you could only redo Question-5. 
+Quest 1, Midterm 1, and Postterm 1 are mandatory. All subsequent retakes are optional. However, if you do not take the first exam of a given type, you will lose the opportunity to take any retakes for that exam type.
 
-Moreover, we will keep your question-wise maximum score between the original Quest and the retake, for each problem. For instance, suppose you re-took question 5 but scored lesser points, we'll just keep your score from the original Quest instead!
+On a retake exam, you only need to redo the problems on which you did not receive full credit. For example, if a Quest has five questions and you received full credit on Questions 1 through 4 but lost points on Question 5, you only need to redo Question 5 on the retake to earn full credit.
 
-The best way to prepare is to utilize the practice exams posted under `resources` and the practice exams we'll release on PrairieLearn. 
+We will keep the maximum score you earn on each question across all attempts. For instance, if you retake Question 5 but score fewer points than on your original attempt on Question 5, we will keep your higher score from the original exam.
 
-If you are an incomplete student, remember that you can only take the first exams (Quest 1, Midterm 1, and Postterm 1).
+The best way to prepare is to use the practice exams posted under the Resources section and the practice exams we release on PrairieLearn.
+
+If you are an incomplete student, you may only take the first exams (Quest 1, Midterm 1, and Postterm 1).
 
 ## Exam Clobber Policy
 If your percentage score on a latter exam is higher than your percentage score on a prior exam, then we'll replace your percentage score on the prior exam with the percentage score on the latter exam. The clobber can never hurt your grade: if you score lower, no replacement will be done.
@@ -239,64 +239,63 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form][(https://forms.gle/FaAosSEWXKGWoXoV9](https://forms.gle/Wym7CXpRUBH2UhZk9)).
+For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/Wym7CXpRUBH2UhZk9).
 
-You're also allowed to retroactively obtain extensions without penalty: i.e., you can obtain an extension even after the deadline of a lab/project, but not after the extended deadline for that assignment.
+You are also allowed to request extensions retroactively without penalty. That is, you may request an extension even after the original deadline of a lab or project, but not after the extended deadline for that assignment.
 
-<b>NOTE: If you added the course late, please use your updated deadline as the 'original due date'.</b>
+<b>NOTE: If you added the course late, please use your updated deadline as the “original due date.”</b>
 
-<b>Important: While extensions may not be visible on PrairieLearn/Gradescope (a.k.a your assignments may be marked as 'Late'), they will be factored in when we compute your final grade. Extensions are AUTO-approved after filling in the form. You may immediately continue/start on the assignment. </b>
+<b>Important: Extensions may not be visible on PrairieLearn or Gradescope (for example, your assignment may appear as “Late”), but they will be factored in when we compute your final grade. Extensions are automatically approved after submitting the form, and you may immediately continue or start working on the assignment.</b>
+
+If you require an extension longer than what is available through the Extension Request Form, please visit Support OH.
 
 ### Lab Extensions
 
-We understand that circumstances may arise that may cause you to not be able to meet assignment deadlines.<br /><br />
+We understand that circumstances may arise that prevent you from meeting assignment deadlines.<br /><br />
 
-The policy for extension requests on labs are as follows:
+The policy for extension requests on labs is as follows:
 
-- An extension request will grant you an extra lab section in order to complete the lab assignment without any lateness penalties.
-- The extended deadline for labs, as noted above under the "Lab Section", is 48 hours (with the exception of labs due on Friday which are given 72-hours -- extended until Monday), at 2359 hrs; for projects, it's 72h after the original deadline.
- <!-- For instance, if you ask for an extension on a , which is generally due on the day that lab-13 is scheduled, then it will now be due the day that lab-14 is scheduled. So, if you are getting an exttension on Lab X, then the new deadline for Lab X is when Lab X + 2 is released at 11:59PM. However, if you are trying to obtain lab attendance credit, then it is due by 5PM when Lab X + 2 is released. -->
+- An extension request grants you an additional lab section to complete the lab assignment without any lateness penalties.
+- The extended deadline for labs, as noted above under the “Lab Section,” is 48 hours (ending at 23:59); for projects, the extension is 72 hours after the original deadline.
+ <!-- For example, if you request an extension on a lab that is normally due on the day Lab X is scheduled, it will instead be due on the day Lab X+2 is released at 11:59 PM. However, if you are seeking lab attendance credit, the submission must be made by 5:00 PM on the day Lab X+2 is released. -->
 
 - There are two exceptions:
-    - Practice Midterm will only be given a 48-hour extension (for both the coding and non-coding)
-    - Practice Postterm will only be given a 48-hour extension (for both the coding and non-coding)
-
+    - Practice Midterm will only be granted a 48-hour extension (for both coding and non-coding portions).
+    - Practice Postterm will only be granted a 48-hour extension (for both coding and non-coding portions).
 
 ### Project Extensions
 
-The policy for project extension requests on projects are as follows:
+The policy for project extension requests on projects is as follows:
 
-- An extension request will automatically extend your project submission deadline by 72 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, then the project will now be due by Thursday at midnight.
+- An extension request will automatically extend your project submission deadline by 72 hours without any lateness penalties. For instance, if a project is due by Monday at midnight, it will now be due by Thursday at midnight.
 
 ### Lecture Quiz Extensions
 
-- An extension request will automatically extend your lecture quiz submission deadline and will be due the day of the following lecture at 11:59PM. For example, if the lecture quiz was due on Monday, with the extension, it is now due on Wednesday. Similar to the Lab extension and deadline policy, the Lecture Quiz, with the extension is due when Lecture Quiz X + 2 is released.
-
+- An extension request will automatically extend your lecture quiz submission deadline to the day of the following lecture at 11:59 PM. For example, if a lecture quiz was originally due on Monday, the extended deadline would be Wednesday at 11:59 PM. Similar to the lab extension and deadline policy, a lecture quiz with an extension is due when Lecture Quiz X + 2 is released.
 
 ### Discussion Worksheet Extensions
 
-- An extension request will automatically extend your discussion worksheet submission deadline and will be due the day of following discussion section at 11:59PM. For example, if the worksheet was due on 9/11, it is now due on 9/18. 
-
+- An extension request will automatically extend your discussion worksheet submission deadline to the day of the following discussion section at 11:59 PM. For example, if a worksheet was originally due on 9/11, the new due date would be 9/18 at 11:59 PM.
 
 ## Lateness Penalties
 
-Any labs or projects that are submitted late will receive half-credit, regardless of how late the submission is. For the project-4 and the final project, late submissions may not be graded since our grading staff has limited availability. If you need an extension, please utilize the extension request forms. No extensions are provided for Reading Quizzes, and late submissions are not graded.
+Any labs or projects submitted late will receive half credit, regardless of how late the submission is. For Project 4 and the Final Project, late submissions may not be graded at all due to limited grading staff availability. If you need an extension, please use the extension request form. No extensions are provided for Reading Quizzes, and late submissions will not be graded.
 
-If, after exhausting the initial extension, you still need more time — please visit us in Support-OH, wherein we'll help you come up with a plan to catch up! Lateness penalties *only* apply if you *don't* obtain an extension (by filling out the form or visiting Student Support-OH) *and* turn in work late. 
+If, after using the initial extension, you still need additional time, please visit Support OH, where we will help you come up with a plan to catch up. Lateness penalties apply *only* if you do *not* obtain an extension (by submitting the form or visiting Support OH) *and* submit the work late.
 
 ## DSP Accommodations
 
-If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to Victoria [jedi_force@](mailto:jedi_force@berkeley.edu).
+If you have a DSP accommodation through the university, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to the Head TA [naheejeong@](mailto:naheejeong@berkeley.edu).
 
-UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
+UC Berkeley is committed to creating a learning environment that meets the needs of its diverse student body, including students with disabilities. If you anticipate or experience any barriers to learning in this course, please feel welcome to discuss your concerns with me.
 
-If you have a disability, or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with me so we can develop an implementation plan together."
+If you have a disability or think you may have a disability, you can work with the Disabled Students' Program (DSP) to request an official accommodation. The Disabled Students' Program (DSP) is the campus office responsible for authorizing disability-related academic accommodations, in cooperation with the students themselves and their instructors. You can find more information about DSP, including contact information and the application process here: dsp.berkeley.edu. If you have already been approved for accommodations through DSP, please meet with me so we can develop an implementation plan together."
 
 Students who need academic accommodations or have questions about their accommodations should contact DSP, located at 260 César Chávez Student Center. Students may call 642-0518 (voice), 642-6376 (TTY), or e-mail dsp@berkeley.edu(link sends e-mail)
 
 ## Academic Integrity
 
-Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material- and as both current and former students, we understand that oftentimes, juggling various assignment deadlines while keeping up with material can be stressful. If you feel overwhelmed in this class, reach out! We are here to support you.
+Let’s get honest about being honest. It is truly a disappointment to catch students cheating. All we really want is for you to learn the material - and as both current and former students, we understand that oftentimes, juggling various assignment deadlines while keeping up with material can be stressful. If you feel overwhelmed in this class, reach out! We are here to support you.
 
 Here, we will lay out our academic integrity policies which can help you distinguish between cheating (prohibited) and collaboration (encouraged.)
 
@@ -327,7 +326,7 @@ We highly encourage collaboration, so let’s define what that means. Discussing
 
 **What happens if you cheat?**
 
-We take cheating extremely seriously, and will almost always pursue the strictest consequences available to us. We have advanced cheating detection software, and will routinely run this to detect cheating. These are sophisticated tools that are pretty hard to fool- any attempts to obfuscate your code to avoid detection will likely fail, and instead may result in additional consequences.
+We take cheating extremely seriously and will almost always pursue the strictest consequences available to us. We have advanced cheating detection software, and we will routinely run this to detect cheating. These are sophisticated tools that are pretty hard to fool- any attempts to obfuscate your code to avoid detection will likely fail, and instead may result in additional consequences.
 
 Note that you will always have a chance to explain your actions before any action is taken. If you admit that you cheated, we will apply the necessary sanctions. If you'd like to meet with us to discuss your situation, we'll set up a meeting. Afterwards, if staff determines that you cheated and you don't agree with that decision, we'll proceed with a Student-Conduct Investigation.
 
@@ -354,11 +353,11 @@ We recognize that Computer Science is a demographically skewed field in the Unit
 Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/programs-resources/academic-accommodations-hub).
 
 
-
 ## EECS Student Climate & Incident Reporting Form
 
-It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
+It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
