@@ -331,7 +331,7 @@
             (Recording: Talk 5)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
+      <td><b>QUEST 2</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -399,7 +399,7 @@
             (Recording: Talk 6)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>QUEST 2</b><br/><b>QUEST 3</b></td> <!-- Assignment / Exam -->
+      <td><b>QUEST 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
