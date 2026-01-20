@@ -142,13 +142,15 @@ These assignments will be one of the best ways for you to apply what you have le
 * **Project Parties**: These will serve as specialized OH wherein you'll be able to work with your peers <b>(within the limits of our collaboration policies)</b> and seek assistance from course-staff on whatever project is currently assigned. We strongly encourage you to attend project parties as they will help you finish your assignments on time. Project Parties will take place during scheduled Lab Times or special Office Hours. Dates and locations will be listed on the daily schedule and announced in the weekly blast.
 
 Here are the following Project Parties times and dates:
-| Project Parties                               |  Date | Time  |  Room  |
-| :----:                                        |  :----:        |  :----:   |
-| Project 1 Party: Wordle™-lite                       | TBD | TBD  |  TBD  |
-| Project 2 Party: Spelling-Bee                       | TBD | TBD  |  TBD  |
-| Project 3 Party: 2048                               | TBD | TBD  |  TBD  |
-| Project 5 Party: Final Project                      | TBD | TBD  |  TBD  |
-| Project 5 Party: Final Project                      | TBD | TBD  |  TBD  |
+
+| Project Parties                  | Date | Time | Room |
+| :----:                           | :----: | :----: | :----: |
+| Project 1 Party: Wordle™-lite    | TBD  | TBD  | TBD  |
+| Project 2 Party: Spelling-Bee    | TBD  | TBD  | TBD  |
+| Project 3 Party: 2048            | TBD  | TBD  | TBD  |
+| Project 5 Party: Final Project   | TBD  | TBD  | TBD  |
+| Project 5 Party: Final Project   | TBD  | TBD  | TBD  |
+
 
 ## Exams
 
@@ -357,3 +359,4 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
