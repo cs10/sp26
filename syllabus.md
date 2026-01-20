@@ -56,13 +56,13 @@ This semester, CS10 will run fully in-person. Consequently, remote (or hybrid) s
 
 ### Lecture 
 
-Lectures will be live and in-person in Dwinelle, Room 145 on Mondays, Wednesdays, and Fridays from 1PM to 2PM. They will be recorded, and recordings will be posted on Bcourses (see `platforms` section). 
+Lectures will be live and in-person in Evans Hall, Room 60 on Mondays, Wednesdays, and Fridays from 10AM to 11AM. They will be recorded, and recordings will be posted on bCourses (see `platforms` section). 
 
 Lectures aim to introduce concepts and provide a "big-picture view" of material from a theoretical standpoint. Most lectures will be live and in person. However, some lectures may be pre-recorded, which you can watch on your free time, and there will be an assignment that corresponds to it to test your conceptual understanding. Attendance for these days will be through the "Lecture Quiz" solely (and no iClicker is needed for those days).
 
 <b>Attendance is required, and credit for attending will be through the iClicker app. </b> If you cannot attend lecture, you will need to complete the corresponding "Lecture Quiz" on Gradescope for attendance credit. The corresponding lecture quiz will be due on Gradescope the day of the **following lecture** at 2359hrs. On this quiz, we will ask questions about lecture content. You may fill out our general extension form (linked below) to receive an automatic extension for lecture quizzes.
 
-<b>Only Monday and Wednesday lectures have required attendance.</b> Friday lectures will be optional and will have no lecture quiz. Some Friday lecture will be review where we prep for exams or go over the answers to an exam. The exam review Friday lectures will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
+<b>Only Monday and Wednesday lectures have required attendance.</b> Friday lectures (we call it the Friday "Talks"!) will be optional and will have no lecture quiz. Some Friday lecture will be review where we prep for exams or go over the answers to an exam. The exam review Friday lectures will not be recorded and will not have any slides, so we recommend coming in person to get the answers to exam questions!
 
 Your lowest 5 lecture-quiz scores will be automatically dropped — so you can miss up to 5 lectures (or skip 5 quizzes) without penalty, and you don’t need to inform us when you miss class. These drops are not intended to be “free-passes” to skip lectures: please reserve them for unexpected emergencies / sickness / … since missing out on content will only disrupt your learning. If there are extenuating circumstances which cause you to miss more than 5 lectures (like prolonged sickness, family emergencies, etc.) then you should visit Support OH.
 
@@ -72,19 +72,17 @@ Labs will be held synchronously and are the primary place you will learn to prog
 
 Lab assignments will be submitted to Gradescope. There will be <b>two assignments for each lab</b> (unless specified) that are a part of your grade: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Monday lab assignments are on Wednesday at 23:59, and Wednesday lab assignments are due on Friday at 23:59. There will be 21 graded labs (there's no submission or credit for lab-1 and this includes the three practice exam assignments you must complete but are only graded based on completion), and your lowest 2 lab assignment scores will be dropped.
+Tuesday lab assignments are due on Thursday at 23:59, and Thursday lab assignments are due the following Tuesday at 23:59. All labs that do not explicitly say “optional” on the schedule page will be graded. The graded labs include three practice exam assignments, which are graded based on completion only. However, there is no submission or credit for Lab 1. Your lowest 2 lab assignment scores will be dropped.
 
-There are two in-person lab options:
-1. Nahee's Lab on Monday and Wednesday from 3 to 5PM in Barker Hall, Room 101
-2. Marius's Lab on Monday and Wednesday from 8 to 10PM in Soda Hall, Room 438
+This semester, there is only one lab option, which is in person: Tuesday and Thursday from 3–5 PM in Soda Hall, Room 430.
 
-<b>Attendance to lab sections are required and part of your grade.</b> You can miss up to 5 lab sections without penalty so you do not need to inform us when you cannot attend lab. If there are extenuating circumstances which cause you to miss more than 5 lab sections (like prolonged sickness, family emergencies, etc.) then you should visit Support OH. Please note, the 5 "skip days" for lab sections only applies to attendance. You are still required to complete and submit the lab assignment. Lab attendance will be tracked through iClicker. 
+<b>Attendance at lab sections is required and counts toward your grade.</b> You may miss up to 5 lab sessions without penalty, so you do not need to inform us if you cannot attend a lab. If extenuating circumstances cause you to miss more than 5 lab sections (such as prolonged illness or family emergencies), you should visit Support OH. Please note that the 5 “skip days” apply only to attendance—you are still required to complete and submit the lab assignment. Lab attendance will be tracked using iClicker.
 
-If you cannot attend a lab section for a particular day or in general for the semester, then you can earn lab attendance credit through submitting the lab assignment early. So if you either cannot reguarly attend lab, or if you miss a day, the lab will be due earlier. For example, if Lab X is due on Wednesday at 23:59PM, but you did not attend lab in-person; then, the deadline for you to submit Lab X is Wednesday at 3PM (the time before the lab section). There will be no lab attendance grade for Lab-1.
+If you cannot attend a lab section on a particular day or are unable to attend labs regularly for the semester, you can earn lab attendance credit by submitting the lab assignment "early." In other words, if you miss a lab or cannot regularly attend in person, the lab will be due earlier. For example, if Lab X is due on Tuesday at 23:59 but you did not attend the in-person lab, your deadline to submit Lab X would be Thursday at 3:00 PM (before the lab section). There is no lab attendance grade for Lab 1.
 
-The lab attendance grade is based only on whether your attend class or submit the assignment early (if you did not attend in-person), and the lab attendance grade is part of your overall attendance and participation grade. The grade you earn on a lab assignment is tracked separately under your lab grade.
+The lab attendance grade is based solely on whether you attend lab in person or submit the assignment early if you do not attend. This attendance grade is part of your overall attendance and participation grade. The actual grade you earn on a lab assignment is tracked separately under your lab grade.
 
-Some lab days will be Project Parties or Catch-up Sessions. On these days, there will be no attendance required, and it will be optional office hours.
+Some lab days will be designated as Project Parties or Catch-up Sessions. On these days, attendance is not required, and labs will function as optional office hours. We will explicitly label all optional labs, discussions, and lectures as “optional.”
 
 ### Discussion Sections
 
@@ -361,6 +359,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected and welcome.  We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
