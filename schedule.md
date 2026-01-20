@@ -225,7 +225,7 @@
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=6>Week 4</td> <!-- Week Number -->
+      <td class="schedule-week-num" rowspan=5>Week 4</td> <!-- Week Number -->
       <th>Mon 2/9</th> <!-- Date -->
       <td>Lec 6. Algorithms<br/>
             <!-- <a href="">(Recording 6)</a> -->
@@ -270,13 +270,6 @@
       <td>Talk 4. Quest 1 Preview<br/>
             <!-- <a href="">(Recording: Talk 4)</a> -->
             (Recording: Talk 4)</td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Sat 2/14</th> <!-- Date -->
-      <td></td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><b>QUEST 1</b></td> <!-- Assignment / Exam -->
@@ -359,14 +352,7 @@
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=7>Week 6</td> <!-- Week Number -->
-      <th>Sun 2/22</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>QUEST 2</b></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 6</td> <!-- Week Number -->
       <th>Mon 2/23</th> <!-- Date -->
       <td>Lec 9. Recursion II (Fractals)<br/>
             <!-- <a href="">(Recording 9)</a> -->
@@ -413,14 +399,7 @@
             (Recording: Talk 6)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Sat 2/28</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>QUEST 3</b></td> <!-- Assignment / Exam -->
+      <td><b>QUEST 2</b><br/><b>QUEST 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -441,14 +420,7 @@
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=6>Week 7</td> <!-- Week Number -->
-      <th>Sun 3/1</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>QUEST 3</b></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 7</td> <!-- Week Number -->
       <th>Mon 3/2</th> <!-- Date -->
       <td>Lec 11. Testing + 2048<br/>
             <!-- <a href="">(Recording 11)</a> -->
@@ -495,7 +467,7 @@
             (Recording: Talk 7)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
+      <td><b>QUEST 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -516,7 +488,7 @@
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=6>Week 8</td> <!-- Week Number -->
+      <td class="schedule-week-num" rowspan=5>Week 8</td> <!-- Week Number -->
       <th>Mon 3/9</th> <!-- Date -->
       <td>Lec 13. Guest Lecture: 
 Saving the World with Computing<br/>
@@ -564,13 +536,6 @@ Saving the World with Computing<br/>
             (Recording: Talk 8)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Sat 3/14</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
       <td><b>MIDTERM 1</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
@@ -592,14 +557,7 @@ Saving the World with Computing<br/>
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=7>Week 9</td> <!-- Week Number -->
-      <th>Sun 3/15</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>MIDTERM 1</b></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 9</td> <!-- Week Number -->
       <th>Mon 3/16</th> <!-- Date -->
       <td>Lec 15. Programming Paradigms<br/>
             <!-- <a href="">(Recording 15)</a> -->
@@ -646,14 +604,7 @@ Saving the World with Computing<br/>
             (Recording: Talk 9)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Sat 3/21</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>MIDTERM 2</b></td> <!-- Assignment / Exam -->
+      <td><b>MIDTERM 1</b><br/><b>MIDTERM 2</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -713,7 +664,7 @@ Saving the World with Computing<br/>
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=6>Week 11</td> <!-- Week Number -->
+      <td class="schedule-week-num" rowspan=5>Week 11</td> <!-- Week Number -->
       <th>Mon 3/30</th> <!-- Date -->
       <td>Lec 17. Python I - Intro<br/>
             <!-- <a href="">(Recording 17)</a> -->
@@ -760,13 +711,6 @@ Saving the World with Computing<br/>
             (Recording: Talk 10)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Sat 4/4</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
       <td><b>MIDTERM 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
@@ -788,14 +732,7 @@ Saving the World with Computing<br/>
   </thead>
   <tbody class="content">
     <tr>
-      <td class="schedule-week-num" rowspan=6>Week 12</td> <!-- Week Number -->
-      <th>Sun 4/5</th> <!-- Date -->
-      <td></td><!-- Lecture -->
-      <td></td><!-- Lab -->
-      <td></td> <!-- Discussion -->
-      <td><b>MIDTERM 3</b></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
+      <td class="schedule-week-num" rowspan=5>Week 12</td> <!-- Week Number -->
       <th>Mon 4/6</th> <!-- Date -->
       <td>Lec 19. Concurrency<br/>
             <!-- <a href="">(Recording 19)</a> -->
@@ -842,7 +779,7 @@ Saving the World with Computing<br/>
             (Recording: Talk 11)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b></td> <!-- Assignment / Exam -->
+      <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b><br/><b>MIDTERM 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
