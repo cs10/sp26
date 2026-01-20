@@ -467,7 +467,7 @@
             (Recording: Talk 7)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>QUEST 3</b></td> <!-- Assignment / Exam -->
+      <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -604,7 +604,7 @@ Saving the World with Computing<br/>
             (Recording: Talk 9)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>MIDTERM 1</b><br/><b>MIDTERM 2</b></td> <!-- Assignment / Exam -->
+      <td><b>MIDTERM 2</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -779,7 +779,7 @@ Saving the World with Computing<br/>
             (Recording: Talk 11)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b><br/><b>MIDTERM 3</b></td> <!-- Assignment / Exam -->
+      <td><b>Proj 4 Comments Due</b><br/><b>Proj 4 Makeup Presentations Due</b><br/></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -848,7 +848,7 @@ Human-computer interaction (HCI)<br/>
             (Recording: Talk 12)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
+      <td><b>POSTTERM 1</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -916,7 +916,7 @@ Human-computer interaction (HCI)<br/>
             (Recording: Talk 13)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
+      <td><b>POSTTERM 2</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -984,7 +984,7 @@ Human-computer interaction (HCI)<br/>
             (Recording: Talk 14)</td><!-- Lecture -->
       <td></td><!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment / Exam -->
+      <td><b>POSTTERM 3</b></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
