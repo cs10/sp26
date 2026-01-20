@@ -13,7 +13,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-    <a href="#week16">Jump to Current Week</a>
+    <a href="#week1">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -31,37 +31,37 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 1</td> <!-- Week Number -->
-        <th>Mon 8/25</th> <!-- Date -->
+        <th>Mon 1/19</th> <!-- Date -->
+        <td colspan="4">HOLIDAY</td><!-- Lecture -->
+    </tr>
+    <tr>
+        <th>Tue 1/20</th> <!-- Date -->
         <td colspan="4">NO CLASS</td><!-- Lecture -->
     </tr>
     <tr>
-        <th>Tue 8/26</th> <!-- Date -->
-        <td colspan="4">NO CLASS</td><!-- Lecture -->
-    </tr>
-    <tr>
-        <th>Wed 8/27</th> <!-- Date -->
+        <th>Wed 1/21</th> <!-- Date -->
         <td>Lec 1. Welcome + Abstraction<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 1)</a><br/>   
             <a href="https://drive.google.com/drive/folders/1ZMfd23KyrJEl9Yw-g_8sXZF7Td4G7_IT">(Slides 1)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577011">(Lecture Quiz 1)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/lab_directory">Lab 1: Welcome to Snap!</a></td><!-- Lab -->
+        <td>No Lab</td><!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="https://forms.gle/jVGq66oNwRavc6Ut9">Presemester Survey Released</a><br/><b>Due (9/5)</b></td> <!-- Assignments -->
+        <td></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 8/28</th> <!-- Date -->
+        <th>Thu 1/22</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td><a href="/fa25/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
+        <td><a href="/sp26/lab_directory">Lab 1: Welcome to Snap!</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 8/29</th> <!-- Date -->
-        <td>Talk 1: Ask Me Anything<br/>
+        <th>Fri 1/23</th> <!-- Date -->
+        <td>Talk 1: Fun "Ask me anything", abstraction, using python (but NOT making blocks)<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 1)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
+        <td><a href="/sp26/discussion">Disc 1. Welcome to CS10!</a></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
@@ -84,41 +84,48 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 2</td> <!-- Week Number -->
-        <th>Mon 9/01</th> <!-- Date -->
-        <td colspan="4">NO CLASS</td><!-- Lecture -->
-    </tr>
-    <tr>
-        <th>Tue 9/02</th> <!-- Date -->
-        <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Wed 9/03</th> <!-- Date -->
+        <th>Mon 1/26</th> <!-- Date -->
         <td>Lec 2. Functions<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 2)</a><br/>      
             <a href="https://drive.google.com/drive/folders/1pMyNs4LdwbUrsJmK0m--iMUKwAbXLxmv">(Slides 2)</a><br/>
             <a href="https://www.gradescope.com/courses/1098053/assignments/6577012">(Lecture Quiz 2)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/lab_directory">Lab 2. Build Your Own Blocks</a></td><!-- Lab -->
+        <td></td><!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 9/04</th> <!-- Date -->
+        <th>Tue 1/27</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td><a href="/fa25/discussion">Disc 2. Numeral Rep + Control Structures</a></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-        <th>Fri 9/05</th> <!-- Date -->
-        <td>Talk 2: Making Functions<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 2)</a></td> <!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Wed 1/28</th> <!-- Date -->
+        <td>Lec 3. Abstraction II<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 3)</a><br/>       
+            <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 3)</a><br/>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577022">(Lecture Quiz 3)</a>
+            </td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignments -->
+    </tr>
+    <tr>
+        <th>Thu 1/29</th> <!-- Date -->
+        <td></td><!-- Lecture -->
+        <td><a href="/sp26/labs/lab02">Lab 2. Build Your Own Blocks</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
+        <td></td> <!-- Assignment / Exam -->
+    </tr>
+    <tr>
+        <th>Fri 1/30</th> <!-- Date -->
+        <td>Talk 2: Conditionals, Truth Tables, Predicates, Binary/Dec/Hex conversion<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 2)</a></td> <!-- Lecture -->
+        <td><a href="/sp26/labs/lab03">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
+        <td><a href="/sp26/discussion">Disc 2. Number Rep & Control Structures</a></td> <!-- Discussion -->
+        <td><a href="/sp26/projects/"><b>Proj 1: Wordle™ Lite Released</b></a></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -139,47 +146,47 @@
   <tbody class="content">
     <tr>
         <td class="schedule-week-num" rowspan=5>Week 3</td> <!-- Week Number -->
-        <th>Mon 9/08</th> <!-- Date -->
-        <td>Lec 3. Abstraction II <br/>
-            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 3)</a><br/>       
-            <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 3)</a><br/>
-            <a href="https://www.gradescope.com/courses/1098053/assignments/6577022">(Lecture Quiz 3)</a>
+        <th>Mon 2/02</th> <!-- Date -->
+        <td>Lec 4. Iteration NEW<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 4)</a><br/>       
+            <a href="https://drive.google.com/drive/folders/1RF-WgoEka4wRVxbfZNjLLlKcw7_O7BhN">(Slides 4)</a><br/>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577022">(Lecture Quiz 4)</a>
             </td> <!-- Lecture -->
-        <td><a href="/fa25/labs/lab03">Lab 3. Conditionals, Reporters, & Testing</a></td> <!-- Lab -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
-        <td><a href="/fa25/projects/"><b>Proj 1: Worldle Released</b></a><br/><b>Due (9/17)</b></td> <!-- Assignment / Exam -->
+        <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Tue 9/09</th> <!-- Date -->
+        <th>Tue 2/03</th> <!-- Date -->
         <td></td><!-- Lecture -->
         <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Wed 9/10 </th> <!-- Date -->
-        <td>Lec 4. Computing in Education<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 14)</a><br/>      
-            <a href="https://drive.google.com/drive/folders/1X88498eFRUfx33I3f2fkE7uh5yh1rHfq">(Slides 4)</a><br/>
-            <a href="https://www.gradescope.com/courses/1098053/assignments/6577029">(Lecture Quiz 14)</a></td> <!-- Lecture -->
-        <td>Catch-up Lab (optional)</td> <!-- Lab -->
+        <th>Wed 2/04</th> <!-- Date -->
+        <td>Lec 5. Variables, Lists, Scope, HOFs<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 5)</a><br/>      
+            <a href="https://drive.google.com/drive/folders/1X88498eFRUfx33I3f2fkE7uh5yh1rHfq">(Slides 5)</a><br/>
+            <a href="https://www.gradescope.com/courses/1098053/assignments/6577029">(Lecture Quiz 5)</a></td> <!-- Lecture -->
+        <td></td> <!-- Lab -->
         <td></td> <!-- Discussion -->
         <td></td> <!-- Assignments -->
     </tr>
     <tr>
-        <th>Thu 9/11</th> <!-- Date -->
+        <th>Thu 2/05</th> <!-- Date -->
         <td></td><!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td><a href="/fa25/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists </a></td> <!-- Discussion -->
+        <td><a href="/sp26/labs/lab04">Lab 4. Iteration NEW</a></td> <!-- Lab -->
+        <td></td> <!-- Discussion -->
         <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
-        <th>Fri 9/12</th> <!-- Date -->
-        <td>Talk 3: Quest 1 Preview I<br/>
+        <th>Fri 2/06</th> <!-- Date -->
+        <td>Talk 3: HOFs<br/>
             <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 3)</a></td> <!-- Lecture -->
-        <td></td> <!-- Lab -->
-        <td></td> <!-- Discussion -->
-        <td></td> <!-- Assignment / Exam -->
+        <td><a href="/sp26/labs/lab05">Lab 5. Lists & HOFs</a></td> <!-- Lab -->
+        <td><a href="/sp26/discussion">Disc 3. Domain/Range, Scoping, Iteration, Lists</a></td> <!-- Discussion -->
+        <td><a href="/sp26/projects/"><b>Proj 1 DUE</b></a></td> <!-- Assignment / Exam -->
     </tr>
   </tbody>
 </table>
@@ -200,49 +207,49 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan="5">Week 4</td>
-      <th>Mon 9/15</th>
-      <td>Lec 5. Iteration<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 5)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1MaDZp9WNo0GXgw5uo4_J9eyCBJN3B2MO">(Slides 5)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 5)</a>
-      </td>
-      <td><a href="/fa25/labs/lab04">Lab 4. Iteration</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 9/16</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Wed 9/17</th>
-      <td>Lec 6. Lists, Scoping, &amp; HOFs<br/>
+      <th>Mon 2/09</th>
+      <td>Lec 6. Algorithms<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 6)</a><br/>
-          <a href="https://drive.google.com/drive/folders/196es2A1TR6iijUgHt10i0ocd43R2mpb-">(Slides 6)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 6)</a>
-      </td>
-      <td><a href="/fa25/lab_directory">Lab 5. Lists &amp; HOFs</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 1 Due</b></a></td> <!-- Assignment / Exam -->
-    </tr>
-    <tr>
-      <th>Thu 9/18</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 4. HOFs + Iteration</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 9/19</th>
-      <td>Talk 4: Quest 1 Preview II<br/>
-          (No Recording: Talk 4)
+          <a href="https://drive.google.com/drive/folders/1MaDZp9WNo0GXgw5uo4_J9eyCBJN3B2MO">(Slides 6)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577004">(Lecture Quiz 6)</a>
       </td>
       <td></td>
       <td></td>
+      <td><a href="/sp26/projects/"><b>Proj 2 Released</b></a></td>
+    </tr>
+    <tr>
+      <th>Tue 2/10</th>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 2/11</th>
+      <td>Lec 7. Algorithmic Complexity<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 7)</a><br/>
+          <a href="https://drive.google.com/drive/folders/196es2A1TR6iijUgHt10i0ocd43R2mpb-">(Slides 7)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577027">(Lecture Quiz 7)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 2/12</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab06">Lab 6. Algorithms</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 2/13</th>
+      <td>Talk 4: Quest 1 Preview<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 4)</a>
+      </td>
+      <td><a href="/sp26/labs/lab07">Lab 7. Algorithmic Complexity</a></td>
+      <td><a href="/sp26/discussion">Disc 4. HOFs + Algorithmic Complexity</a></td>
+      <td><b>QUEST 1</b></td>
     </tr>
   </tbody>
 </table>
@@ -263,48 +270,41 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 5</td>
-      <th>Mon 9/22</th>
-      <td>Lec 7. Higher-Order Functions<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 7)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1iS1S4LZDQRcLPEKvXD9Ow-psaU99ZDQv">(Slides 7)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577043">(Lecture Quiz 7)</a>
+      <th>Mon 2/16</th>
+      <td colspan="4">HOLIDAY</td>
+    </tr>
+    <tr>
+      <th>Tue 2/17</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 2/18</th>
+      <td>Lec 8. Recursion I (Functional)<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 8)</a><br/>
+          <a href="https://drive.google.com/drive/folders/197HzbXqlMuS8XyTilFZuNkjYIH8dpTUi?usp=sharing">(Slides 8)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 8)</a>
       </td>
-      <td><a href="/fa25/lab_directory">Lab 6. Functions as Data, HOFs</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 2: Spelling Bee Released</b></a></td>
-    </tr>
-    <tr>
-      <th>Tue 9/23</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Wed 9/24</th>
-      <td>Lec 8. Social Implications of Computing: Privacy<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 6)</a><br/>
-          <a href="https://drive.google.com/drive/folders/197HzbXqlMuS8XyTilFZuNkjYIH8dpTUi?usp=sharing">(Slides 6)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577006">(Lecture Quiz 6)</a>
-      </td>
-      <td>Catch-up Session (Optional)</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Thu 9/25</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 5. HOFs + Quest Review</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 9/26</th>
-      <td>Talk 5: Quest 1 Preview III<br/>
-            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 5)</a></td> <!-- Lecture -->  
       <td></td>
       <td></td>
       <td><b>QUEST 1</b></td>
+    </tr>
+    <tr>
+      <th>Thu 2/19</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab08">Lab 8. Boards</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 2/20</th>
+      <td>Talk 5: Quest 1 Review<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 5)</a></td> <!-- Lecture -->  
+      <td></td>
+      <td><a href="/sp26/discussion">Disc 5. Nested Lists + Recursion</a></td>
+      <td><b>QUEST 2</b></td>
     </tr>
   </tbody>
 </table>
@@ -325,48 +325,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 6</td>
-      <th>Mon 9/29</th>
-      <td>Lec 9. Algorithms<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 7)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1bR5cxJinuZZhVz4hKphD-HMS2nYD4d6Q?usp=sharing">(Slides 7)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577030">(Lecture Quiz 7)</a>
+      <th>Mon 2/23</th>
+      <td>Lec 9. Recursion II (Fractals)<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 9)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1bR5cxJinuZZhVz4hKphD-HMS2nYD4d6Q?usp=sharing">(Slides 9)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577030">(Lecture Quiz 9)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/1vBD-hA5BTbiBJIT-TstaM2wMu_bPbGt_XRrwTN-ZBWY/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 7. Algorithms</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 9/30</th>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 10/01</th>
-      <td>Lec 10. Testing + 2048<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 8)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1IqNGB45VcUVvBJNT60BRbuuIeTvARtR6?usp=sharing">(Slides 8)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577025">(Lecture Quiz 8)</a>
+      <th>Tue 2/24</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 2/25</th>
+      <td>Lec 10. Recursion III (Count Change)<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 10)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1IqNGB45VcUVvBJNT60BRbuuIeTvARtR6?usp=sharing">(Slides 10)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577025">(Lecture Quiz 10)</a>
       </td>
-      <td><a href="/fa25/labs/lab08">Lab 8. Testing + 2048</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 2/26</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab09">Lab 9. Trees & Fractals</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 10/02</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 6. HOFs, Lambdas, Debugging</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 10/03</th>
-      <td>Talk 6: Quest 1 Review<br/>
-            (No Recording: Talk 6)</td> <!-- Lecture -->    
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 2 Due</b></a><br/><b>QUEST 2</b></td>
+      <th>Fri 2/27</th>
+      <td>Talk 6: Quest 2 Review<br/>
+            <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 6)</a></td> <!-- Lecture -->    
+      <td><a href="/sp26/labs/lab10">Lab 10. Recursive Reporters</a></td>
+      <td><a href="/sp26/discussion">Disc 6. Recursion II</a></td>
+      <td><a href="/sp26/projects/"><b>Proj 2 Due</b></a><br/><b>QUEST 2</b><br/><b>QUEST 3</b></td>
     </tr>
   </tbody>
 </table>
@@ -387,48 +387,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 7</td>
-      <th>Mon 10/06</th>
-      <td>Lec 11. Recursion I (Functional)<br/>
+      <th>Mon 3/02</th>
+      <td>Lec 11. Testing + 2048<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 11)</a><br/>
           <a href="https://drive.google.com/drive/folders/1vDV-fA55SkL7dJHZdKUZfdKXdGQAwQQN?usp=sharing">(Slides 11)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577034">(Lecture Quiz 11)</a>
       </td>
-      <td><a href="https://drive.google.com/file/d/1SwyABpiF4cJ7ye2ks7Bh9qUG0EIvdqJj/view">Lab 9. Boards</a></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 3: 2048 Released</b></a><br/><b>Due (10/20)</b><br/><b>QUEST 2</b></td> <!-- Assignment / Exam -->  
+      <td></td>
+      <td><a href="/sp26/projects/"><b>Proj 3 Released</b></a></td>
     </tr>
     <tr>
-      <th>Tue 10/07</th>
+      <th>Tue 3/03</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 10/08</th>
-      <td>Lec 12. Recursion II (Fractals)<br/>
+      <th>Wed 3/04</th>
+      <td>Lec 12. Higher-Order Functions<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 12)</a><br/>
           <a href="https://drive.google.com/drive/folders/12thQx9MxMPzJdXqeCPusd1blSmgJBoMb?usp=sharing">(Slides 12)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577037">(Lecture Quiz 12)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/1_3KMAI3X7NQjgk9sa915RSrL8hryKjJVkGdhX1Bd6GE/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 10. Trees &amp; Fractals</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 3/05</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab11">Lab 11. Testing + 2048</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 10/09</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 7. Recursion I</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 10/10</th>
-      <td>Talk 7: Quest 2 Review<br/>
-          (No Recording: Talk 7)
+      <th>Fri 3/06</th>
+      <td>Talk 7: Recursion<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 7)</a>
       </td>
-      <td></td>
-      <td></td>
+      <td><a href="/sp26/labs/lab12">Lab 12. Functions as Data, HOFs</a></td>
+      <td><a href="/sp26/discussion">Disc 7. HOFs, Lambdas, Debugging</a></td>
       <td><b>QUEST 3</b></td>
     </tr>
   </tbody>
@@ -450,48 +450,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 8</td>
-      <th>Mon 10/13</th>
-      <td>Lec 13. Recursion III (Count Change)<br/>
+      <th>Mon 3/09</th>
+      <td>Lec 13. Guest Lecture: Saving the World with Computing<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 13)</a><br/>
           <a href="https://drive.google.com/drive/folders/1qeqivahR8DMR9xzT9hc_UfwOqO6bu4ax?usp=sharing">(Slides 13)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577044">(Lecture Quiz 13)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/10nYAb3jFIiGgPonkYgwgHSweWEjZs16sUPStrWK7UGw/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 11. Recursive Reporters</a></td>
+      <td></td>
+      <td></td>
+      <td><a href="/sp26/projects/"><b>Proj 4 Released</b></a></td>
+    </tr>
+    <tr>
+      <th>Tue 3/10</th>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Tue 10/14</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Wed 10/15</th>
-      <td>Lec 14. Algorithmic Complexity<br/>
+      <th>Wed 3/11</th>
+      <td>Lec 14. Computing in Education<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 14)</a><br/>
           <a href="https://drive.google.com/drive/folders/1uviKMrpsrj1_skyztQx-aqgAbwj0QLcN?usp=sharing">(Slides 14)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577028">(Lecture Quiz 14)</a>
       </td>
-      <td><a href="https://docs.google.com/document/d/1SQyE3IKAN4TfEr4untkEsx1mFVF-n6QEfQ_0TBGcp54/edit?tab=t.0#heading=h.ew4i1encppj2">Lab 12. Algorithmic Complexity</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 3/12</th>
+      <td></td>
+      <td>Midterm Practice</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 10/16</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 8. Algorithmic Complexity + Tree Recursion</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 10/17</th>
-      <td>Talk 8: Recursion II + Algorithmic Complexity<br/>
+      <th>Fri 3/13</th>
+      <td>Talk 8: Midterm 1 Preview<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 8)</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Midterm Practice</td>
+      <td><a href="/sp26/discussion">Disc 8. Midterm Preview</a></td>
+      <td><b>MIDTERM 1</b></td>
     </tr>
   </tbody>
 </table>
@@ -512,48 +512,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 9</td>
-      <th>Mon 10/20</th>
-      <td>Lec 15. Guest Lecture: Human–Computer Interaction (HCI)<br/>
+      <th>Mon 3/16</th>
+      <td>Lec 15. Programming Paradigms<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 15)</a><br/>
           <a href="https://drive.google.com/drive/folders/1Aazmz_UAl1aomvsqUFlXdcGC6eKGy2BH?usp=drive_link">(Slides 15)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577060">(Lecture Quiz 15)</a>
       </td>
-      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Midterm (no code)</a></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 3 Due</b></a><br/></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th>Tue 10/21</th>
+      <th>Tue 3/17</th>
       <td></td>
       <td></td>
       <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 4: Explore Released</b></a><br/><b>Due (10/29)</b></td>
+      <td></td>
     </tr>
     <tr>
-      <th>Wed 10/22</th>
-      <td>Lec 16. HCI (Tim Aveni) <br/>
+      <th>Wed 3/18</th>
+      <td>Lec 16. OOP in Snap!<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 16)</a><br/>
           <a href="https://drive.google.com/drive/folders/1xpzxhmuzQ5NIYwlHOOuw_jCgF4qFgLxA?usp=sharing">(Slides 16)</a><br/>
           <a href="">(Lecture Quiz 16)</a>
       </td>
-      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Midterm (fractal)</a></td>
       <td></td>
-      <td></td> <!-- Assignment / Exam -->  
+      <td></td>
+      <td><a href="/sp26/projects/"><b>Proj 3 Due</b></a></td> <!-- Assignment / Exam -->  
     </tr>
     <tr>
-      <th>Thu 10/23</th>
+      <th>Thu 3/19</th>
       <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 9. Midterm Preview</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 10/24</th>
-      <td>Talk 9: Midterm 1 Preview<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 9)</a></td>
-      <td></td>
+      <td>Project 4 // Work Session</td>
       <td></td>
       <td><b>MIDTERM 1</b></td>
+    </tr>
+    <tr>
+      <th>Fri 3/20</th>
+      <td>Talk 9: Midterm 1 Review<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 9)</a></td>
+      <td><a href="/sp26/labs/lab13">Lab 13. OOP in Snap!</a></td>
+      <td><a href="/sp26/discussion">Disc 9. OOP</a></td>
+      <td><b>MIDTERM 2</b></td>
     </tr>
   </tbody>
 </table>
@@ -574,49 +574,24 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 10</td>
-      <th>Mon 10/27</th>
-      <td>Lec 17. Concurrency<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 15)</a><br/>
-          <a href="https://drive.google.com/drive/u/0/folders/16iHvLf9PCE63J3XivvdS4s3D13_JXGlZ">(Slides 15)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577059">(Lecture Quiz 15)</a>
-      </td>
-      <td><a href="https://www.gradescope.com/courses/1098053/assignments/6577056/review_grades">Lab 13. Concurrency<br/>(Conceptual only)</a></td>
-      <td></td>
-      <td></td>
+      <th>Mon 3/23</th>
+      <td colspan="4">HOLIDAY</td>
     </tr>
     <tr>
-      <th>Tue 10/28</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <th>Tue 3/24</th>
+      <td colspan="4">HOLIDAY</td>
     </tr>
     <tr>
-      <th>Wed 10/29</th>
-      <td>Lec 18. OOP in Snap!<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 16)</a><br/>
-          <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=dan%20garcia&ProjectName=Fall%202025%20OOP%20fun%20in%20class">(Demo 16 - No Slides)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577079">(Lecture Quiz 16)</a>
-      </td>
-      <td><a href="/fa25/labs/lab14">Lab 14. OOP in Snap!</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 4 Due</b></a></td>
+      <th>Wed 3/25</th>
+      <td colspan="4">HOLIDAY</td>
     </tr>
     <tr>
-      <th>Thu 10/30</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 10. Proj 4 Presentations</a></td>
-      <td></td>
+      <th>Thu 3/26</th>
+      <td colspan="4">HOLIDAY</td>
     </tr>
     <tr>
-      <th>Fri 10/31</th>
-      <td>Talk 10: Midterm 2 Review<br/>
-          (No Recording: Talk 10</a>
-      </td>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Final Projects Released</b></a><br/><b>MIDTERM 2</b></td>
+      <th>Fri 3/27</th>
+      <td colspan="4">HOLIDAY</td>
     </tr>
   </tbody>
 </table>
@@ -637,50 +612,47 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 11</td>
-      <th>Mon 11/03</th>
-      <td>Lec 19. Python I – Intro<br/>
+      <th>Mon 3/30</th>
+      <td>Lec 17. Python I - Intro<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 17)</a><br/>
           <a href="https://drive.google.com/drive/u/0/folders/1-Odp1zmmdr5ImbHw6k2LqtE6rOFO3fWm">(Slides 17)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577083">(Lecture Quiz 17)</a>
       </td>
-      <td><a href="/fa25/labs/lab15">Lab 15. Welcome to Python</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 11/04</th>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 11/05</th>
-      <td>Lec 20. Python II – Data Structures<br/>
+      <th>Tue 3/31</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 4/01</th>
+      <td>Lec 18. Python II - Data Types & Structures<br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 18)</a><br/>
           <a href="https://drive.google.com/drive/u/0/folders/1cymjfiH3Ldrn99hCC74Wj7ctxF9TPXz5">(Slides 18)</a><br/>
           <a href="https://www.gradescope.com/courses/1098053/assignments/6577048">(Lecture Quiz 18)</a></td>
-      <td><a href="/fa25/labs/lab16">Lab 16. Lists and Mutability</a></td>
       <td></td>
       <td></td>
+      <td><a href="/sp26/projects/"><b>Proj 4 Due</b></a><br/><a href="/sp26/projects/"><b>Final Projects Released</b></a></td>
     </tr>
     <tr>
-      <th>Thu 11/06</th>
+      <th>Thu 4/02</th>
       <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 11. Welcome to Python</a></td>
-      <td></td>
+      <td><a href="/sp26/labs/lab14">Lab 14. Welcome to Python</a></td>
+      <td><a href="/sp26/projects/">Proj 4 Presentations</a></td>
+      <td><a href="/sp26/projects/">Proj 4 Presentations</a></td>
     </tr>
     <tr>
-      <th>Fri 11/07</th>
-      <td>Talk 11: Midterm 3 Review<br/>
-          (No Recording: Talk 11)</td>
+      <th>Fri 4/03</th>
+      <td>Talk 10: Midterm 2 review<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 10)</a></td>
+      <td><a href="/sp26/labs/lab15">Lab 15. Data Structures in Python</a></td>
       <td></td>
-      <td></td>
-      <td><a href="/fa25/projects/">Proj 4 Comments Due</a><br/>
-          <a href="/fa25/projects/">Proj 4 Makeup Presentations Due</a><br/>
-          <a href="/fa25/projects/">Final Project Proposals Due</a><br/>
-          <b>MIDTERM 3</b></td>
+      <td><b>MIDTERM 3</b></td>
     </tr>
   </tbody>
 </table>
@@ -701,46 +673,56 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 12</td>
-      <th>Mon 11/10</th>
-      <td>Lec 21. AI Video Generation (Bella) <br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 21)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1yXM2gsE4jsCO1_5J4tSBMViX6IbvhD_D?usp=drive_link">(Slides 21)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/7143927">(Lecture Quiz 21)</a>
-      </td>
-      <td><a href="/fa25/labs/lab17">Lab 17. Data Structures in Python</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
-    </tr>
-    <tr>
-      <th>Tue 11/11</th>
-      <td colspan="4">NO CLASS</td>
-    </tr>
-    <tr>
-      <th>Wed 11/12</th>
-      <td>Lec 22. Programming Paradigms<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 22)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1l1pNdsfMMWigJ4xB3s6_HwLn8mnsLjRU?usp=drive_link">(Slides 22)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 22)</a>
-      </td>
-      <td><a href="/fa25/labs/lab18">Lab 18. Text Processing in Python</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
-    </tr>
-    <tr>
-      <th>Thu 11/13</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 12. Data Structures in Python</a></td>
-      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
-    </tr>
-    <tr>
-      <th>Fri 11/14</th>
-      <td>Talk 12: Python Live Coding<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 12)</a>
+      <th>Mon 4/06</th>
+      <td>Lec 19. Concurrency<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 19)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1yXM2gsE4jsCO1_5J4tSBMViX6IbvhD_D?usp=drive_link">(Slides 19)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/7143927">(Lecture Quiz 19)</a>
       </td>
       <td></td>
       <td></td>
-      <td><a href="/fa25/projects/">Final Project Meetings</a></td>
+      <td><a href="/sp26/projects/">Final Project Proposal Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Tue 4/07</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="/sp26/projects/">Final Project Proposal Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Wed 4/08</th>
+      <td>Lec 20. Gen AI<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 20)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1l1pNdsfMMWigJ4xB3s6_HwLn8mnsLjRU?usp=drive_link">(Slides 20)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577047">(Lecture Quiz 20)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td><a href="/sp26/projects/">Final Project Proposal Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Thu 4/09</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab16">Lab 16. Concurrency</a></td>
+      <td></td>
+      <td><a href="/sp26/projects/">Final Project Proposals Due</a><br/><a href="/sp26/projects/">Proj 4 Comments Due</a><br/><a href="/sp26/projects/">Proj 4 Makeup Presentations Due</a></td>
+    </tr>
+    <tr>
+      <th>Fri 4/10</th>
+      <td>Talk 11: Python live coding<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 11)</a>
+      </td>
+      <td>CU + Post Term Practice</td>
+      <td><a href="/sp26/discussion">Disc 12: Data Structures in Python</a></td>
+      <td><a href="/sp26/projects/">Final Project Proposal Meetings</a></td>
+    </tr>
+    <tr>
+      <th>Sat 4/11</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b>MIDTERM 3</b></td>
     </tr>
   </tbody>
 </table>
@@ -761,48 +743,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 13</td>
-      <th>Mon 11/17</th>
-      <td>Lec 23. Generative AI<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 23)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1_aS9Z63gj2rkRhYr38xoAcAuyjqehK5X?usp=drive_link">(Slides 23)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 23)</a>
-      </td>
-      <td><a href="https://docs.google.com/document/d/1G0QyfJ8zRrZQ5KLzmtalvNjOBs0z5QHbfXqeFWj84kM/edit?tab=t.0#heading=h.tu8drwh3omqx">Lab 19. Data Science</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 11/18</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Wed 11/19</th>
-      <td>Lec 24. Ethics in AI<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 24)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1CVZJWEKwJDovWhi8xvyWyUnPFL1jx9jg?usp=drive_link">(Slides 24)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 24)</a>
-      </td>
-      <td><a href="https://us.prairielearn.com/pl/course_instance/192475/assessments">Practice Postterm (no code + code)</a></td>
-      <td></td>
-      <td><a href="/fa25/projects/"><b>Proj 4 Resubmissions Due</b></a></td>
-    </tr>
-    <tr>
-      <th>Thu 11/20</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 13. Concurrency + Postterm Practice</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 11/21</th>
-      <td>Talk 13: Postterm Preview<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 13)</a>
+      <th>Mon 4/13</th>
+      <td>Lec 21. Guest Lecture: Human-computer interaction (HCI)<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 21)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1_aS9Z63gj2rkRhYr38xoAcAuyjqehK5X?usp=drive_link">(Slides 21)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577081">(Lecture Quiz 21)</a>
       </td>
       <td></td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 4/14</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 4/15</th>
+      <td>Lec 22. Ethics in AI<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 22)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1CVZJWEKwJDovWhi8xvyWyUnPFL1jx9jg?usp=drive_link">(Slides 22)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 22)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Thu 4/16</th>
+      <td></td>
+      <td><a href="/sp26/labs/lab17">Lab 17. Text Processing in Python</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Fri 4/17</th>
+      <td>Talk 12: POSTTERM 1 PREVIEW<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 12)</a>
+      </td>
+      <td><a href="/sp26/labs/lab18">Lab 18. FUN Data Science</a></td>
+      <td><a href="/sp26/discussion">Disc 13: Concurrency + Postterm Practice</a></td>
       <td><b>POSTTERM 1</b></td>
     </tr>
   </tbody>
@@ -824,35 +806,49 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=6>Week 14</td>
-      <th>Mon 11/24</th>
-      <td>Lec 25. Python III – Game Theory<br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 25)</a><br/>
-          <a href="https://drive.google.com/drive/folders/17GcLVgPDtacDOrcVoCca9DkWHxYhP6Jr?usp=drive_link">(Slides 25)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 25)</a>
+      <th>Mon 4/20</th>
+      <td>Lec 23. Python III - Game Theory<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 23)</a><br/>
+          <a href="https://drive.google.com/drive/folders/17GcLVgPDtacDOrcVoCca9DkWHxYhP6Jr?usp=drive_link">(Slides 23)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577076">(Lecture Quiz 23)</a>
       </td>
-      <td>Project 5 Party<br/>
-          (Optional)</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 11/25</th>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 11/26</th>
-      <td colspan="4">NO CLASS</td>
+      <th>Tue 4/21</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th>Thu 11/27</th>
-      <td colspan="4">NO CLASS</td>
+      <th>Wed 4/22</th>
+      <td>Lec 24. Python IV – OOP<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 24)</a><br/>
+          <a href="https://drive.google.com/drive/folders/1CVZJWEKwJDovWhi8xvyWyUnPFL1jx9jg?usp=drive_link">(Slides 24)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577077">(Lecture Quiz 24)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
-      <th>Fri 11/28</th>
-      <td colspan="4">NO CLASS</td>
+      <th>Thu 4/23</th>
+      <td></td>
+      <td>Catchup</td>
+      <td></td>
+      <td><b>POSTTERM 1</b></td>
+    </tr>
+    <tr>
+      <th>Fri 4/24</th>
+      <td>Talk 13: POSTTERM 1 REVIEW<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 13)</a>
+      </td>
+      <td></td>
+      <td><a href="/sp26/discussion">Disc 14. Postterm Practice</a></td>
+      <td><b>POSTTERM 2</b></td>
     </tr>
   </tbody>
 </table>
@@ -873,48 +869,48 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Week 15</td>
-      <th>Mon 12/01</th>
-      <td>Lec 26. Alumni Panel<br/>
+      <th>Mon 4/27</th>
+      <td>Lec 25. Alumni Panel<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 25)</a><br/>
+          <a href="https://docs.google.com/presentation/d/1VhCulWZmBBCiIbiqgzCpSNoG03UkNfsFR-2paSl6T7Q/edit?usp=sharing">(Slides 25)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 25)</a>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Tue 4/28</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th>Wed 4/29</th>
+      <td>Lec 26. Conclusion and Farewell<br/><br/>
           <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 26)</a><br/>
-          <a href="https://docs.google.com/presentation/d/1VhCulWZmBBCiIbiqgzCpSNoG03UkNfsFR-2paSl6T7Q/edit?usp=sharing">(Slides 26)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577058">(Lecture Quiz 26)</a>
+          <a href="https://drive.google.com/drive/folders/1wGA9aByrWClTdocxSn0B4aiceK54cPtU?usp=drive_link">(Slides 26)</a><br/>
+          <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 26)</a>
       </td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Lab 20 OPTIONAL. Snap + Python Libraries</a><br/>Project 5 Party</td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Tue 12/02</th>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 12/03</th>
-      <td>Lec 27. Conclusion and Farewell<br/><br/>
-          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording 27)</a><br/>
-          <a href="https://drive.google.com/drive/folders/1wGA9aByrWClTdocxSn0B4aiceK54cPtU?usp=drive_link">(Slides 27)</a><br/>
-          <a href="https://www.gradescope.com/courses/1098053/assignments/6577082">(Lecture Quiz 27)</a>
-      </td>
-      <td>Project 5 Party</td>
+      <th>Thu 4/30</th>
+      <td></td>
+      <td>Project Work Session</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 12/04</th>
-      <td></td>
-      <td></td>
-      <td><a href="/fa25/discussion">Disc 15. Postterm Practice + Donuts</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <th>Fri 12/05</th>
-      <td>POSTTERM 1 REVIEW<br/>
-          (No Recording: Postterm 1 Review)</td>
-      <td></td>
-      <td></td>
-      <td><b>POSTTERM 2</b></td>
+      <th>Fri 5/01</th>
+      <td>Talk 14: POSTTERM 2 REVIEW<br/>
+          <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 14)</a></td>
+      <td>Practice Postterm</td>
+      <td><a href="/sp26/discussion">Disc 15: Review</a></td>
+      <td><b>POSTTERM 2</b><br/><b>POSTTERM 3</b></td>
     </tr>
   </tbody>
 </table>
@@ -936,35 +932,35 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>RRR Week</td>
-      <th>Mon 12/08</th>
-      <td>Postterm 2 Review Session <b>(Soda 606, 3-5PM)</b></td>
-      <td></td>
-      <td></td>
-      <td>Proj 5 due</td>
-    </tr>
-    <tr>
-      <th>Tue 12/09</th>
+      <th>Mon 5/04</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Wed 12/10</th>
+      <th>Tue 5/05</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 12/11</th>
+      <th>Wed 5/06</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Fri 12/12</th>
+      <th>Thu 5/07</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><a href="/sp26/projects/">Final Project Due</a></td>
+    </tr>
+    <tr>
+      <th>Fri 5/08</th>
       <td></td>
       <td></td>
       <td></td>
@@ -989,41 +985,36 @@
   <tbody class="content">
     <tr>
       <td class="schedule-week-num" rowspan=5>Finals Week</td>
-      <th>Mon 12/15</th>
+      <th>Mon 5/11</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Tue 12/16</th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>Release Grades<br/>Final Project Regrades</td>
-    </tr>
-    <tr>
-      <th>Wed 12/17</th>
+      <th>Tue 5/12</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Thu 12/18</th>
+      <th>Wed 5/13</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th>Fri 12/19</th>
+      <th>Thu 5/14</th>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
-  </tbody>
-</table>
-
-<br/>
+    <tr>
+      <th>Fri 5/15</th>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
