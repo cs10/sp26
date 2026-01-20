@@ -67,7 +67,7 @@
     </tr>
     <tr>
         <th>Fri 1/23</th> <!-- Date -->
-        <td>Talk 1: Fun "Ask me anything", abstraction, using python (but NOT making blocks)<br/>
+        <td>Talk 1: Fun "Ask me anything", abstraction, using Snap! (but NOT making blocks)<br/>
             <!-- <a href="https://bcourses.berkeley.edu/courses/1547647/external_tools/90481">(Recording: Talk 1)</a> -->
             (Recording: Talk 1)
         </td> <!-- Lecture -->
