@@ -72,7 +72,7 @@ Labs will be held synchronously and are the primary place you will learn to prog
 
 Lab assignments will be submitted to Gradescope. There will be <b>two assignments for each lab</b> (unless specified) that are a part of your grade: one wherein you'll submit the code you wrote, and one with conceptual checkoff problems. If you get a full score on both Gradescope assignments, you will get credit for that lab. Labs are graded on an all-or-nothing basis, which means if you don't get a full score on either (or both) of the two assignments, then you won't get credit for that lab. In our lab sections, TAs and Tutors will be available to help you with the problems.
 
-Tuesday lab assignments are due on Thursday at 23:59, and Thursday lab assignments are due the following Tuesday at 23:59. All labs that do not explicitly say “optional” on the schedule page will be graded. The graded labs include three practice exam assignments, which are graded based on completion only. However, there is no submission or credit for Lab 1. Your lowest 2 lab assignment scores will be dropped.
+Tuesday lab assignments are due on Thursday at 23:59, and Thursday lab assignments are due the following Tuesday at 23:59. All labs that do not explicitly say “optional” on the schedule page will be graded, with the exception of Lab 1. Lab 1 is not optional, but there is no submission or credit. Attendance is not required for optional labs. The graded labs include two practice exam assignments, which are graded based on completion only. **Your lowest two lab assignment scores will be dropped.**
 
 This semester, there is only one lab option, which is in person: Tuesday and Thursday from 3–5 PM in Soda Hall, Room 430.
 
@@ -359,4 +359,5 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
