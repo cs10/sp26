@@ -317,7 +317,7 @@
     <tr>
       <th>Thu 2/19</th>
       <td></td>
-      <td></td>
+      <td>Catch-up Session (Optional)</td>
       <td>Disc 5. Nested Lists + Recursion I</td>
       <td></td>
     </tr>
@@ -499,7 +499,7 @@
     <tr>
       <th>Tue 3/10</th>
       <td></td>
-      <td>Midterm Practice</td>
+      <td>Midterm Practice (no code)</td>
       <td></td>
       <td></td>
     </tr>
@@ -518,7 +518,7 @@
     <tr>
       <th>Thu 3/12</th>
       <td></td>
-      <td>Midterm Practice</td>
+      <td>Midterm Practice (code)</td>
       <td>Disc 8. Midterm Preview</td>
       <td></td>
     </tr>
@@ -566,7 +566,7 @@
     <tr>
       <th>Tue 3/17</th>
       <td></td>
-      <td>Project 4 // Work Session</td>
+      <td>Project 4 Work Session (Optional)</td>
       <td></td>
       <td></td>
     </tr>
@@ -758,7 +758,7 @@
     <tr>
       <th>Thu 4/9</th>
       <td></td>
-      <td>CU + Post Term Practice</td>
+      <td>Catch-up Session (Optional)</td>
       <td>Disc 10: Data Structures in Python + Concurrency</td>
       <td><b>Final Project Proposal Meetings</b></td>
     </tr>
@@ -825,7 +825,7 @@
     <tr>
       <th>Thu 4/16</th>
       <td></td>
-      <td>Lab 18. FUN Data Science</td>
+      <td>Postterm Practice</td>
       <td>Disc 11: Postterm Practice</td>
       <td></td>
     </tr>
@@ -873,7 +873,7 @@
     <tr>
       <th>Tue 4/21</th>
       <td></td>
-      <td>Catchup</td>
+      <td>Lab 18. Linear Recursion in Python</td>
       <td></td>
       <td></td>
     </tr>
@@ -892,7 +892,7 @@
     <tr>
       <th>Thu 4/23</th>
       <td></td>
-      <td></td>
+      <td>Lab 19. FUN Data Science</td>
       <td>Disc 12. Review</td>
       <td></td>
     </tr>
@@ -940,7 +940,7 @@
     <tr>
       <th>Tue 4/28</th>
       <td></td>
-      <td>Project Work Session</td>
+      <td>Lab 20. Snap + Python Libraries (Optional)</td>
       <td></td>
       <td></td>
     </tr>
@@ -959,7 +959,7 @@
     <tr>
       <th>Thu 4/30</th>
       <td></td>
-      <td>Practice Postterm</td>
+      <td>Project Work Session (Optional)</td>
       <td>Disc 15: Review</td>
       <td></td>
     </tr>
