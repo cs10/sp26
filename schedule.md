@@ -321,7 +321,7 @@
       <th>Thu 2/19</th> <!-- Date -->
       <td></td><!-- Lecture -->
       <td></td><!-- Lab -->
-      <td>Disc 5. Nested Lists + Recursion</td> <!-- Discussion -->
+      <td>Disc 5. Nested Lists + Recursion I</td> <!-- Discussion -->
       <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -769,7 +769,7 @@ Saving the World with Computing<br/>
       <th>Thu 4/9</th> <!-- Date -->
       <td></td><!-- Lecture -->
       <td>CU + Post Term Practice</td><!-- Lab -->
-      <td>Disc 12: Data Structures in Python</td> <!-- Discussion -->
+      <td>Disc 10: Data Structures in Python + Concurrency</td> <!-- Discussion -->
       <td><b>Final Project Proposal Meetings</b></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -838,7 +838,7 @@ Human-computer interaction (HCI)<br/>
       <th>Thu 4/16</th> <!-- Date -->
       <td></td><!-- Lecture -->
       <td>Lab 18. FUN Data Science</td><!-- Lab -->
-      <td>Disc 13: Concurrecy + Postterm Practice</td> <!-- Discussion -->
+      <td>Disc 11: Postterm Practice</td> <!-- Discussion -->
       <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
@@ -906,7 +906,7 @@ Human-computer interaction (HCI)<br/>
       <th>Thu 4/23</th> <!-- Date -->
       <td></td><!-- Lecture -->
       <td></td><!-- Lab -->
-      <td>Disc 14. Postterm Practice</td> <!-- Discussion -->
+      <td>Disc 12. Review</td> <!-- Discussion -->
       <td></td> <!-- Assignment / Exam -->
     </tr>
     <tr>
