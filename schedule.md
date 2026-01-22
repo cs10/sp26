@@ -48,7 +48,7 @@
         Lec 1. Welcome + Abstraction<br/>
         (Recording 1)<br/>
         <a href="https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing">(Slides 1)</a><br/>
-        (Lecture Quiz 1)
+        <a href="https://www.gradescope.com/courses/1232070">(Lecture Quiz 1)</a>
       </td>
       <td></td>
       <td></td>
