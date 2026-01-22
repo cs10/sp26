@@ -46,8 +46,8 @@
       <th>Wed 1/21</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        [(Recording 1)](https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing)<br/>
-        (Slides 1)<br/>
+        (Recording 1)<br/>
+        <a href="https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing">(Slides 1)</a><br/>
         (Lecture Quiz 1)
       </td>
       <td></td>
