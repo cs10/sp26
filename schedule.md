@@ -57,7 +57,7 @@
     <tr>
       <th>Thu 1/22</th>
       <td></td>
-      <td><a href="_labs/lab01.md"</a>Lab 1. Welcome to Snap!</td>
+      <td><a href="labs/lab01.md"</a>Lab 1. Welcome to Snap!</td>
       <td>Disc 1. Welcome to CS 10!</td>
       <td></td>
     </tr>
