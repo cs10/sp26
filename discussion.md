@@ -40,10 +40,10 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 1 Discussion</td>
       <td>Welcome to CS10!</td>
-      <td>Worksheet 1</td>
+      <td><a href="https://docs.google.com/document/d/11twmuzCB3SBBbqiKrmMr3HN4Pz418KLg/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 1</a></td>
       <td>Solutions 1</td>
-      <td>Recording 1</td>
-      <td>Slides 1</td>
+      <td>No Recording</td>
+      <td><a href="https://docs.google.com/presentation/d/1tver-ZIc256nob7S2MWixYG0lCWpUp2NqllKHGRtnCE/edit?usp=sharing">Slides 1</a></td>
     </tr> 
     <tr>
       <td>Week 2 Discussion</td>
@@ -159,3 +159,4 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
