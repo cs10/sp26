@@ -241,7 +241,7 @@ Your total points will be rounded to the nearest integer when we compute letter 
 
 ## Extension Requests
 
-For all extension requests on any assignment, please use the [Extension Request Form](https://forms.gle/Wym7CXpRUBH2UhZkH2UhZk9).
+For all extension requests on any assignment, please use the [Extension Request Form](https://docs.google.com/forms/d/e/1FAIpQLScPTrPlg44L01eK4M3mkkcRnHGK634C7HLQv-wJj4EBz5NiRw/viewform?usp=header).
 
 You are also allowed to request extensions retroactively without penalty. That is, you may request an extension even after the original deadline of a lab or project, but not after the extended deadline for that assignment.
 
@@ -359,6 +359,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
