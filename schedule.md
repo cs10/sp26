@@ -46,9 +46,9 @@
       <th>Wed 1/21</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        <a>(Recording 1)</a><br/>
-        <a>(Slides 1)</a><br/>
-        <a>(Lecture Quiz 1)</a>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording 1)</a><br/>
+        <a href="https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing">(Slides 1)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070">(Lecture Quiz 1)</a>
       </td>
       <td></td>
       <td></td>
@@ -57,7 +57,7 @@
     <tr>
       <th>Thu 1/22</th>
       <td></td>
-      <td><a>Lab 1: Welcome to Snap!</a></td>
+      <td><a href="/sp26/labs/lab01">Lab 1: Welcome to Snap!</a></td>
       <td>Disc 1. Welcome to CS 10!</td>
       <td></td>
     </tr>
@@ -65,7 +65,7 @@
       <th>Fri 1/23</th>
       <td>
         Talk 1. Fun "Ask me anything", abstraction, using Snap! (but NOT making blocks)<br/>
-        <a>(Recording: Talk 1)</a><br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording: Talk 1)</a><br/>
       </td>
       <td></td>
       <td></td>
