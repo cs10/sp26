@@ -46,9 +46,9 @@
       <th>Wed 1/21</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording 1)</a><br/>
-        <a href="https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing">(Slides 1)</a><br/>
-        <a href="https://www.gradescope.com/courses/1232070">(Lecture Quiz 1)</a>
+        <a href="">(Recording 1)</a><br/>
+        <a href="">(Slides 1)</a><br/>
+        <a href="">(Lecture Quiz 1)</a>
       </td>
       <td></td>
       <td></td>
@@ -57,7 +57,7 @@
     <tr>
       <th>Thu 1/22</th>
       <td></td>
-      <td><a href="/sp26/labs/lab01">Lab 1: Welcome to Snap!</a></td>
+      <td><a href="">Lab 1: Welcome to Snap!</a></td>
       <td>Disc 1. Welcome to CS 10!</td>
       <td></td>
     </tr>
@@ -65,7 +65,7 @@
       <th>Fri 1/23</th>
       <td>
         Talk 1. Fun "Ask me anything", abstraction, using Snap! (but NOT making blocks)<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording: Talk 1)</a><br/>
+        <a href="">(Recording: Talk 1)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -94,9 +94,9 @@
       <th>Mon 1/26</th>
       <td>
         Lec 2. Functions<br/>
-        (Recording 2)<br/>
-        (Slides 2)<br/>
-        (Lecture Quiz 2)
+        <a href="">(Recording 2)</a><br/>
+        <a href="">(Slides 2)</a><br/>
+        <a href="">(Lecture Quiz 2)</a>
       </td>
       <td></td>
       <td></td>
@@ -105,7 +105,7 @@
     <tr>
       <th>Tue 1/27</th>
       <td></td>
-      <td>Lab 2. Build Your Own Blocks</td>
+      <td><a href="">Lab 2. Build Your Own Blocks</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -113,9 +113,9 @@
       <th>Wed 1/28</th>
       <td>
         Lec 3. Abstraction II<br/>
-        (Recording 3)<br/>
-        (Slides 3)<br/>
-        (Lecture Quiz 3)
+        <a href="">(Recording 3)</a><br/>
+        <a href="">(Slides 3)</a><br/>
+        <a href="">(Lecture Quiz 3)</a>
       </td>
       <td></td>
       <td></td>
@@ -124,7 +124,7 @@
     <tr>
       <th>Thu 1/29</th>
       <td></td>
-      <td>Lab 3. Conditionals, Reporters, & Testing</td>
+      <td><a href="">Lab 3. Conditionals, Reporters, & Testing</a></td>
       <td>Disc 2. Number Rep & Control Structures</td>
       <td></td>
     </tr>
@@ -132,7 +132,7 @@
       <th>Fri 1/30</th>
       <td>
         Talk 2. Conditionals, Truth Tables, Predicates, Binary/Dec/Hex conversion<br/>
-        (Recording: Talk 2)
+        <a href="">(Recording: Talk 2)</a>
       </td>
       <td></td>
       <td></td>
@@ -161,9 +161,9 @@
       <th>Mon 2/2</th>
       <td>
         Lec 4. Iteration NEW<br/>
-        (Recording 4)<br/>
-        (Slides 4)<br/>
-        (Lecture Quiz 4)
+        <a href="">(Recording 4)</a><br/>
+        <a href="">(Slides 4)</a><br/>
+        <a href="">(Lecture Quiz 4)</a>
       </td>
       <td></td>
       <td></td>
@@ -172,7 +172,7 @@
     <tr>
       <th>Tue 2/3</th>
       <td></td>
-      <td>Lab 4. Iteration NEW</td>
+      <td><a href="">Lab 4. Iteration NEW</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -180,9 +180,9 @@
       <th>Wed 2/4</th>
       <td>
         Lec 5. Variables, Lists, Scope, HOFs<br/>
-        (Recording 5)<br/>
-        (Slides 5)<br/>
-        (Lecture Quiz 5)
+        <a href="">(Recording 5)</a><br/>
+        <a href="">(Slides 5)</a><br/>
+        <a href="">(Lecture Quiz 5)</a>
       </td>
       <td></td>
       <td></td>
@@ -191,7 +191,7 @@
     <tr>
       <th>Thu 2/5</th>
       <td></td>
-      <td>Lab 5. Lists & HOFs</td>
+      <td><a href="">Lab 5. Lists & HOFs</a></td>
       <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
       <td></td>
     </tr>
@@ -199,7 +199,7 @@
       <th>Fri 2/6</th>
       <td>
         Talk 3. HOFs<br/>
-        (Recording: Talk 3)
+        <a href="">(Recording: Talk 3)</a>
       </td>
       <td></td>
       <td></td>
@@ -228,9 +228,9 @@
       <th>Mon 2/9</th>
       <td>
         Lec 6. Algorithms<br/>
-        (Recording 6)<br/>
-        (Slides 6)<br/>
-        (Lecture Quiz 6)
+        <a href="">(Recording 6)</a><br/>
+        <a href="">(Slides 6)</a><br/>
+        <a href="">(Lecture Quiz 6)</a>
       </td>
       <td></td>
       <td></td>
@@ -239,7 +239,7 @@
     <tr>
       <th>Tue 2/10</th>
       <td></td>
-      <td>Lab 6. Algorithms</td>
+      <td><a href="">Lab 6. Algorithms</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -247,9 +247,9 @@
       <th>Wed 2/11</th>
       <td>
         Lec 7. Algorithmic Complexity<br/>
-        (Recording 7)<br/>
-        (Slides 7)<br/>
-        (Lecture Quiz 7)
+        <a href="">(Recording 7)</a><br/>
+        <a href="">(Slides 7)</a><br/>
+        <a href="">(Lecture Quiz 7)</a>
       </td>
       <td></td>
       <td></td>
@@ -258,7 +258,7 @@
     <tr>
       <th>Thu 2/12</th>
       <td></td>
-      <td>Lab 7. Algorithmic Complexity</td>
+      <td><a href="">Lab 7. Algorithmic Complexity</a></td>
       <td>Disc 4. HOFs + Algorithmic Complexity</td>
       <td></td>
     </tr>
@@ -266,7 +266,7 @@
       <th>Fri 2/13</th>
       <td>
         Talk 4. Quest 1 Preview<br/>
-        (Recording: Talk 4)
+        <a href="">(Recording: Talk 4)</a>
       </td>
       <td></td>
       <td></td>
@@ -298,7 +298,7 @@
     <tr>
       <th>Tue 2/17</th>
       <td></td>
-      <td>Lab 8. Boards</td>
+      <td><a href="">Lab 8. Boards</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -306,9 +306,9 @@
       <th>Wed 2/18</th>
       <td>
         Lec 8. Recursion I (Functional)<br/>
-        (Recording 8)<br/>
-        (Slides 8)<br/>
-        (Lecture Quiz 8)
+        <a href="">(Recording 8)</a><br/>
+        <a href="">(Slides 8)</a><br/>
+        <a href="">(Lecture Quiz 8)</a>
       </td>
       <td></td>
       <td></td>
@@ -325,7 +325,7 @@
       <th>Fri 2/20</th>
       <td>
         Talk 5. Quest 1 Review<br/>
-        (Recording: Talk 5)
+        <a href="">(Recording: Talk 5)</a>
       </td>
       <td></td>
       <td></td>
@@ -354,9 +354,9 @@
       <th>Mon 2/23</th>
       <td>
         Lec 9. Recursion II (Fractals)<br/>
-        (Recording 9)<br/>
-        (Slides 9)<br/>
-        (Lecture Quiz 9)
+        <a href="">(Recording 9)</a><br/>
+        <a href="">(Slides 9)</a><br/>
+        <a href="">(Lecture Quiz 9)</a>
       </td>
       <td></td>
       <td></td>
@@ -365,7 +365,7 @@
     <tr>
       <th>Tue 2/24</th>
       <td></td>
-      <td>Lab 9. Trees & Fractals</td>
+      <td><a href="">Lab 9. Trees & Fractals</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -373,9 +373,9 @@
       <th>Wed 2/25</th>
       <td>
         Lec 10. Recursion III (Count Change)<br/>
-        (Recording 10)<br/>
-        (Slides 10)<br/>
-        (Lecture Quiz 10)
+        <a href="">(Recording 10)</a><br/>
+        <a href="">(Slides 10)</a><br/>
+        <a href="">(Lecture Quiz 10)</a>
       </td>
       <td></td>
       <td></td>
@@ -384,7 +384,7 @@
     <tr>
       <th>Thu 2/26</th>
       <td></td>
-      <td>Lab 10. Recursive Reporters</td>
+      <td><a href="">Lab 10. Recursive Reporters</a></td>
       <td>Disc 6. Recursion II</td>
       <td></td>
     </tr>
@@ -392,7 +392,7 @@
       <th>Fri 2/27</th>
       <td>
         Talk 6. Quest 2 Review<br/>
-        (Recording: Talk 6)
+        <a href="">(Recording: Talk 6)</a>
       </td>
       <td></td>
       <td></td>
@@ -421,9 +421,9 @@
       <th>Mon 3/2</th>
       <td>
         Lec 11. Testing + 2048<br/>
-        (Recording 11)<br/>
-        (Slides 11)<br/>
-        (Lecture Quiz 11)
+        <a href="">(Recording 11)</a><br/>
+        <a href="">(Slides 11)</a><br/>
+        <a href="">(Lecture Quiz 11)</a>
       </td>
       <td></td>
       <td></td>
@@ -432,7 +432,7 @@
     <tr>
       <th>Tue 3/3</th>
       <td></td>
-      <td>Lab 11. Testing + 2048</td>
+      <td><a href="">Lab 11. Testing + 2048</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -440,9 +440,9 @@
       <th>Wed 3/4</th>
       <td>
         Lec 12. Higher-Order Functions<br/>
-        (Recording 12)<br/>
-        (Slides 12)<br/>
-        (Lecture Quiz 12)
+        <a href="">(Recording 12)</a><br/>
+        <a href="">(Slides 12)</a><br/>
+        <a href="">(Lecture Quiz 12)</a>
       </td>
       <td></td>
       <td></td>
@@ -451,7 +451,7 @@
     <tr>
       <th>Thu 3/5</th>
       <td></td>
-      <td>Lab 12. Functions as Data, HOFs</td>
+      <td><a href="">Lab 12. Functions as Data, HOFs</a></td>
       <td>Disc 7. HOFs, Lambdas, Debugging</td>
       <td></td>
     </tr>
@@ -459,7 +459,7 @@
       <th>Fri 3/6</th>
       <td>
         Talk 7. Recursion<br/>
-        (Recording: Talk 7)
+        <a href="">(Recording: Talk 7)</a>
       </td>
       <td></td>
       <td></td>
@@ -488,9 +488,9 @@
       <th>Mon 3/9</th>
       <td>
         Lec 13. Guest Lecture: Saving the World with Computing<br/>
-        (Recording 13)<br/>
-        (Slides 13)<br/>
-        (Lecture Quiz 13)
+        <a href="">(Recording 13)</a><br/>
+        <a href="">(Slides 13)</a><br/>
+        <a href="">(Lecture Quiz 13)</a>
       </td>
       <td></td>
       <td></td>
@@ -507,9 +507,9 @@
       <th>Wed 3/11</th>
       <td>
         Lec 14. Computing in Education<br/>
-        (Recording 14)<br/>
-        (Slides 14)<br/>
-        (Lecture Quiz 14)
+        <a href="">(Recording 14)</a><br/>
+        <a href="">(Slides 14)</a><br/>
+        <a href="">(Lecture Quiz 14)</a>
       </td>
       <td></td>
       <td></td>
@@ -526,7 +526,7 @@
       <th>Fri 3/13</th>
       <td>
         Talk 8. Midterm 1 Preview<br/>
-        (Recording: Talk 8)
+        <a href="">(Recording: Talk 8)</a>
       </td>
       <td></td>
       <td></td>
@@ -555,9 +555,9 @@
       <th>Mon 3/16</th>
       <td>
         Lec 15. Programming Paradigms<br/>
-        (Recording 15)<br/>
-        (Slides 15)<br/>
-        (Lecture Quiz 15)
+        <a href="">(Recording 15)</a><br/>
+        <a href="">(Slides 15)</a><br/>
+        <a href="">(Lecture Quiz 15)</a>
       </td>
       <td></td>
       <td></td>
@@ -574,9 +574,9 @@
       <th>Wed 3/18</th>
       <td>
         Lec 16. OOP in Snap!<br/>
-        (Recording 16)<br/>
-        (Slides 16)<br/>
-        (Lecture Quiz 16)
+        <a href="">(Recording 16)</a><br/>
+        <a href="">(Slides 16)</a><br/>
+        <a href="">(Lecture Quiz 16)</a>
       </td>
       <td></td>
       <td></td>
@@ -585,7 +585,7 @@
     <tr>
       <th>Thu 3/19</th>
       <td></td>
-      <td>Lab 13. OOP in Snap!</td>
+      <td><a href="">Lab 13. OOP in Snap!</a></td>
       <td>Disc 9. OOP</td>
       <td></td>
     </tr>
@@ -593,7 +593,7 @@
       <th>Fri 3/20</th>
       <td>
         Talk 9. Midterm 1 Review<br/>
-        (Recording: Talk 9)
+        <a href="">(Recording: Talk 9)</a>
       </td>
       <td></td>
       <td></td>
@@ -661,9 +661,9 @@
       <th>Mon 3/30</th>
       <td>
         Lec 17. Python I - Intro<br/>
-        (Recording 17)<br/>
-        (Slides 17)<br/>
-        (Lecture Quiz 17)
+        <a href="">(Recording 17)</a><br/>
+        <a href="">(Slides 17)</a><br/>
+        <a href="">(Lecture Quiz 17)</a>
       </td>
       <td></td>
       <td></td>
@@ -672,7 +672,7 @@
     <tr>
       <th>Tue 3/31</th>
       <td></td>
-      <td>Lab 14. Welcome to Python</td>
+      <td><a href="">Lab 14. Welcome to Python</a></td>
       <td></td>
       <td><b>Proj 4 Due</b></td>
     </tr>
@@ -680,9 +680,9 @@
       <th>Wed 4/1</th>
       <td>
         Lec 18. Python II - Data Types & Structures<br/>
-        (Recording 18)<br/>
-        (Slides 18)<br/>
-        (Lecture Quiz 18)
+        <a href="">(Recording 18)</a><br/>
+        <a href="">(Slides 18)</a><br/>
+        <a href="">(Lecture Quiz 18)</a>
       </td>
       <td></td>
       <td></td>
@@ -691,7 +691,7 @@
     <tr>
       <th>Thu 4/2</th>
       <td></td>
-      <td>Lab 15. Data Structures in Python</td>
+      <td><a href="">Lab 15. Data Structures in Python</a></td>
       <td>Proj 4 Presentations</td>
       <td><b>Proj 4 Presentations</b></td>
     </tr>
@@ -699,7 +699,7 @@
       <th>Fri 4/3</th>
       <td>
         Talk 10. Midterm 2 review<br/>
-        (Recording: Talk 10)
+        <a href="">(Recording: Talk 10)</a>
       </td>
       <td></td>
       <td></td>
@@ -728,9 +728,9 @@
       <th>Mon 4/6</th>
       <td>
         Lec 19. Concurrency<br/>
-        (Recording 19)<br/>
-        (Slides 19)<br/>
-        (Lecture Quiz 19)
+        <a href="">(Recording 19)</a><br/>
+        <a href="">(Slides 19)</a><br/>
+        <a href="">(Lecture Quiz 19)</a>
       </td>
       <td></td>
       <td></td>
@@ -739,7 +739,7 @@
     <tr>
       <th>Tue 4/7</th>
       <td></td>
-      <td>Lab 16. Concurrency</td>
+      <td><a href="">Lab 16. Concurrency</a></td>
       <td></td>
       <td><b>Final Project Proposal Meetings</b></td>
     </tr>
@@ -747,9 +747,9 @@
       <th>Wed 4/8</th>
       <td>
         Lec 20. Gen AI<br/>
-        (Recording 20)<br/>
-        (Slides 20)<br/>
-        (Lecture Quiz 20)
+        <a href="">(Recording 20)</a><br/>
+        <a href="">(Slides 20)</a><br/>
+        <a href="">(Lecture Quiz 20)</a>
       </td>
       <td></td>
       <td></td>
@@ -766,7 +766,7 @@
       <th>Fri 4/10</th>
       <td>
         Talk 11. Python live coding<br/>
-        (Recording: Talk 11)
+        <a href="">(Recording: Talk 11)</a>
       </td>
       <td></td>
       <td></td>
@@ -795,9 +795,9 @@
       <th>Mon 4/13</th>
       <td>
         Lec 21. Guest Lecture: Human-computer interaction (HCI)<br/>
-        (Recording 21)<br/>
-        (Slides 21)<br/>
-        (Lecture Quiz 21)
+        <a href="">(Recording 21)</a><br/>
+        <a href="">(Slides 21)</a><br/>
+        <a href="">(Lecture Quiz 21)</a>
       </td>
       <td></td>
       <td></td>
@@ -806,7 +806,7 @@
     <tr>
       <th>Tue 4/14</th>
       <td></td>
-      <td>Lab 17. Text Processing in Python</td>
+      <td><a href="">Lab 17. Text Processing in Python</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -814,9 +814,9 @@
       <th>Wed 4/15</th>
       <td>
         Lec 22. Ethics in AI<br/>
-        (Recording 22)<br/>
-        (Slides 22)<br/>
-        (Lecture Quiz 22)
+        <a href="">(Recording 22)</a><br/>
+        <a href="">(Slides 22)</a><br/>
+        <a href="">(Lecture Quiz 22)</a>
       </td>
       <td></td>
       <td></td>
@@ -833,7 +833,7 @@
       <th>Fri 4/17</th>
       <td>
         Talk 12. POSTTERM 1 PREVIEW<br/>
-        (Recording: Talk 12)
+        <a href="">(Recording: Talk 12)</a>
       </td>
       <td></td>
       <td></td>
@@ -862,9 +862,9 @@
       <th>Mon 4/20</th>
       <td>
         Lec 23. Python III - Game Theory<br/>
-        (Recording 23)<br/>
-        (Slides 23)<br/>
-        (Lecture Quiz 23)
+        <a href="">(Recording 23)</a><br/>
+        <a href="">(Slides 23)</a><br/>
+        <a href="">(Lecture Quiz 23)</a>
       </td>
       <td></td>
       <td></td>
@@ -873,7 +873,7 @@
     <tr>
       <th>Tue 4/21</th>
       <td></td>
-      <td>Lab 18. Linear Recursion in Python</td>
+      <td><a href="">Lab 18. Linear Recursion in Python</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -881,9 +881,9 @@
       <th>Wed 4/22</th>
       <td>
         Lec 24. Python IV – OOP<br/>
-        (Recording 24)<br/>
-        (Slides 24)<br/>
-        (Lecture Quiz 24)
+        <a href="">(Recording 24)</a><br/>
+        <a href="">(Slides 24)</a><br/>
+        <a href="">(Lecture Quiz 24)</a>
       </td>
       <td></td>
       <td></td>
@@ -892,7 +892,7 @@
     <tr>
       <th>Thu 4/23</th>
       <td></td>
-      <td>Lab 19. FUN Data Science</td>
+      <td><a href="">Lab 19. FUN Data Science</a></td>
       <td>Disc 12. Review</td>
       <td></td>
     </tr>
@@ -900,7 +900,7 @@
       <th>Fri 4/24</th>
       <td>
         Talk 13. POSTTERM 1 REVIEW<br/>
-        (Recording: Talk 13)
+        <a href="">(Recording: Talk 13)</a>
       </td>
       <td></td>
       <td></td>
@@ -929,9 +929,9 @@
       <th>Mon 4/27</th>
       <td>
         Lec 25. Alumni Panel<br/>
-        (Recording 25)<br/>
-        (Slides 25)<br/>
-        (Lecture Quiz 25)
+        <a href="">(Recording 25)</a><br/>
+        <a href="">(Slides 25)</a><br/>
+        <a href="">(Lecture Quiz 25)</a>
       </td>
       <td></td>
       <td></td>
@@ -940,7 +940,7 @@
     <tr>
       <th>Tue 4/28</th>
       <td></td>
-      <td>Lab 20. Snap + Python Libraries (Optional)</td>
+      <td><a href="">Lab 20. Snap + Python Libraries (Optional)</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -948,9 +948,9 @@
       <th>Wed 4/29</th>
       <td>
         Lec 26. Conclusion and Farewell<br/>
-        (Recording 26)<br/>
-        (Slides 26)<br/>
-        (Lecture Quiz 26)
+        <a href="">(Recording 26)</a><br/>
+        <a href="">(Slides 26)</a><br/>
+        <a href="">(Lecture Quiz 26)</a>
       </td>
       <td></td>
       <td></td>
@@ -967,7 +967,7 @@
       <th>Fri 5/1</th>
       <td>
         Talk 14. POSTTERM 2 REVIEW<br/>
-        (Recording: Talk 14)
+        <a href="">(Recording: Talk 14)</a>
       </td>
       <td></td>
       <td></td>
