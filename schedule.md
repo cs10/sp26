@@ -65,7 +65,7 @@
       <th>Fri 1/23</th>
       <td>
         Talk 1. Fun "Ask me anything", abstraction, using Snap! (but NOT making blocks)<br/>
-        (Recording: Talk 1)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording: Talk 1)</a><br/>
       </td>
       <td></td>
       <td></td>
