@@ -230,13 +230,9 @@ You will be writing comments for two members of your group. These comments will 
 
 ### Make-up Presentations + Logistics
 - We will offer make-up presentations during the following times, but you must sign up using the Google Sheet link above:
-    - Ethan's office hours from 5 to 6PM on Monday, 11/3
-    - Marius's office hours from 2 to 3PM on Tuesday, 11/4
-    - Marius's office hours from 2 to 3PM on Thursday, 11/6
-    - Victoria's office hours from 1 to 2PM on Thursday, 11/6
-    - Aanvi's office hours from 12 to 1PM on Friday, 11/7
-    - Bella's office hours from 2 to 3PM on Friday, 11/7
-    - Bella's office hours from 3 to 4PM on Friday, 11/7
+    - TBD
+    - TBD
+    - TBD
 - Please note, you will need at least one other person to sign up for a presentation time.
     - If you only have one other person to do the presentation with, you will still need to gain points for the "Comments / Feedback" section.
 - To gain credit for the "Comments / Feedback" portion you will watch any [Ted Talk - Technology (click here)](https://www.ted.com/topics/technology), and upload meaningful comments onto EdStem while also providing a link to that Ted Talk. You can pick the Ted Talk you find the most interesting as long as it is technology related.
@@ -279,6 +275,7 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Peer Feedback Slips from Presentation  | +1.0     |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 
 
 
