@@ -1,7 +1,7 @@
 ---
 title: Project 5
 description: Final Project Proposals
-due: "11:59 PM PST on Monday, 11/10"
+due: "11:59 PM PST on Monday, 4/6"
 gradescope_assignment_id: 6577061
 submission_files:
     - N/A
@@ -15,8 +15,7 @@ submission_files:
     - Before meeting with a staff member, you must submit your proposal.
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
         - Click here for the [link to sign up](https://calendar.app.google/WX8udamw8kJxfDkZ9)
-    - Meetings will run at specific times during Week 12 (November 10th through November 14th)
-    - As of 11/3, there are only a limited number of spots, but we will add more.
+    - Meetings will run at specific times during Week 12 (April 6th through April 10th)
 
 ## Content
 
@@ -147,7 +146,7 @@ Here is an [example proposal](https://docs.google.com/document/d/1IBLwmPiIa9qJ3p
 
 ## Submission Guidelines
 
-By Monday, November 10th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
+By Monday, April 6th 11:59pm PST deadline, you and your partner(s) will submit your project proposal as a group on Gradescope. There is 1 assignment, and you should mention the date and time of the slot you signed up for in Question 2 of the assignment.
 
 The assignment has the proposal format in it, so your group will need to fill out all of the boxes with your answers to the questions listed in the previous section! Only one person from the group needs to submit. After you submit, please don’t forget to add your partner(s) to the submissions!
 
@@ -171,6 +170,7 @@ If your initial project proposal is approved:
 - Congrats! You can start working on your project. Note any questions (for resources, clarifications, or suggestions/advice on implementation) that you might have for your project TA/tutor, and bring them up during your proposal review session!
 
 As you begin to code, you may feel the need to make adjustments to your project and features (often because of time constraints or unexpected complexity). This is perfectly okay! You don’t have to run the changes by your project TA/tutor to start implementing them, but we do recommend that you check in with any adjustments to ensure that you are still within complexity guidelines.
+
 
 
 
