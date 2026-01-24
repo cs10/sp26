@@ -1,7 +1,7 @@
 ---
 title: Project 3
 description: 2048
-due: "11:59 PM PST on Monday, 10/20"
+due: "11:59 PM PST on Monday, 3/16"
 gradescope_assignment_id: 6577013
 submission_files:
     - starter.xml
@@ -209,4 +209,5 @@ See grading breakdown below:
 | no moves left for _ ? | Predicate | 4.67 |
 | Testing | Variable | 3.65 |
 | Feedback Form | N/A | 1 |
+
 
