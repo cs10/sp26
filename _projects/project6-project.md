@@ -1,7 +1,7 @@
 ---
 title: Project 5
 description: Final Project - The Project 
-due: "11:59 PM PST on Monday, 12/08"
+due: "11:59 PM PST on Monday, 5/4"
 gradescope_assignment_id: 5617938
 submission_files:
     - N/A
@@ -18,8 +18,8 @@ submission_files:
 >>README / documentation on your project
 >>Video of your group interacting with your project
 
->Project 6 Parties (during lab 3-5PM and 8-10PM -- you can come to both!)
->>Wednesday, 12/03 
+>Project 5 Parties (TBD)
+>>TBD
 
 ## Content
 
@@ -49,11 +49,11 @@ submission_files:
 
 | Group w/ 2 Features | Group w/ 3 Features |
 | :--------: | :-------: |
-| Feature 1: 11/24  |Feature 1: 11/21   |
-| Feature 2: 12/1  | Feature 2: 11/27  |
-| Full Project Submission Ready: 12/4  | Feature 3: 12/3  |
-| README and Submission: By 12/8  | Full Project Submission Ready: 12/5   |
-|   | README and Submission: By 12/8   |
+| Feature 1: 4/20  |Feature 1: 4/17   |
+| Feature 2: 4/27  | Feature 2: 4/23  |
+| Full Project Submission Ready: 4/30  | Feature 3: 4/29  |
+| README and Submission: By 5/4  | Full Project Submission Ready: 5/1   |
+|   | README and Submission: By 5/4   |
 
 
 ## Introduction
@@ -184,6 +184,7 @@ Please don't forget to add your partner(s) to the submissions! [How to add a par
 - [Bug Writeup](https://docs.google.com/document/d/1A6Tzm0UZte8gMnnmE2PV1J9xO__z6SaLkDVA6j3-I5s/edit?usp=sharing)
 - [Project Proposal Spec](https://cs10.org/fa25/projects/project6-proposals/) 
 - [Commenting Guide](https://docs.google.com/document/u/1/d/e/2PACX-1vSrtiqOPprVJ327uvCj9aRGXJYGP9hjOMJyz_vSxK237PNnTCYumvE24QYcbmA_Xy8voUPOqHzXtZOO/pub?embedded=true)
+
 
 
 
