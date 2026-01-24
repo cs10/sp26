@@ -1,7 +1,7 @@
 ---
 title: Project 4
 description: Tech in Context
-due: "11:59 PM PDT on Wednesday, 10/29"
+due: "11:59 PM PDT on Tuesday, 3/31"
 gradescope_assignment_id: 
 submission_files:
     - N/A
@@ -13,10 +13,10 @@ submission_files:
 
 - [Artifact + Documentation](https://www.gradescope.com/courses/1098053/assignments/6577001) Due: **Wednesday, 10/29 at 11:59 PM PT** on Gradescope
 
-- Presention on **Thursday, 10/30 at 4:00PM PT in Soda 430 and 5PM in Stanley 106** during discussion.
+- Presention on **Thursday, 4/2 at 11 AM PT in Soda 430** during discussion.
     - Information on Mmake-up presentations is provided below. 
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/1098053/assignments/6577075) Due: **Friday, 11/7 at 11:59 PM PT** on Gradescope
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/1098053/assignments/6577075) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
     - Be sure to upload the comments to [Ed Discussion, linked here](https://edstem.org/us/courses/83126/discussion/7236195)
       
 > Any important updates or clarifications will be made here.
@@ -60,9 +60,9 @@ We want this to be a fun and exciting project that allows you to pursue your int
 
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
-| Part 1: Artifact + Documentation | Gradescope | WED 10/30 AT 11:59 PM |
-| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | FRI 11/7 |
-| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 11/7 11:59 PM |
+| Part 1: Artifact + Documentation | Gradescope | TUES 3/31 AT 11:59 PM |
+| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | FRI 4/10 |
+| Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 4/10 11:59 PM |
 
 ## AI and Generative Tool Guidelines 
 
@@ -157,7 +157,7 @@ Your artifact should include details that express your technical topic in a crea
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 6-7 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 11 AM - 12 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
@@ -214,7 +214,7 @@ You will be writing comments for two members of your group. These comments will 
 
 ### Comments
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 11/7) .
+    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/10) .
         - Your response should be a short reflection based on two presentations you participated in. 
         - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
         - Your comments should include at least one question about the topic.
@@ -279,6 +279,7 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Peer Feedback Slips from Presentation  | +1.0     |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 
 
 
