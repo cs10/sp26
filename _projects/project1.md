@@ -1,7 +1,7 @@
 ---
 title: Project 1
 description: Wordle™-lite
-due: "11:59 PM PST on Wednesday, 9/17"
+due: "11:59 PM PST on Wednesday, 2/4"
 gradescope_assignment_id: 6577021
 submission_files:
     - starter.xml
@@ -12,7 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
->> The Project 1 Party is Wednesday, 9/10 from 3 to 5PM in Barker 101 and 8-10PM in Soda 438
+>> The Project 1 Party is Monday, 2/2 from 11 to 2PM in Soda 341B
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
@@ -121,5 +121,6 @@ Note: correct, working code should handle those test cases, but not have the tes
 
 ## Feedback Form 
 Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScbRbxm1teA3mNIh8yq418u7-Qb8CtxVNJbsJah530USfJRtw/viewform?usp=sharing&ouid=106220240438634734707). This will be worth 1 point of your project grade. 
+
 
 
