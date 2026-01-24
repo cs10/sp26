@@ -46,7 +46,8 @@
       <th>Wed 1/21</th>
       <td>
         Lec 1. Welcome + Abstraction<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording 1)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <a href="https://drive.google.com/file/d/1mbki5697mDqKyUd8pIJWHS8YmSuzGYKC/view?usp=sharing">(Slides 1)</a><br/>
         <a href="https://www.gradescope.com/courses/1232070">(Lecture Quiz 1)</a>
       </td>
@@ -65,7 +66,8 @@
       <th>Fri 1/23</th>
       <td>
         Talk 1. Fun "Ask me anything", abstraction, using Snap! (but NOT making blocks)<br/>
-        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording: Talk 1)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -94,7 +96,8 @@
       <th>Mon 1/26</th>
       <td>
         Lec 2. Functions<br/>
-        <a>(Recording 2)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 2)</a><br/>
         <a>(Lecture Quiz 2)</a>
       </td>
@@ -113,7 +116,8 @@
       <th>Wed 1/28</th>
       <td>
         Lec 3. Abstraction II<br/>
-        <a>(Recording 3)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 3)</a><br/>
         <a>(Lecture Quiz 3)</a>
       </td>
@@ -132,7 +136,8 @@
       <th>Fri 1/30</th>
       <td>
         Talk 2. Conditionals, Truth Tables, Predicates, Binary/Dec/Hex conversion<br/>
-        <a>(Recording: Talk 2)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -161,7 +166,8 @@
       <th>Mon 2/2</th>
       <td>
         Lec 4. Iteration NEW<br/>
-        <a>(Recording 4)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 4)</a><br/>
         <a>(Lecture Quiz 4)</a>
       </td>
@@ -180,7 +186,8 @@
       <th>Wed 2/4</th>
       <td>
         Lec 5. Variables, Lists, Scope, HOFs<br/>
-        <a>(Recording 5)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 5)</a><br/>
         <a>(Lecture Quiz 5)</a>
       </td>
@@ -199,7 +206,8 @@
       <th>Fri 2/6</th>
       <td>
         Talk 3. HOFs<br/>
-        <a>(Recording: Talk 3)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -228,7 +236,8 @@
       <th>Mon 2/9</th>
       <td>
         Lec 6. Algorithms<br/>
-        <a>(Recording 6)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 6)</a><br/>
         <a>(Lecture Quiz 6)</a>
       </td>
@@ -247,7 +256,8 @@
       <th>Wed 2/11</th>
       <td>
         Lec 7. Algorithmic Complexity<br/>
-        <a>(Recording 7)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 7)</a><br/>
         <a>(Lecture Quiz 7)</a>
       </td>
@@ -266,7 +276,8 @@
       <th>Fri 2/13</th>
       <td>
         Talk 4. Quest 1 Preview<br/>
-        <a>(Recording: Talk 4)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -306,7 +317,8 @@
       <th>Wed 2/18</th>
       <td>
         Lec 8. Recursion I (Functional)<br/>
-        <a>(Recording 8)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 8)</a><br/>
         <a>(Lecture Quiz 8)</a>
       </td>
@@ -325,7 +337,8 @@
       <th>Fri 2/20</th>
       <td>
         Talk 5. Quest 1 Review<br/>
-        <a>(Recording: Talk 5)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -354,7 +367,8 @@
       <th>Mon 2/23</th>
       <td>
         Lec 9. Recursion II (Fractals)<br/>
-        <a>(Recording 9)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 9)</a><br/>
         <a>(Lecture Quiz 9)</a>
       </td>
@@ -373,7 +387,8 @@
       <th>Wed 2/25</th>
       <td>
         Lec 10. Recursion III (Count Change)<br/>
-        <a>(Recording 10)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 10)</a><br/>
         <a>(Lecture Quiz 10)</a>
       </td>
@@ -392,7 +407,8 @@
       <th>Fri 2/27</th>
       <td>
         Talk 6. Quest 2 Review<br/>
-        <a>(Recording: Talk 6)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -421,7 +437,8 @@
       <th>Mon 3/2</th>
       <td>
         Lec 11. Testing + 2048<br/>
-        <a>(Recording 11)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 11)</a><br/>
         <a>(Lecture Quiz 11)</a>
       </td>
@@ -440,7 +457,8 @@
       <th>Wed 3/4</th>
       <td>
         Lec 12. Higher-Order Functions<br/>
-        <a>(Recording 12)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 12)</a><br/>
         <a>(Lecture Quiz 12)</a>
       </td>
@@ -459,7 +477,8 @@
       <th>Fri 3/6</th>
       <td>
         Talk 7. Recursion<br/>
-        <a>(Recording: Talk 7)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -488,7 +507,8 @@
       <th>Mon 3/9</th>
       <td>
         Lec 13. Guest Lecture: Saving the World with Computing<br/>
-        <a>(Recording 13)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 13)</a><br/>
         <a>(Lecture Quiz 13)</a>
       </td>
@@ -507,7 +527,8 @@
       <th>Wed 3/11</th>
       <td>
         Lec 14. Computing in Education<br/>
-        <a>(Recording 14)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 14)</a><br/>
         <a>(Lecture Quiz 14)</a>
       </td>
@@ -526,7 +547,8 @@
       <th>Fri 3/13</th>
       <td>
         Talk 8. Midterm 1 Preview<br/>
-        <a>(Recording: Talk 8)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -555,7 +577,8 @@
       <th>Mon 3/16</th>
       <td>
         Lec 15. Programming Paradigms<br/>
-        <a>(Recording 15)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 15)</a><br/>
         <a>(Lecture Quiz 15)</a>
       </td>
@@ -574,7 +597,8 @@
       <th>Wed 3/18</th>
       <td>
         Lec 16. OOP in Snap!<br/>
-        <a>(Recording 16)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 16)</a><br/>
         <a>(Lecture Quiz 16)</a>
       </td>
@@ -593,7 +617,8 @@
       <th>Fri 3/20</th>
       <td>
         Talk 9. Midterm 1 Review<br/>
-        <a>(Recording: Talk 9)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -661,7 +686,8 @@
       <th>Mon 3/30</th>
       <td>
         Lec 17. Python I - Intro<br/>
-        <a>(Recording 17)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 17)</a><br/>
         <a>(Lecture Quiz 17)</a>
       </td>
@@ -680,7 +706,8 @@
       <th>Wed 4/1</th>
       <td>
         Lec 18. Python II - Data Types & Structures<br/>
-        <a>(Recording 18)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 18)</a><br/>
         <a>(Lecture Quiz 18)</a>
       </td>
@@ -699,7 +726,8 @@
       <th>Fri 4/3</th>
       <td>
         Talk 10. Midterm 2 review<br/>
-        <a>(Recording: Talk 10)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -728,7 +756,8 @@
       <th>Mon 4/6</th>
       <td>
         Lec 19. Concurrency<br/>
-        <a>(Recording 19)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 19)</a><br/>
         <a>(Lecture Quiz 19)</a>
       </td>
@@ -747,7 +776,8 @@
       <th>Wed 4/8</th>
       <td>
         Lec 20. Gen AI<br/>
-        <a>(Recording 20)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 20)</a><br/>
         <a>(Lecture Quiz 20)</a>
       </td>
@@ -766,7 +796,8 @@
       <th>Fri 4/10</th>
       <td>
         Talk 11. Python live coding<br/>
-        <a>(Recording: Talk 11)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -795,7 +826,8 @@
       <th>Mon 4/13</th>
       <td>
         Lec 21. Guest Lecture: Human-computer interaction (HCI)<br/>
-        <a>(Recording 21)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 21)</a><br/>
         <a>(Lecture Quiz 21)</a>
       </td>
@@ -814,7 +846,8 @@
       <th>Wed 4/15</th>
       <td>
         Lec 22. Ethics in AI<br/>
-        <a>(Recording 22)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 22)</a><br/>
         <a>(Lecture Quiz 22)</a>
       </td>
@@ -833,7 +866,8 @@
       <th>Fri 4/17</th>
       <td>
         Talk 12. POSTTERM 1 PREVIEW<br/>
-        <a>(Recording: Talk 12)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -862,7 +896,8 @@
       <th>Mon 4/20</th>
       <td>
         Lec 23. Python III - Game Theory<br/>
-        <a>(Recording 23)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 23)</a><br/>
         <a>(Lecture Quiz 23)</a>
       </td>
@@ -881,7 +916,8 @@
       <th>Wed 4/22</th>
       <td>
         Lec 24. Python IV – OOP<br/>
-        <a>(Recording 24)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 24)</a><br/>
         <a>(Lecture Quiz 24)</a>
       </td>
@@ -900,7 +936,8 @@
       <th>Fri 4/24</th>
       <td>
         Talk 13. POSTTERM 1 REVIEW<br/>
-        <a>(Recording: Talk 13)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
@@ -929,7 +966,8 @@
       <th>Mon 4/27</th>
       <td>
         Lec 25. Alumni Panel<br/>
-        <a>(Recording 25)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 25)</a><br/>
         <a>(Lecture Quiz 25)</a>
       </td>
@@ -948,7 +986,8 @@
       <th>Wed 4/29</th>
       <td>
         Lec 26. Conclusion and Farewell<br/>
-        <a>(Recording 26)</a><br/>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a><br/>
         <a>(Slides 26)</a><br/>
         <a>(Lecture Quiz 26)</a>
       </td>
@@ -967,7 +1006,8 @@
       <th>Fri 5/1</th>
       <td>
         Talk 14. POSTTERM 2 REVIEW<br/>
-        <a>(Recording: Talk 14)</a>
+        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
+        <a>(Recording)</a>
       </td>
       <td></td>
       <td></td>
