@@ -1,7 +1,7 @@
 ---
 title: Project 2
 description: Spelling Bee
-due: "11:59 PM PST on Friday, 10/203"
+due: "11:59 PM PST on Monday, 2/23"
 gradescope_assignment_id: 6577063
 submission_files:
     - starter.xml
@@ -165,3 +165,4 @@ Note: correct, working code should handle those test cases, but not have the tes
 
 ## Feedback Form 
 Congratulations on finish your first project in CS10🥳. Please spend some time completing this [feedback form](https://forms.gle/RiGStSMY4QW6Su4T7). This will be worth 1 point of your project grade. Each person should submit this feedback form. Thank you!
+
