@@ -97,7 +97,7 @@
       <td>
         Lec 2. Functions<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        <a>(Recording)</a><br/>
+        (Recording)<br/>
         <a>(Slides 2)</a><br/>
         <a>(Lecture Quiz 2)</a>
       </td>
