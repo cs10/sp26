@@ -36,6 +36,13 @@ UC Berkeley, Spring 2026
 
 <br/>
 
+## Announcements
+
+**Monday, January 26**
+
+- TBD
+- TBD
+
 {% include youtube.html id='oG1OItm4JyU' %}
 
 
