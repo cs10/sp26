@@ -2,7 +2,7 @@
 title: Project 1
 description: Wordle™-lite
 due: "11:59 PM PST on Wednesday, 2/4"
-gradescope_assignment_id: 6577021
+gradescope_assignment_id: 7495160
 submission_files:
     - starter.xml
 ---
@@ -111,7 +111,7 @@ Finally, you’ll build a reporter block (aka the “update score” block) that
 ## Rubric 
 You have three blocks to write and five tests (shown above) for each block, according to the following table. So a perfect score would earn (5 × 0.4) + (5 × 0.8) + (5 × 0.8) = 10 points. Gradescope’s autograder needs the number between 0 and 1, so we divide that score by 10 to send to the autograder. You should continue to work on your code until all test cases pass and the score reported by says: {"score": 1} 
 If at any point you’d like to see more details about how we calculate that out-of-10 score, you can run the  block we provide, a, the expected value, the actual value, how many points it is worth, and how many points you’ve earned. The sum of all the earned points is tallied in the bottom-right cell.
-Note: correct, working code should handle those test cases, but not have the test cases hardcoded into your solution, they should be able to handle any inputs according to the specifications.
+Note: correct, working code should handle those test cases, but not have the test cases hardcoded into your solution; they should be able to handle any inputs according to the specifications.
 
 | Block    | Points | Number of Tests |
 | -------- | ------- |
@@ -120,7 +120,8 @@ Note: correct, working code should handle those test cases, but not have the tes
 | (update score based on matched slots: [] and score: ())    | 0.8    | 5 |
 
 ## Feedback Form 
-Congratulations on finishing your first project in CS10🥳. Please spend some time completing this [feedback form](https://docs.google.com/forms/d/e/1FAIpQLScbRbxm1teA3mNIh8yq418u7-Qb8CtxVNJbsJah530USfJRtw/viewform?usp=sharing&ouid=106220240438634734707). This will be worth 1 point of your project grade. 
+Congratulations on finishing your first project in CS10 🥳. Please spend some time completing this [feedback form](https://forms.gle/URuPr5iCYXcQqQAy9). This will be worth 1 point of your project grade. 
+
 
 
 
