@@ -21,7 +21,6 @@ UC Berkeley, Spring 2026
 - Project 1: Wordle™-lite released! Instructions on the website.
 - Added CS10 late? Read EdStem post #9.
 - Pre-Semester Survey due 1/31.
-<br/>
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
@@ -38,6 +37,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
