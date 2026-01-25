@@ -14,26 +14,6 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-**Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a><br/>
-**Instructor's Office Hours:** TBD @ Soda Hall, Room 777<br/>
-
-**Lecture:**  
-- **Days:** Monday, Wednesday, Friday  
-- **Time:** 10–11 AM  
-- **Place:** Evans Hall, Room 60  
-
-**Lab:**  
-- **Days:** Tuesday, Thursday  
-- **Time:** 3–5 PM  
-- **Place:** Soda Hall, Room 430  
-
-**Discussion:**  
-- **Day:** Thursday  
-- **Time:** 11 AM–12 PM  
-- **Place:** Soda Hall, Room 430  
-
-**OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>
-
 ## Announcements
 
 **Monday, January 26**
@@ -46,12 +26,22 @@ UC Berkeley, Spring 2026
 
 <br/>
 
+**Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
+**Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
+**Lectures:** Monday, Wednesday, Friday @ 10–11 AM in 60 Evans Hall  
+**Labs:** Tuesday, Thursday @ 3–5 PM in 430 Soda Hall  
+**Discussion:** Thursday @ 11 AM–12 PM in 430 Soda Hall  
+**OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>
+
+<br/>
+
 {% include youtube.html id='oG1OItm4JyU' %}
 
 
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
