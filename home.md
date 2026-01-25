@@ -38,8 +38,11 @@ UC Berkeley, Spring 2026
 
 **Monday, January 26**
 
-- TBD
-- TBD
+- Attendance starts this week! Make sure you’re enrolled in iClicker for lecture, lab, and discussion.
+- Office hours begin this week. See the website calendar for times and locations.
+- Project 1: Wordle™-lite released! Instructions on the website.
+- Added CS10 late? Read EdStem post #9.
+- Pre-Semester Survey due 1/31.
 
 <br/>
 
@@ -49,6 +52,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
