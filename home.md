@@ -34,8 +34,6 @@ UC Berkeley, Spring 2026
 
 **OH Queue:** <a href="https://oh.cs10.org/">oh.cs10.org</a>
 
-<br/>
-
 ## Announcements
 
 **Monday, January 26**
@@ -43,12 +41,15 @@ UC Berkeley, Spring 2026
 - TBD
 - TBD
 
+<br/>
+
 {% include youtube.html id='oG1OItm4JyU' %}
 
 
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
