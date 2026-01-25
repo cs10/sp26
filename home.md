@@ -22,6 +22,8 @@ UC Berkeley, Spring 2026
 - Added CS10 late? Read EdStem post #9.
 - Pre-Semester Survey due 1/31.
 
+<br/>
+
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
 **Lectures:** Monday, Wednesday, Friday @ 10–11 AM in 60 Evans Hall  
@@ -37,6 +39,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
