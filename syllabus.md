@@ -167,7 +167,7 @@ Here are the specific dates for exams, although these dates may change. All exam
 | Quest 2          | FRI 2/20 @ 4 PM      | SUN 2/22    |
 | Quest 3          | FRI 2/27 @ 4 PM      | SUN 3/1     |  
 | Midterm 1        | FRI 3/13 @ 4 PM      | SUN 3/15    |  
-| Midterm 2        | FRI 3/20 @ 4 PM      | SAT 3/21    |  
+| Midterm 2        | FRI 3/20 @ 4 PM      | SUN 3/22    |  
 | Midterm 3        | FRI 4/3 @ 4 PM       | SUN 4/5     | 
 | Postterm 1       | FRI 4/17 @ 4 PM      | SUN 4/19    |  
 | Postterm 2       | FRI 4/24 @ 4 PM      | SUN 4/26    |  
