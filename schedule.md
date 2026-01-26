@@ -103,7 +103,7 @@
       </td>
       <td></td>
       <td></td>
-      <td><b> <a href="https://cs10.org/sp26/projects/">Proj 1: Wordle™ Lite Released</a><br/></b></td>
+      <td><b> <a href="https://cs10.org/sp26/projects/project1/">Proj 1: Wordle™ Lite Released</a><br/></b></td>
     </tr>
     <tr>
       <th>Tue 1/27</th>
