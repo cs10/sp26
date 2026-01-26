@@ -26,7 +26,7 @@ UC Berkeley, Spring 2026
 
 <!--
 ## Announcements: Wednesday, January 28
-- Lecture quizzes are only for students who missed a lecture! (It’s okay to do them regardless).
+-  If you attend discussion in person, no submission is required (it's okay to do them regardless)
 -->
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
@@ -44,6 +44,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
