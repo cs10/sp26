@@ -58,8 +58,8 @@
     <tr>
       <th>Thu 1/22</th>
       <td></td>
-      <td>Lab 1: Welcome to Snap!</td>
-      <td>Disc 1. Welcome to CS 10!</td>
+      <td> <a href="https://cs10.org/sp26/lab_directory/">Lab 1: Welcome to Snap! </a><br/> </td>
+      <td> <a href="https://cs10.org/sp26/discussion/">Disc 1. Welcome to CS 10! </a><br/> </td>
       <td></td>
     </tr>
     <tr>
@@ -98,12 +98,12 @@
         Lec 2. Functions<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 2)<br/>
-        (Lecture Quiz 2)
+        <a href="https://drive.google.com/file/d/1Yf7vkpJnw1C2s7C4TYlTBUJRMWskrsre/view?usp=drive_link">(Slides 2)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495155/submissions">(Lecture Quiz 2)</a><br/>
       </td>
       <td></td>
       <td></td>
-      <td><b>Proj 1: Wordle™ Lite Released</b></td>
+      <td><b> <a href="https://cs10.org/sp26/projects/">Proj 1: Wordle™ Lite Released</a><br/></b></td>
     </tr>
     <tr>
       <th>Tue 1/27</th>
