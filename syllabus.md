@@ -159,19 +159,19 @@ There will be three take-home, untimed, online, 48-hour, open-note exams (Quest,
 - Midterm
 - Postterm (final)
 
-Here are the specific dates for exams, although these dates may change. All exams will be released at 6PM on Fridays.
+Here are the specific dates for exams, although these dates may change. All exams will be released at 4 PM on Fridays.
 
-| Exam             | Release   | Due         |   
-| :----:           | :----:    | :----:      | 
-| Quest 1          | SAT 2/14  | SUN 2/15    |  
-| Quest 2          | SAT 2/21  | SUN 2/22    |
-| Quest 3          | SAT 2/28  | SUN 3/1     |  
-| Midterm 1        | SAT 3/14  | SUN 3/15    |  
-| Midterm 2        | SAT 3/21  | SAT 3/21    |  
-| Midterm 3        | SAT 4/4   | SUN 4/5     | 
-| Postterm 1       | SAT 4/18  | SUN 4/19    |  
-| Postterm 2       | SAT 4/25  | SUN 4/26    |  
-| Postterm 3       | SAT 5/2   | SUN 5/3     |  
+| Exam             | Release              | Due         |   
+| :----:           | :----:               | :----:      | 
+| Quest 1          | FRI 2/13 @ 4 PM      | SUN 2/15    |  
+| Quest 2          | FRI 2/20 @ 4 PM      | SUN 2/22    |
+| Quest 3          | FRI 2/27 @ 4 PM      | SUN 3/1     |  
+| Midterm 1        | FRI 3/13 @ 4 PM      | SUN 3/15    |  
+| Midterm 2        | FRI 3/20 @ 4 PM      | SAT 3/21    |  
+| Midterm 3        | FRI 4/3 @ 4 PM       | SUN 4/5     | 
+| Postterm 1       | FRI 4/17 @ 4 PM      | SUN 4/19    |  
+| Postterm 2       | FRI 4/24 @ 4 PM      | SUN 4/26    |  
+| Postterm 3       | FRI 5/1 @ 4 PM       | SUN 5/3     |  
 
 You will see several exams throughout the semester (for example, Quest 1, Quest 2, Quest 3, etc.). Each exam type (Quest, Midterm, and Postterm) has three versions. The purpose of this structure is to allow you to retake an exam—each retake will be similar in content but not identical—and earn credit for questions you missed on earlier attempts. You are only required to complete questions that you did not receive full credit for in previous attempts of the same exam type.
 
@@ -359,6 +359,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
