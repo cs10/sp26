@@ -29,7 +29,7 @@ nav_order: 6
       <!-- <td><a href="/sp26/projects/project1">Project 1 Instructions</a></td> -->
       <td>Project 1 Instructions</td>
       <!-- <td><a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a></td> -->
-      <td>Proj 1 Walkthrough Slides</td>
+      <td> <a href="https://drive.google.com/file/d/1liTxubkrh5-Vtp5CbQETI9BurAquIVSx/view?usp=sharing">Proj 1 Walkthrough Slides</a> </td>
       <td>Monday, 1/26</td>
       <td>Wednesday, 2/4</td>
     </tr>
@@ -104,3 +104,4 @@ nav_order: 6
     </tr>
   </tbody>
 </table>
+
