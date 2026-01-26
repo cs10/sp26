@@ -58,8 +58,8 @@
     <tr>
       <th>Thu 1/22</th>
       <td></td>
-      <td> <a href="https://cs10.org/sp26/lab_directory/">Lab 1: Welcome to Snap! </a><br/> </td>
-      <td> <a href="https://cs10.org/sp26/discussion/">Disc 1. Welcome to CS 10! </a><br/> </td>
+      <td> <a href="https://cs10.org/sp26/labs/lab01/">Lab 1: Welcome to Snap! </a><br/> </td>
+      <td> <a href="https://docs.google.com/document/d/11twmuzCB3SBBbqiKrmMr3HN4Pz418KLg/edit?usp=drive_link&ouid=104450479584041344544&rtpof=true&sd=true">Disc 1. Welcome to CS 10! </a><br/> </td>
       <td></td>
     </tr>
     <tr>
