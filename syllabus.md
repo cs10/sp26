@@ -92,7 +92,7 @@ Discussion attendance is mandatory and will be tracked using iClicker. If you at
 
 The discussion worksheets are located on the course website and should be submitted to Gradescope. You may submit the worksheet in any format (for example, handwritten, electronically written, or typed). <b>If you attend discussion in person, no submission is required</b>. You only need to submit the worksheet if you miss discussion. Discussion worksheets are due on the day of the next discussion section at 11:59 PM. In other words, Discussion X is due the same day Discussion X+1 is released.
 
-Your 1 lowest discussion worksheet score or one missed discussion will be dropped. This means you may skip submitting one worksheet and still receive full credit for your discussion grade. Please reserve this drop for unexpected circumstances such as illness or emergencies. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please refer to the extension request section.
+You may miss one discussion session without penalty (i.e., without having to submit the worksheet). This means you may skip submitting one worksheet and still receive full credit for your discussion grade. Please reserve this drop for unexpected circumstances such as illness or emergencies. You do not need to contact us if you miss or do not attend discussion. If you need an extension, please refer to the extension request section.
 
 From experience, we have observed that students who regularly attend and actively participate in discussions tend to perform better on exams.
 
@@ -359,6 +359,7 @@ Here's a link to the [Academic Accommodations Hub](https://evcp.berkeley.edu/pro
 
 It is very important to the EECS Department that every student in the EECS community feels safe, respected, and welcome. We recognize though that incidents happen, sometimes unintentionally, that run counter to that goal.
 The EECS department provides a secure and anonymous [Incident Reporting Form](https://eecs.link/climate) that can be used to report incidents including (but not limited to) microaggressions, discrimination, marginalizing / alienating behaviour, etc.
+
 
 
 
