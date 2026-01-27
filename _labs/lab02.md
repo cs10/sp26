@@ -13,14 +13,14 @@ submission_files:
 This worksheet serves as a guide and set of instructions to complete lab 2. All material was sourced from the CS10 version of The Beauty and Joy of Computing course.
 
 - You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/loop/lab2-starter-code-v3.xml) to get credit for the lab.
-- Make sure to login first before you start the lab! (upper left, cloud icon)
-- DO NOT modify the "Autograd" sprite. You should only modify the blocks pertinent to the "Lab" sprite.
+- Make sure to log in first before you start the lab! (upper left, cloud icon)
+- DO NOT modify the "Autograde" sprite. You should only modify the blocks pertinent to the "Lab" sprite.
 - Remember to save your work as you progress through the lab.
     - You can save your work by clicking the page icon on the upper left corner and choosing to save your work on the cloud or directly to your computer
 - [Here is the workbook](https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material. 
 
 ## Submitting: 
-- You will need to fill in the blocks under "Lab 2: Build Your Own Blocks" and submit this to Gradescope. Note that the titles of the files may not always match up. 
+- You will need to fill in the blocks under "Lab 2: Build Your Own Blocks" and submit this to Gradescope. Note that the titles of the starter files may not always match up. 
 - To receive full credit, you will need to complete the required blocks, and the required blocks must pass all tests from the autograder in **Gradescope**. 
     - For instructions on how to submit to labs to Gradescope, please see this [doc](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
 
