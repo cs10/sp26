@@ -12,7 +12,7 @@ submission_files:
 *We highly recommend reading through this spec in its entirety before you begin.*
 
 > Any important updates or clarifications will be made here
->> The Project 1 Party is TBD
+>> Project 1 Party on Monday (2/2) from 5–8 PM and Wednesday (2/4) from 6–8 PM.
 
 ## To begin, load [this starter project](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=BJC%20CS10%20Project%201%3A%20Wordle%E2%84%A2-lite)
 
@@ -121,6 +121,7 @@ Note: correct, working code should handle those test cases, but not have the tes
 
 ## Feedback Form 
 Congratulations on finishing your first project in CS10 🥳. Please spend some time completing this [feedback form](https://forms.gle/URuPr5iCYXcQqQAy9). This will be worth 1 point of your project grade. 
+
 
 
 
