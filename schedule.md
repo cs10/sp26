@@ -108,7 +108,7 @@
     <tr>
       <th>Tue 1/27</th>
       <td></td>
-      <td>Lab 2. Build Your Own Blocks</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab02/">Lab 2. Build Your Own Blocks </a><br/> </td>
       <td></td>
       <td></td>
     </tr>
