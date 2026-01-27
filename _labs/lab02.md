@@ -89,3 +89,9 @@ Outputs:
 Examples:  
 ![example of 'draw a square leaved flower with 6 leaves of 100 size'](/su25/assets/images/lab_images/lab2_b2_1.png)   
 ![example of 'draw a square leaved flower with 10 leaves of 100 size'](/su25/assets/images/lab_images/lab2_b2_2.png)
+
+## Optional Block: Draw a field of flowers
+Objective:  
+- Create a procedure that draws a field of flowers using your creativity and artistic flair! You may use blocks you previously coded in this lab as helpers.  
+- **DO NOT change the pen hue color** when attempting the flower field block, as this may interfere with the autograder.  
+- When finished, take a screenshot of your drawing and upload it to this [folder](https://drive.google.com/drive/u/0/folders/1Seq9Fovej-T3OcWO2K8i_TTKc05bLcfm). All participants will receive a small prize at the next lab! 😉
