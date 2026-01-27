@@ -2,7 +2,7 @@
 title: # Lab 02: 
 
 description: Build Your Own Blocks
-due: Friday September 5th, 2359 hrs
+due: Thursday, January 29th, 2359 hrs
 gradescope_assignment_id: 
 submission_files:
 ---
