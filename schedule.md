@@ -97,7 +97,7 @@
       <td>
         Lec 2. Functions<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <a href="https://drive.google.com/file/d/1Yf7vkpJnw1C2s7C4TYlTBUJRMWskrsre/view?usp=drive_link">(Slides 2)</a><br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495155/submissions">(Lecture Quiz 2)</a><br/>
       </td>
