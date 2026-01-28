@@ -14,21 +14,15 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, January 26
-
-- Read Weekly Blast 2 on Ed!
-- Attendance starts this week. Make sure you’re enrolled in iClicker for lecture, lab, and discussion.
-- Office hours begin this week. See the website calendar for times and locations.
-- Project 1: Wordle™-lite is released! (instructions on the website).
-- "Learning Progression" this weekend (see Weekly Blast 2 for details).
-- Added CS10 late? Read EdStem post #9.
-- Pre-Semester Survey due 1/31.
-
-<!--
 ## Announcements: Wednesday, January 28
-- If you attend discussion in person, no submission is required (it's okay to do them regardless)
-- Read “Attendance Make-Up Options Clarification” (Ed post #20) for all attendance make-up policies
--->
+
+- Read [Weekly Blast 2](https://edstem.org/us/courses/93956/discussion/7564881) on Ed (and 1 if you haven't yet)
+- Project 1 Party is next week — see the course calendar for the schedule
+- [Learning Progression](https://edstem.org/us/courses/93956/discussion/7574845) this weekend
+- Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987)
+- [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) due 1/31
+- Lecture quizzes are only required if you missed the lecture (they’re a makeup option)
+- Missed a lecture, lab, or discussion? See your [attendance make-up options](https://edstem.org/us/courses/93956/discussion/7566342)
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
@@ -45,6 +39,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
