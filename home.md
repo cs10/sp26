@@ -23,6 +23,7 @@ UC Berkeley, Spring 2026
 - [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) due 1/31
 - Lecture quizzes are only required if you missed the lecture (they’re a makeup option)
 - Missed a lecture, lab, or discussion? See your [attendance make-up options](https://edstem.org/us/courses/93956/discussion/7566342)
+- If you need access to Ed, BCourses, Gradescope, or PrairieLearn, please email naheejeong@berkeley.edu (Head TA)
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
@@ -39,6 +40,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
