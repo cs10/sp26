@@ -128,7 +128,7 @@
     <tr>
       <th>Thu 1/29</th>
       <td></td>
-      <td>Lab 3. Conditionals, Reporters, & Testing</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing </a><br/> </td>
       <td>Disc 2. Number Rep & Control Structures</td>
       <td></td>
     </tr>
