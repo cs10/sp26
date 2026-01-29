@@ -41,17 +41,17 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 1 Discussion</td>
       <td>Welcome to CS10!</td>
       <td><a href="https://docs.google.com/document/d/11twmuzCB3SBBbqiKrmMr3HN4Pz418KLg/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 1</a></td>
-      <td>Solutions 1</td>
+      <td><a href="https://docs.google.com/document/d/1oabAqMpgADEmVY4RInHQFp8RGWc2Gck1/edit">Solutions 1</a></td>
       <td>No Recording</td>
       <td><a href="https://docs.google.com/presentation/d/1tver-ZIc256nob7S2MWixYG0lCWpUp2NqllKHGRtnCE/edit?usp=sharing">Slides 1</a></td>
     </tr> 
     <tr>
       <td>Week 2 Discussion</td>
       <td>Number Rep & Control Structures</td>
-      <td>Worksheet 2</td>
+      <td><a href="https://docs.google.com/document/d/1Izy_B631fku0IJdBlPXwpQAgmSPrJf8A/edit">Worksheet 2</a></td>
       <td>Solutions 2</td>
       <td>Recording 2<br/>Passcode: ???</td>
-      <td>Slides 2</td>
+      <td><a href="https://docs.google.com/presentation/d/17a85JDNjTKbWPiGFkFDYoexTzSOquPovhtXJwBbmB8Q/edit?slide=id.p#slide=id.p">Slides 2</a></td>
     </tr>
     <tr>
       <td>Week 3 Discussion</td>
@@ -159,4 +159,5 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
