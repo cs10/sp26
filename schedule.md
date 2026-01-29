@@ -117,7 +117,7 @@
       <td>
         Lec 3. Abstraction II<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <a href="https://drive.google.com/file/d/1dhjR5ot-V8QzePFQnZnVXOr2pgdhilua/view?usp=drive_link">(Slides 3)</a><br/>
         <a href= "https://www.gradescope.com/courses/1232070/assignments/7495163/submissions">(Lecture Quiz 3)</a><br/>
       </td>
