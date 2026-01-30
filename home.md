@@ -16,8 +16,8 @@ UC Berkeley, Spring 2026
 
 ## Announcements: Friday, January 30
 
-- Project 1 Parties next week — Monday & Wednesday (see website Calendar)
 - [Learning Progression](https://edstem.org/us/courses/93956/discussion/7574845) releases today at 4 PM!
+- Please enroll in PrairieLearn via this [link](https://us.prairielearn.com/pl/course_instance/205345/join/KHZRC8X4SE)
 - Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987)
 - [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) due 1/31
 - Missed a lecture, lab, or discussion? See your [attendance make-up options](https://edstem.org/us/courses/93956/discussion/7566342)
@@ -38,6 +38,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
