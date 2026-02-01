@@ -129,7 +129,7 @@
       <th>Thu 1/29</th>
       <td></td>
       <td> <a href="https://cs10.org/sp26/labs/lab03/">Lab 3. Conditionals, Reporters, & Testing </a><br/> </td>
-      <td>Disc 2. Number Rep & Control Structures</td>
+      <td><a href="https://docs.google.com/document/d/1Izy_B631fku0IJdBlPXwpQAgmSPrJf8A/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 2. Number Rep & Control Structures</a></td>
       <td></td>
     </tr>
     <tr>
