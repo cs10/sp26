@@ -137,7 +137,6 @@
       <td>
         Talk 2. Conditionals, Truth Tables, Predicates, Binary/Dec/Hex conversion<br/>
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
-        (Recording)
       </td>
       <td></td>
       <td></td>
