@@ -167,8 +167,8 @@
         Lec 4. Iteration NEW<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        <a href="https://drive.google.com/file/d/1R2RRWntCxzXF2ljcKxshHqpwnd9kZzJj/view?usp=sharing">(Slides 4)<a/><br/>
-        <a href="https://www.gradescope.com/courses/1232070/assignments/7495150/submissions">(Lecture Quiz 4)<a/><br/>
+        <a href="https://drive.google.com/file/d/1R2RRWntCxzXF2ljcKxshHqpwnd9kZzJj/view?usp=sharing">(Slides 4)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495150/submissions">(Lecture Quiz 4)</a><br/>
       </td>
       <td></td>
       <td></td>
