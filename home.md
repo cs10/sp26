@@ -14,13 +14,13 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, January 30
+## Announcements: Monday, February 2
 
-- [Learning Progression](https://edstem.org/us/courses/93956/discussion/7574845) releases today at 4 PM!
-- Please enroll in PrairieLearn via this [link](https://us.prairielearn.com/pl/course_instance/205345/join/KHZRC8X4SE)
-- Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987)
-- [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) due 1/31
-- Missed a lecture, lab, or discussion? See your [attendance make-up options](https://edstem.org/us/courses/93956/discussion/7566342)
+- Read Weekly Blast 3 on Ed! (Will be posted today)
+- Project 1 Party tonight and Wednesday (check on [Calendar](https://cs10.org/sp26/calendar/))
+- Project 1 due this Wednesday, 2/4
+- Enroll in [PrairieLearn](https://us.prairielearn.com/pl/course_instance/205345/assessments)! (Post on Ed if you don’t have access)
+- Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987). Late adds will have adjusted due dates for assignments.
 - If you need access to Ed, BCourses, Gradescope, or PrairieLearn, please email naheejeong@berkeley.edu (Head TA)
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
@@ -38,6 +38,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
