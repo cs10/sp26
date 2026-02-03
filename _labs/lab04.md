@@ -1,7 +1,7 @@
 ---
 title: "Lab 04"
 description: "Iteration"
-due: "Friday September 12th, 11:59PM"
+due: "Thursday, February 5th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
