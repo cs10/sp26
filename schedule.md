@@ -176,7 +176,7 @@
     <tr>
       <th>Tue 2/3</th>
       <td></td>
-      <td>Lab 4. Iteration NEW</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab04/">Lab 4. Iteration NEW</a><br/> </td>
       <td></td>
       <td></td>
     </tr>
