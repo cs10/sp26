@@ -15,7 +15,7 @@ This worksheet serves as a guide and set of instructions to complete Lab 4. All 
 - **This lab has NO workbook.** All the instructions are within this sheet and the starter file
 
 ## Submitting
-You will need to fill in the blocks under **“Lab 4: Lists + Loops”** and submit this to Gradescope.
+You will need to fill in the blocks under the starter file, **“Lab 4: Lists + Loops”**, and submit this to Gradescope.
 - To receive full credit, you must complete the required blocks, and those blocks must pass all tests from the Gradescope autograder.
 - For instructions on how to submit labs to Gradescope, please see [this page](https://docs.google.com/document/d/1XAcZc9ypX07-bt0gK6uQ4P-06SrjPRsgiOjERIOlvYU/edit?usp=sharing).
 
