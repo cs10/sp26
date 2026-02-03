@@ -21,7 +21,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 1: Welcome to Snap!](/sp26/labs/lab01) | THU 1/22 – Nothing to submit |
 | [Lab 2: Build Your Own Blocks](/sp26/labs/lab02) | TUE 1/27 |
 | [Lab 3: Conditionals, Reporters, & Testing](/sp26/labs/lab03) | THU 1/29 |
-| Lab 4: Iteration | TUE 2/3 |
+| [Lab 4: Iteration](/sp26/labs/lab04) | TUE 2/3 |
 | Lab 5: Lists & HOFs | THU 2/5 |
 | Lab 6: Algorithms | TUE 2/10 |
 | Lab 7: Algorithmic Complexity | THU 2/12 |
