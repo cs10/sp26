@@ -186,8 +186,8 @@
         Lec 5. Variables, Lists, Scope, HOFs<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 5)<br/>
-        (Lecture Quiz 5)
+        <a href="https://drive.google.com/file/d/1dtg8xRN_edSVm29RklCxTCfFBrqGLc99/view?usp=drive_link">(Slides 5)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495149/submissions">(Lecture Quiz 5)</a><br/>
       </td>
       <td></td>
       <td></td>
