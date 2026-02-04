@@ -14,23 +14,14 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, February 2
-
-- Read Weekly Blast 3 on Ed!
-- Project 1 Party tonight and Wednesday (check on [Calendar](https://cs10.org/sp26/calendar/))
-- Project 1 due this Wednesday, 2/4
-- Enroll in [PrairieLearn](https://us.prairielearn.com/pl/course_instance/205345/assessments)! (Post on Ed if you don’t have access)
-- Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987). Late adds will have adjusted due dates for assignments.
-- If you need access to Ed, BCourses, Gradescope, or PrairieLearn, please email naheejeong@berkeley.edu (Head TA)
-
-<!-- ## Announcements: Wednesday, February 4
+## Announcements: Wednesday, February 4
 
 - Read Weekly Blast 3 on Ed!
 - Project 1 Party tonight, 6-8 PM in Soda 341B (check on [Calendar](https://cs10.org/sp26/calendar/))
 - Project 1 due tonight, 11:59 PM
 - Enroll in [PrairieLearn](https://us.prairielearn.com/pl/course_instance/205345/assessments)! (Post on Ed if you don’t have access)
 - Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987). Late adds will have adjusted due dates for assignments. 
-- Please do not miss Friday's Talk on Higher-Order Functions! (HOFs) -->
+- Please do not miss Friday's Talk on Higher-Order Functions! (HOFs)
 
 <!-- ## Announcements: Friday, February 6
 
@@ -53,6 +44,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
