@@ -11,7 +11,7 @@ submission_files:
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete Lab 5. All material was sourced from the CS10 version of The Beauty and Joy of Computing (BJC) course.
 
-- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/hofs/lab4-starter-code.xml) to get credit for the lab.
+- You **must** use the [starter file, found here](https://snap.berkeley.edu/snap/snap.html#open:https://cs10.org/bjc-r/prog/hofs/list-and-HOFs-starter.xml) to get credit for the lab.
 - Additionally, [here is the workbook](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment) that you can read through for further context and additional (non-required) material.
 - **This lab has a workbook.** Please use the "run autograder" block for testing. **Do not** use the other predicate blocks found in the autograder block sections.
 
