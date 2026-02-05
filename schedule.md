@@ -196,7 +196,7 @@
       <th>Thu 2/5</th>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/1Z8YuBlzGsWTCgsnY4ambZcHeregOifj8c_pzF3BQP3o/edit?usp=sharing">Lab 5. Lists & HOFs</a><br/> </td>
-      <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
+      <td><a href="https://docs.google.com/document/d/1rc7jk0B4EVfi21X4cJwbW5vn8A3_kSn2/edit">Disc 3. Domain/Range, Scoping, Iteration, Lists</a></td>
       <td></td>
     </tr>
     <tr>
