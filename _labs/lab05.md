@@ -132,13 +132,13 @@ For better understanding of the lab we highly recommend going through these work
 
 **You can always check the validity of your solutions by using the local autograder. Remember to submit on Gradescope!**
 
-[sp26-lab05-image1]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image1.PNG
-[sp26-lab05-image2]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image2.PNG
-[sp26-lab05-image3]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image3.PNG
-[sp26-lab05-image4]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image4.PNG
-[sp26-lab05-image5]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image5.PNG
-[sp26-lab05-image6]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image6.PNG
-[sp26-lab05-image7]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image7.PNG
-[sp26-lab05-image8]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image8.PNG
-[sp26-lab05-image9]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image9.PNG
-[sp26-lab05-image10]: {{ site.baseurl }}/assets/images/lab_images/sp26_lab05_image10.PNG
+[sp26-lab05-image1]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image1.png
+[sp26-lab05-image2]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image2.png
+[sp26-lab05-image3]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image3.png
+[sp26-lab05-image4]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image4.png
+[sp26-lab05-image5]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image5.png
+[sp26-lab05-image6]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image6.png
+[sp26-lab05-image7]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image7.png
+[sp26-lab05-image8]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image8.png
+[sp26-lab05-image9]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image9.png
+[sp26-lab05-image10]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab05-image10.png
