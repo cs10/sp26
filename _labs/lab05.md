@@ -1,7 +1,7 @@
 ---
 title: "Lab 05"
 description: "Lists + HOFs"
-due: "Thursday, February 5th, 23:59"
+due: "Tuesday, February 10th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
