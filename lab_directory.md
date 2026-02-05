@@ -22,7 +22,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 2: Build Your Own Blocks](/sp26/labs/lab02) | TUE 1/27 |
 | [Lab 3: Conditionals, Reporters, & Testing](/sp26/labs/lab03) | THU 1/29 |
 | [Lab 4: Iteration](/sp26/labs/lab04) | TUE 2/3 |
-| [Lab 5: Lists & HOFs](https://docs.google.com/document/d/1Z8YuBlzGsWTCgsnY4ambZcHeregOifj8c_pzF3BQP3o/edit?usp=sharing) | THU 2/5 |
+| [Lab 5: Lists & HOFs](/sp26/labs/lab05) | THU 2/5 |
 | Lab 6: Algorithms | TUE 2/10 |
 | Lab 7: Algorithmic Complexity | THU 2/12 |
 | Lab 8: Boards | TUE 2/17 |
