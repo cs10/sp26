@@ -195,7 +195,7 @@
     <tr>
       <th>Thu 2/5</th>
       <td></td>
-      <td>Lab 5. Lists & HOFs</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab05/">Lab 5. Lists & HOFs</a><br/> </td>
       <td>Disc 3. Domain/Range, Scoping, Iteration, Lists</td>
       <td></td>
     </tr>
