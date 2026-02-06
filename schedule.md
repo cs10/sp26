@@ -203,8 +203,7 @@
       <th>Fri 2/6</th>
       <td>
         Talk 3. HOFs<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
       </td>
       <td></td>
       <td></td>
