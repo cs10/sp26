@@ -18,6 +18,7 @@ UC Berkeley, Spring 2026
 
 - Enroll in [PrairieLearn](https://us.prairielearn.com/pl/course_instance/205345/assessments)! (Post on Ed if you don’t have access)
 - Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987). Late adds will have adjusted due dates for assignments.
+- The [Late Enrollment Info Form](https://docs.google.com/forms/d/e/1FAIpQLSdsFEACiz3QdG5Pv_x5TXF9qagFBB7TlvSausLUxtwjcNmMqw/viewform) has been updated — please review the descriptions in the form if you added the course late.
 - The due date for Lab 5: Lists & HOFs has been extended to Thursday, 2/12 at 11:59 PM. More details: [HERE](https://edstem.org/us/courses/93956/discussion/7625633)
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
@@ -35,6 +36,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
