@@ -49,7 +49,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 2 Discussion</td>
       <td>Number Rep & Control Structures</td>
       <td><a href="https://docs.google.com/document/d/1Izy_B631fku0IJdBlPXwpQAgmSPrJf8A/edit">Worksheet 2</a></td>
-      <td>Solutions 2</td>
+      <td><a href="https://docs.google.com/document/d/1nwzUoAun84wYRi_Q-R0wNSjoL7Y6qAfY/edit">Solutions 2</a></td>
       <td>No Recording</td>
       <td><a href="https://docs.google.com/presentation/d/17a85JDNjTKbWPiGFkFDYoexTzSOquPovhtXJwBbmB8Q/edit?slide=id.p#slide=id.p">Slides 2</a></td>
     </tr>
@@ -58,7 +58,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Domain/Range, Scoping, Iteration, Lists</td>
       <td><a href="https://docs.google.com/document/d/1rc7jk0B4EVfi21X4cJwbW5vn8A3_kSn2/edit">Worksheet 3</a></td>
       <td>Solutions 3</td>
-      <td>Recording 3<br/>Passcode: ???</td>
+      <td>No Recording</td>
       <td>No Slides</td>
     </tr>
     <tr>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
