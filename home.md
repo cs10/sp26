@@ -20,7 +20,7 @@ UC Berkeley, Spring 2026
 - Dan's office hours cancelled today (2/9) (he's meeting with a faculty candidate).
 - Project 2 has been released on the website! Due Monday, 2/23 (partners required).
 - QUEST 1 opens this Friday at 4 PM and will remain open until Sunday at 11:59 PM.
-- Added CS10 late? Read [EdStem post #9](https://edstem.org/us/courses/93956/discussion/7536987). Late adds will have adjusted due dates for assignments.
+- The final add/drop deadline is this Wednesday (2/11).
 - The due date for Lab 5: Lists & HOFs has been extended to Thursday, 2/12 at 11:59 PM. More details: [HERE](https://edstem.org/us/courses/93956/discussion/7625633)
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
@@ -38,6 +38,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
