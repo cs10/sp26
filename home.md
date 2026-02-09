@@ -16,7 +16,7 @@ UC Berkeley, Spring 2026
 
 ## Announcements: Monday, February 9
 
-- Read Weekly Blast 4 on EdStem (will be posted today).
+- Read Weekly Blast 4 on EdStem
 - Dan's office hours cancelled today (2/9) (he's meeting with a faculty candidate).
 - Project 2 has been released on the website! Due Monday, 2/23 (partners required).
 - QUEST 1 opens this Friday at 4 PM and will remain open until Sunday at 11:59 PM.
@@ -38,6 +38,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
