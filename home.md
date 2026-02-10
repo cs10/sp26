@@ -16,12 +16,10 @@ UC Berkeley, Spring 2026
 
 ## Announcements: Monday, February 9
 
-- Read Weekly Blast 4 on EdStem
-- Dan's office hours cancelled today (2/9) (he's meeting with a faculty candidate).
-- Project 2 has been released on the website! Due Monday, 2/23 (partners required).
 - QUEST 1 opens this Friday at 4 PM and will remain open until Sunday at 11:59 PM.
-- The final add/drop deadline is this Wednesday (2/11).
-- The due date for Lab 5: Lists & HOFs has been extended to Thursday, 2/12 at 11:59 PM. More details: [HERE](https://edstem.org/us/courses/93956/discussion/7625633)
+- Read "[IMPORTANT Quest Logistics + Practice Exam ✍🏼 #49](https://edstem.org/us/courses/93956/discussion/7649610)"
+- Take the [Practice Quest](https://us.prairielearn.com/pl/course_instance/205345/assessment_instance/12693766/)! Friday's lecture will be Quest Preview.
+- The final add/drop deadline is TODAY 11:59 PM.
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
@@ -38,6 +36,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
