@@ -234,8 +234,8 @@
         Lec 6. Algorithms<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 6)<br/>
-        (Lecture Quiz 6)
+        <a href="https://drive.google.com/file/d/1pCdWrtkoM3Kog879tp1oDalX9U5ZTZAj/view?usp=sharing">(Slides 6)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495170/submissions">(Lecture Quiz 6)</a><br/>
       </td>
       <td></td>
       <td></td>
