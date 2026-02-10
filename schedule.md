@@ -244,7 +244,7 @@
     <tr>
       <th>Tue 2/10</th>
       <td></td>
-      <td> <a href="https://cs10.org/sp26/labs/lab06/">Lab 6. Algorithms</a><br/> </td>
+      <td> <a href="https://docs.google.com/document/d/1ULoz1No5lKjsDGszctmTVZWKYcMZ4LDFBv9zdLYBXyc/edit?usp=sharing">Lab 6. Algorithms</a><br/> </td>
       <td></td>
       <td></td>
     </tr>
