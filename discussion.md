@@ -63,7 +63,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 4 Discussion</td>
-      <td>HOFs + Algorithmic Complexity</td>
+      <td>Quest Practice</td>
       <td>Worksheet 4</td>
       <td>Solutions 4</td>
       <td>Recording 4<br/>Passcode: ???</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
