@@ -265,7 +265,7 @@
       <th>Thu 2/12</th>
       <td></td>
       <td>Lab 7. Algorithmic Complexity</td>
-      <td>Disc 4. HOFs + Algorithmic Complexity</td>
+      <td>Disc 4. Quest Practice</td>
       <td></td>
     </tr>
     <tr>
