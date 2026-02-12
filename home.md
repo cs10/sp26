@@ -14,12 +14,13 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, February 9
+## Announcements: Friday, February 13 🐈‍⬛
 
-- QUEST 1 opens this Friday at 4 PM and will remain open until Sunday at 11:59 PM.
+- QUEST 1 opens TODAY at 4 PM and will remain open until Sunday at 11:59 PM.
 - Read "[IMPORTANT Quest Logistics + Practice Exam ✍🏼 #49](https://edstem.org/us/courses/93956/discussion/7649610)"
-- Take the [Practice Quest](https://us.prairielearn.com/pl/course_instance/205345/assessment_instance/12693766/)! Friday's lecture will be Quest Preview.
-- The final add/drop deadline is TODAY 11:59 PM.
+- Visiting high school students will be auditing our lab next Tuesday (2/17). Please help welcome them!
+
+<!-- - IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall!! -->
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
 **Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
@@ -36,6 +37,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
