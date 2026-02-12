@@ -64,7 +64,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 4 Discussion</td>
       <td>Quest Practice</td>
-      <td>Worksheet 4</td>
+      <td><a href="https://docs.google.com/document/d/1rFvfsmJoG92WBc0Vy7r6hJSmGr9opaTA/edit">Worksheet 4</a></td>
       <td>Solutions 4</td>
       <td>Recording 4<br/>Passcode: ???</td>
       <td>Slides 4</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
