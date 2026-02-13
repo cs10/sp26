@@ -1,6 +1,6 @@
 ---
 name: Gia Le
-role: Teaching Intern 
+role: Academic Intern 
 photo: Gia_Le.jpg
 pronouns: he/him
 ---
