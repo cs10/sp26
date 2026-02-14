@@ -252,8 +252,8 @@
       <th>Wed 2/11</th>
       <td>
         Lec 7. Algorithmic Complexity<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1jcRlef7uFA-NQbm9VUeQA3afT3sxe_j-/view?usp=sharing">(Slides 7)</a><br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495167/submissions">(Lecture Quiz 7)</a><br/>
       </td>
@@ -272,8 +272,8 @@
       <th>Fri 2/13</th>
       <td>
         Talk 4. Quest 1 Preview<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
