@@ -85,7 +85,7 @@ Here are some initializing statements for the Board and the resulting board:
 
 **Objective**
 - Implement the RMO of the board block. The input is a 2D board of size NxN (N rows, N columns). The output is a 1D list in row-major order. the first N items of the list will be the entries in row 1. The next N items will be the entries in row 2, and so on.
-- ![example showing row-major order direction][sp26-lab08-image7]
+- ![example showing row-major order direction][sp26-lab08-image8]
 
 **Inputs**
 - Board = list
@@ -96,8 +96,11 @@ Here are some initializing statements for the Board and the resulting board:
 - The block reports a 1D list with all values inside of the board in Row-Major Order
 
 **Examples**
-- ![example showing the RMO of the previous board][sp26-lab08-image8] (RMO of previous board)
-- ![example of RMO for a 2x2 board][sp26-lab08-image9] ![example of a 2x2 board][sp26-lab08-image10] (RMO of this board)
+- ![example showing the RMO of the previous board][sp26-lab08-image9]
+  (RMO of previous board)
+- ![example of RMO for a 2x2 board][sp26-lab08-image10]
+  ![example of a 2x2 board][sp26-lab08-image11]
+  (RMO of this board)
 
 ---
 
@@ -114,8 +117,8 @@ Here are some initializing statements for the Board and the resulting board:
 - Reports a 1D list in column-major order
 
 **Examples**
-- ![example showing a 2x2 board][sp26-lab08-image11]
-- ![example showing the CMO of a 2x2 board][sp26-lab08-image12]
+- ![example showing a 2x2 board][sp26-lab08-image12]
+- ![example showing the CMO of a 2x2 board][sp26-lab08-image13]
 
 ---
 
@@ -133,3 +136,4 @@ Here are some initializing statements for the Board and the resulting board:
 [sp26-lab08-image10]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab08-image10.png
 [sp26-lab08-image11]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab08-image11.png
 [sp26-lab08-image12]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab08-image12.png
+[sp26-lab08-image13]: {{ site.baseurl }}/assets/images/lab_images/sp26-lab08-image13.png
