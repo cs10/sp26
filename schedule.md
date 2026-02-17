@@ -305,7 +305,7 @@
     <tr>
       <th>Tue 2/17</th>
       <td></td>
-      <td>Lab 8. Boards</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab08/">Lab 8. Boards </a><br/></td>
       <td></td>
       <td></td>
     </tr>
