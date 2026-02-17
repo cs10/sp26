@@ -25,7 +25,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 5: Lists & HOFs](/sp26/labs/lab05) | THU 2/5 |
 | [Lab 6: Algorithms](https://docs.google.com/document/d/1ULoz1No5lKjsDGszctmTVZWKYcMZ4LDFBv9zdLYBXyc/edit?usp=sharing) | TUE 2/10 |
 | [Lab 7: Algorithmic Complexity](https://docs.google.com/document/d/12-6mHcHE9hNc0ekI7Nr49Mwj6KiYtlhk6jvlcQekzvk/edit?usp=sharing) | THU 2/12 |
-| Lab 8: Boards | TUE 2/17 |
+| [Lab 8: Boards](/sp26/labs/lab08boards) | TUE 2/17 |
 | Catch-up Session (Optional) | THU 2/19 – Nothing to submit |
 | Lab 9: Trees & Fractals | TUE 2/24 |
 | Lab 10: Recursive Reporters | THU 2/26 |
