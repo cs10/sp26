@@ -14,11 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, February 16
+## Announcements: Wednesday, February 18
 
-- Quest 1 is officially closed. Great job, everybody!
-- Scores will be released within the next 48 hours. Read the syllabus for retake/clobber policies.
-- Visiting high school students will be auditing our lab next Tuesday (2/17). Please help welcome them!
+- Quest 1 scores released; you may now see which questions you got correct/incorrect
+- Read the syllabus for retake/clobber policies.
+- Thank you for being so kind and understanding to the visiting students :)
 
 <!-- - IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall!! -->
 
@@ -37,6 +37,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
