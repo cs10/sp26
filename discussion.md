@@ -72,7 +72,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 5 Discussion</td>
       <td>Nested Lists + Recursion I</td>
-      <td>Worksheet 5</td>
+      <td><a href="https://docs.google.com/document/d/1CCNMuDm-ZiJBbcYULClx25ZnNlSc4xsF/edit">Worksheet 5</a></td>
       <td>Solutions 5</td>
       <td>Recording 5<br/>Passcode: ???</td>
       <td>Slides 5</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
