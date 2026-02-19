@@ -313,8 +313,8 @@
       <th>Wed 2/18</th>
       <td>
         Lec 8. Recursion I (Functional)<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1VECFfO9BWwEbnHxVRLwdx1UDahmvF7ig/view?usp=sharing"> (Slides 8) </a> <br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495173/submissions"> (Lecture Quiz 8) </a> <br/>
       </td>
