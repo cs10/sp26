@@ -326,7 +326,7 @@
       <th>Thu 2/19</th>
       <td></td>
       <td>Catch-up Session (Optional)</td>
-      <td>Disc 5. Nested Lists + Recursion I</td>
+      <td><a href="https://docs.google.com/document/d/1CCNMuDm-ZiJBbcYULClx25ZnNlSc4xsF/edit">Disc 5. Recursion I + Nested Lists</a></td>
       <td></td>
     </tr>
     <tr>
