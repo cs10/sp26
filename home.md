@@ -14,11 +14,12 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Wednesday, February 18
+## Announcements: Friday, February 20
 
-- Quest 1 scores released; you may now see which questions you got correct/incorrect
-- Read the syllabus for retake/clobber policies.
-- Thank you for being so kind and understanding to the visiting students :)
+- Quest 2 will be released on Friday, 2/20 at 4 PM and will close on Sunday, 2/22 at 11:59 PM
+- You only need to answer the questions you got wrong. Please see the syllabus for more info on the clobber policy.
+- Project 2 is due Monday, 2/23
+- Project 2 Party: Friday, February 20, 5–8 PM in Soda 341B
 
 <!-- - IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall!! -->
 
@@ -37,6 +38,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
