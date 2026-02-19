@@ -265,7 +265,7 @@
       <th>Thu 2/12</th>
       <td></td>
       <td> <a href="https://docs.google.com/document/d/12-6mHcHE9hNc0ekI7Nr49Mwj6KiYtlhk6jvlcQekzvk/edit?usp=sharing">Lab 7. Algorithmic Complexity</a><br/></td>
-      <td>Disc 4. Quest Practice</td>
+      <td><a href="https://docs.google.com/document/d/1rFvfsmJoG92WBc0Vy7r6hJSmGr9opaTA/edit?rtpof=true">Disc 4. Quest Practice</a></td>
       <td></td>
     </tr>
     <tr>
