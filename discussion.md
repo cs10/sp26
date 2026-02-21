@@ -57,7 +57,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 3 Discussion</td>
       <td>Domain/Range, Scoping, Iteration, Lists</td>
       <td><a href="https://docs.google.com/document/d/1rc7jk0B4EVfi21X4cJwbW5vn8A3_kSn2/edit">Worksheet 3</a></td>
-      <td><a href="https://docs.google.com/document/d/1CLnXlcW0c4SeFdvlsdBSIrmjZ9TbvCDF/edit">Solutions 3</a></td>
+      <td><a href="https://docs.google.com/document/d/1CLnXlcW0c4SeFdvlsdBSIrmjZ9TbvCDF/edit?usp=sharing&ouid=111954439665665643124&rtpof=true&sd=true">Solutions 3</a></td>
       <td>No Recording</td>
       <td>No Slides</td>
     </tr>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
