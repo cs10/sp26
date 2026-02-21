@@ -59,7 +59,7 @@ For better understanding of the lab we highly recommend going through these work
   - ![example of one side of a koch's snowflake][sp26-lab09-image1]
  - Notes:
    - You must use recursion, no HOFs or iteration
-   - **Each recursive call is 	<ins>one-third</ins> the size of the caller**
+   - **Each recursive call is <ins>one-third</ins> the size of the caller**
    - **Tip for fractals: The sprite must end in the correct direction (angle!!) at the end
    - ![example of a level three snowflake segment][sp26-lab09-image2]
 - Inputs:
@@ -82,7 +82,7 @@ For better understanding of the lab we highly recommend going through these work
   - Build a function that will create a koch snowflake. The entire snowflake consists of three copies of the previous fractal, arranged in a triangular shape.
 - Notes:
   - You must use the previous block, snowflake segment levels: (level) size: (size), in your solution
-  - Recursion is **_not_** used for this question
+  - Recursion is **<ins>not</ins>** used for this question
 - Inputs:
   - Level = any number
     -  Should be a positive number that indicates the level
@@ -101,7 +101,7 @@ For better understanding of the lab we highly recommend going through these work
   - ![example output of c-curve levels][sp26-lab09-image7]
 - Notes:
   - You must use recursion. No HOFs.
-  - **Each recursive call is _one-half_ the size of the caller**
+  - **Each recursive call is <ins>one-half</ins> the size of the caller**
   - ![example call to c-curve with level 2][sp26-lab09-image8]
 - Inputs:
   - Level = any number
@@ -112,7 +112,7 @@ For better understanding of the lab we highly recommend going through these work
   - None! It is a procedure / non-pure function, so it only displays a visual effect on the stage and does not output any values
 - Examples:
   - ![example of output of c-curve levels][sp26-lab09-image9]
-  - **_THE COLOR IS TO SHOW THE DIFFERENT PARTS OF THE C-CURVE._** 
+  - **<ins>THE COLOR IS TO SHOW THE DIFFERENT PARTS OF THE C-CURVE.</ins>** 
 
 ---
 
