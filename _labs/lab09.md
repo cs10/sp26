@@ -1,7 +1,7 @@
 ---
 title: "Lab 09"
 description: "Trees & Fractals"
-due: "Tuesday, February 20th, 23:59"
+due: "Thursday, February 26th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
