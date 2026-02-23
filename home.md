@@ -16,7 +16,7 @@ UC Berkeley, Spring 2026
 
 ## Announcements: Monday, February 23
 
-- Read Weekly Blast #6 on Ed (will be posted today)!
+- Read [Weekly Blast #6](https://edstem.org/us/courses/93956/discussion/7717892) on Ed!
 - Quest 2 scores are out! You can check your scores and revisit questions in PrairieLearn.
 - Project 2 is due TODAY (Monday, 2/23).
 - ***IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall, NOT the Woz!!***
@@ -44,6 +44,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
