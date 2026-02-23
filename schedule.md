@@ -365,8 +365,8 @@
         Lec 9. Recursion II (Fractals)<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 9)<br/>
-        (Lecture Quiz 9)
+        <a href="https://drive.google.com/file/d/1j8SE6wKYc5Kw9PJBDQbwd1ctd7XOdk9f/view?usp=drive_link">(Slides 9)</a><br/>
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495176/submissions">(Lecture Quiz 9)</a><br/>
       </td>
       <td></td>
       <td></td>
