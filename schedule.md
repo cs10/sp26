@@ -375,7 +375,7 @@
     <tr>
       <th>Tue 2/24</th>
       <td></td>
-      <td>Lab 9. Trees & Fractals</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab09/">Lab 9. Trees & Fractals </a><br/></td>
       <td></td>
       <td></td>
     </tr>
