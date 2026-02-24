@@ -65,7 +65,7 @@ For better understanding of the lab we highly recommend going through these work
 - Inputs:
   - Level = any number
       - Should be a positive number that indicates the level (2-5 shown below)
-        ![examples of level 2-5 snowflake segments][sp26-lab09-image3]
+      - ![examples of level 2-5 snowflake segments][sp26-lab09-image3]
     - Size = any number
       - Should be any positive number indicates the length of an entire snowflake segment
 - Output:
