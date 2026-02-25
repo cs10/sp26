@@ -1,6 +1,6 @@
 ---
 name: Jaclyn Huynh
-role: Tutor
+role: Teaching Assistant
 email: jaclynhuynh@
 photo: Jaclyn_Huynh.jpg
 pronouns: she/her
