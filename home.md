@@ -14,12 +14,13 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, February 23
+## Announcements: Wednesday, February 25
 
 - Read [Weekly Blast #6](https://edstem.org/us/courses/93956/discussion/7717892) on Ed!
-- Quest 2 scores are out! You can check your scores and revisit questions in PrairieLearn.
-- Project 2 is due TODAY (Monday, 2/23).
+- Dan's Instructor OH will be today from 3-4PM for this week only.
 - ***IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall, NOT the Woz!!***
+- Quest 3 (the last Quest) will be released on Friday (2/27) at 4 PM.
+- Friday's Talk will go over the solutions to Quest 2. It will NOT be recorded.
 
 <!--
 ## Announcements: Wednesday, February 25
@@ -44,6 +45,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
