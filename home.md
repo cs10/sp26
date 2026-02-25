@@ -18,6 +18,7 @@ UC Berkeley, Spring 2026
 
 - Read [Weekly Blast #6](https://edstem.org/us/courses/93956/discussion/7717892) on Ed!
 - Dan's Instructor OH will be today from 3-4PM for this week only.
+- Many OH times have been moved/cancelled. Please refer to the [Calendar](https://cs10.org/sp26/calendar/) for the latest schedule.
 - ***IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall, NOT the Woz!!***
 - Quest 3 (the last Quest) will be released on Friday (2/27) at 4 PM.
 - Friday's Talk will go over the solutions to Quest 2. It will NOT be recorded.
@@ -45,6 +46,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
