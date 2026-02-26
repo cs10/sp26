@@ -79,8 +79,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 6 Discussion</td>
-      <td>Recursion II</td>
-      <td>Worksheet 6</td>
+      <td>Tree Recursion + Fractals</td>
+      <td>[Worksheet 6](https://docs.google.com/document/d/1h9QLNwEoLp4_z47fOWCxbVi_DE_0reFP/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true)</td>
       <td>Solutions 6</td>
       <td>Recording 6<br/>Passcode: ???</td>
       <td>Slides 6</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
