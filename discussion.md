@@ -73,14 +73,14 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 5 Discussion</td>
       <td>Nested Lists + Recursion I</td>
       <td><a href="https://docs.google.com/document/d/1CCNMuDm-ZiJBbcYULClx25ZnNlSc4xsF/edit">Worksheet 5</a></td>
-      <td>Solutions 5</td>
+      <td><a href="https://docs.google.com/document/d/18JYV5m7FFkRNdCXbzS33X0toQCltBkMS/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Solutions 5</a></td>
       <td>Recording 5<br/>Passcode: ???</td>
       <td>Slides 5</td>
     </tr>
     <tr>
       <td>Week 6 Discussion</td>
       <td>Tree Recursion + Fractals</td>
-      <td>[Worksheet 6](https://docs.google.com/document/d/1h9QLNwEoLp4_z47fOWCxbVi_DE_0reFP/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true)</td>
+      <td><a href="https://docs.google.com/document/d/1h9QLNwEoLp4_z47fOWCxbVi_DE_0reFP/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true"></a>Worksheet 6</td>
       <td>Solutions 6</td>
       <td>Recording 6<br/>Passcode: ???</td>
       <td>Slides 6</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
