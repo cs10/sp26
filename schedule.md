@@ -395,7 +395,7 @@
     <tr>
       <th>Thu 2/26</th>
       <td></td>
-      <td>Lab 10. Recursive Reporters</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab10/">Lab 10. Recursive Reporters </a><br/></td>
       <td>Disc 6. Recursion II</td>
       <td></td>
     </tr>
