@@ -383,8 +383,8 @@
       <th>Wed 2/25</th>
       <td>
         Lec 10. Recursion III (Count Change)<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1Xrhj1yJFQkDxQU0yd4JZdtaz2OCgdHle/view?usp=sharing">(Slides 10) </a><br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495179/submissions">(Lecture Quiz 10) </a><br/>
       </td>
