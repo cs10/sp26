@@ -80,7 +80,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 6 Discussion</td>
       <td>Tree Recursion + Fractals</td>
-      <td><a href="https://docs.google.com/document/d/1h9QLNwEoLp4_z47fOWCxbVi_DE_0reFP/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true"></a>Worksheet 6</td>
+      <td><a href="https://docs.google.com/document/d/1h9QLNwEoLp4_z47fOWCxbVi_DE_0reFP/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 6</a></td>
       <td>Solutions 6</td>
       <td>Recording 6<br/>Passcode: ???</td>
       <td>Slides 6</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
