@@ -25,9 +25,8 @@ UC Berkeley, Spring 2026
 - Friday's Talk will go over the solutions to Quest 2. It will NOT be recorded.
 
 <!--
-## Announcements: Wednesday, February 25
-- ***IMPORTANT: Lab on Thursday (2/26) will be held in 380 Soda Hall, NOT the Woz!!***
-- Read Weekly Blast #6 on Ed.
+## Announcements: Friday, February 27
+- GradeView is now up!
 - Quest 3 will be released this Friday, 2/27, at 4 PM and will stay open until Sunday at 11:59 PM.
 - You only need to complete the questions you did not get right on Quest 1 or Quest 2.
 -->
@@ -47,6 +46,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
