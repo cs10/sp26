@@ -28,7 +28,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 8: Boards](/sp26/labs/lab08boards) | TUE 2/17 |
 | Catch-up Session (Optional) | THU 2/19 – Nothing to submit |
 | [Lab 9: Trees & Fractals](/sp26/labs/lab09) | TUE 2/24 |
-| Lab 10: Recursive Reporters | THU 2/26 |
+| [Lab 10: Recursive Reporters](/sp26/labs/lab10) | THU 2/26 |
 | Lab 11: Testing + 2048 | TUE 3/3 |
 | Lab 12: Functions as Data, HOFs | THU 3/5 |
 | Midterm Practice (no code) | TUE 3/10 |
