@@ -1,12 +1,12 @@
 ---
-title: "Lab 08"
-description: "Testing + Project 3"
-due: "Friday, October 3rd, 11:59PM"
+title: "Lab 11"
+description: "Testing + 2048"
+due: "Thursday, March 5th, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 8: Testing + Proj 3
+# Lab 11: Testing + 2048
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab.
