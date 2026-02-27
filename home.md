@@ -18,7 +18,6 @@ UC Berkeley, Spring 2026
 
 - Quest 3 (the last Quest) will be released today (2/27) at 4 PM.
 - Project 3: 2048 will be released next Monday.
-- [GradeView](https://gradeview.eecs.berkeley.edu/login) is now set up!
 
 <!--
 ## Announcements: Friday, February 27
@@ -42,6 +41,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
