@@ -14,10 +14,12 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, February 27
+## Announcements: Monday, March 2
 
-- Quest 3 (the last Quest) will be released today (2/27) at 4 PM.
-- Project 3: 2048 will be released next Monday.
+- Read Weekly Blast 7 on Ed
+- Project 3: 2048 will be released today and due Monday, 3/16!
+- Complete Zones 5-11 (inclusive) of Practice Midterm: No Snap! by Wednesday, 3/4.
+  - We will go over the solutions during Wednesday's lecture!
 
 <!--
 ## Announcements: Friday, February 27
@@ -41,6 +43,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
