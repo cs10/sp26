@@ -44,12 +44,12 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 3: 2048</td>
-      <!-- <td><a href="/sp26/projects/project3">Project 3 Intructions</a></td> -->
-      <td>Project 3 Intructions</td>
-      <!-- <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td> -->
-      <td>Proj 3 Walkthrough Slides</td>
+      <td><a href="/sp26/projects/project3">Project 3 Intructions</a></td>
+      <!-- <td>Project 3 Intructions</td> -->
+      <td><a href="https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing">Proj 3 Walkthrough Slides</a></td>
+      <!-- <td>Proj 3 Walkthrough Slides</td> -->
       <td>Monday, 3/2</td>
-      <td>-</td>
+      <td>Monday, 3/16</td>
     </tr>
     <tr>
       <td>Project 4: Tech in Context</td>
@@ -104,6 +104,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table>
+
 
 
 
