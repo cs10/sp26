@@ -433,8 +433,8 @@
       <th>Mon 3/2</th>
       <td>
         Lec 11. Testing + 2048<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href ="https://drive.google.com/file/d/1qNBhzZQ1ML_sRo917iqLl2GON3zLFtfW/view?usp=sharing"> (Slides 11) </a> <br/>
         <a href = "https://www.gradescope.com/courses/1232070/assignments/7495165/submissions"> (Lecture Quiz 11)  </a> <br/>
       </td>
