@@ -440,7 +440,7 @@
       </td>
       <td></td>
       <td></td>
-      <td><b>Proj 3 Released</b></td>
+      <td><b><a href="/sp26/projects/project3">Proj 3 Released</a></b></td>
     </tr>
     <tr>
       <th>Tue 3/3</th>
