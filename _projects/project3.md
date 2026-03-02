@@ -143,7 +143,7 @@ Make sure you aren’t modifying the original board when working on this. Your o
 
 ## Part 3: Merging
 
-In this section of the project, you’ll be filling out two blocks: ‘merge column _ of _ up’ and ‘merge up _’. It is highly recommended that you make helper blocks as part of your implementation of ‘merge column _ of _ up’. Note that you can create **helper blocks** by right clicking in the scripting area and selecting “make a block…”
+In this section of the project, you’ll be filling out two blocks: ‘merge column _ of _ up’ and ‘merge up _’. It is highly recommended that you make **helper blocks** as part of your implementation of ‘merge column _ of _ up’. In the [walkthrough guide](https://drive.google.com/file/d/1koa1TbOmoDa5tiIEm6hohQjiMaWjLI1H/view?usp=sharing), we suggest creating two helper blocks — **<ins>"join up" and "merge up"</ins>** — and **we highly encourage you to use a similar approach**. Note that you can create **helper blocks** by right clicking in the scripting area and selecting “make a block…”
 
 This [article breaks](https://steven.codes/blog/cs10/2048-merge/) down the components of merging a single column, which you should mimic with your implementation. Also, make sure that you’re maintaining the abstraction provided by ‘merge column __ of __ up’ when you build ‘merge up __’ which is to say try to use ‘merge column __ of __ up’ while coding up ‘merge up __’. 
 
@@ -209,5 +209,6 @@ See grading breakdown below:
 | no moves left for _ ? | Predicate | 4.67 |
 | Testing | Variable | 3.65 |
 | Feedback Form | N/A | 1 |
+
 
 
