@@ -14,7 +14,7 @@
 
 <!-- Add a jump-to button to navigate to the current week -->
 <p>
-  <a href="#week6">Jump to Current Week</a>
+  <a href="#week7">Jump to Current Week</a>
 </p>
 
 <!-- Week 1 Calendar -->
@@ -334,7 +334,7 @@
       <td>
         Talk 5. Quest 1 Review<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
@@ -404,7 +404,7 @@
       <td>
         Talk 6. Quest 2 Review<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
