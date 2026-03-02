@@ -452,7 +452,7 @@
     <tr>
       <th>Wed 3/4</th>
       <td>
-        Lec 12. Higher-Order Functions<br/>
+        Lec 12. Practice Midterm (Zone 5-11)<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
         (Slides 12)<br/>
