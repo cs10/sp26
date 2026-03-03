@@ -472,7 +472,7 @@
     <tr>
       <th>Fri 3/6</th>
       <td>
-        Talk 7. Recursion<br/>
+        Talk 7. Practice Midterm (Zone 12 & With Snap!)<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)
       </td>
