@@ -445,7 +445,7 @@
     <tr>
       <th>Tue 3/3</th>
       <td></td>
-      <td>Lab 11. Testing + 2048</td>
+      <td><a href="https://cs10.org/sp26/labs/lab11/">Lab 11. Testing + 2048</a></br></td>
       <td></td>
       <td></td>
     </tr>
