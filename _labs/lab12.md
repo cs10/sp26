@@ -103,9 +103,9 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **boolean**  
 
 **Examples**  
-- ![example pandigital check true for 15432]({{ site.baseurl }}/assets/images/lab_images/lab14_1.png)  
-- ![example pandigital check false for 11132]({{ site.baseurl }}/assets/images/lab_images/lab14_2.png)  
-- ![example pandigital check true for 987654321]({{ site.baseurl }}/assets/images/lab_images/lab14_3.png)  
+- ![example pandigital check true for 15432]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_1.png)  
+- ![example pandigital check false for 11132]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_2.png)  
+- ![example pandigital check true for 987654321]({{ site.baseurl }}/assets/images/lab_images/lab6_b3_3.png)  
 
 ---
 
