@@ -14,12 +14,12 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, March 2
+## Announcements: Wednesday, March 4
 
-- Read Weekly Blast 7 on Ed
-- Project 3: 2048 will be released today and due Monday, 3/16!
-- Complete Zones 5-11 (inclusive) of Practice Midterm: No Snap! by Wednesday, 3/4.
-  - We will go over the solutions during Wednesday's lecture!
+- Read [Weekly Blast 7](https://edstem.org/us/courses/93956/discussion/7754572) on Ed
+- Quest 3 scores released!
+  - Come to OH to go over solutions.
+- Midterm 1 will be released next Friday, 3/13
 
 <!--
 ## Announcements: Friday, February 27
@@ -43,6 +43,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
