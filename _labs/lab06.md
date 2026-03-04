@@ -68,9 +68,9 @@ Topics that are important but not required for this lab will be indicated with a
 - Reports a **boolean** (`true` if factorion, otherwise `false`)  
 
 **Examples**  
-- ![example factorion check true for 145]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_1.png)  
-- ![example factorion check false for 123]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_2.png)  
-- ![example factorion check true for 40585]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_3.png)  
+- ![example factorion check true for 145]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_2.png)  
+- ![example factorion check false for 123]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_3.png)  
+- ![example factorion check true for 40585]({{ site.baseurl }}/assets/images/lab_images/lab6_b1_4.png)  
 
 ---
 
