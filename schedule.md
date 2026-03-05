@@ -445,7 +445,7 @@
     <tr>
       <th>Tue 3/3</th>
       <td></td>
-      <td><a href="https://cs10.org/sp26/labs/lab11/">Lab 11. Testing + 2048</a></br></td>
+      <td><a href="https://cs10.org/sp26/labs/lab11/">Lab 11. Testing + 2048</a><br/></td>
       <td></td>
       <td></td>
     </tr>
@@ -465,7 +465,7 @@
     <tr>
       <th>Thu 3/5</th>
       <td></td>
-      <td>Lab 12. Functions as Data, HOFs</td>
+      <td><a href="https://cs10.org/sp26/labs/lab12/">Lab 12. Functions as Data, HOFs</a><br/></td>
       <td>Disc 7. HOFs, Lambdas, Debugging</td>
       <td></td>
     </tr>
