@@ -1,7 +1,7 @@
 ---
 title: "Lab 12"
 description: "HOFs and Functions as Data"
-due: "Thursday, February 12th, 23:59"
+due: "Tuesday, March 10th, 23:59"
 gradescope_assignment_id:
 submission_files:
 ---
