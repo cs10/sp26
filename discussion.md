@@ -87,8 +87,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 7 Discussion</td>
-      <td>HOFs, Lambdas, Debugging</td>
-      <td>Worksheet 7</td>
+      <td>HOFs, Rings, Debugging</td>
+      <td><a href="https://docs.google.com/document/d/1q2jED6UdmFGkmwLVgXl3uPAASeCKKzuM/edit">Worksheet 7</a></td>
       <td>Solutions 7</td>
       <td>Recording 7<br/>Passcode: ???</td>
       <td>Slides 7</td>
@@ -159,6 +159,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
   </tbody>
 </table>
+
 
 
 
