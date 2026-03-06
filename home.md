@@ -14,12 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Wednesday, March 4
+## Announcements: Friday, March 6
 
-- Read [Weekly Blast 7](https://edstem.org/us/courses/93956/discussion/7754572) on Ed
-- Quest 3 scores released!
-  - Come to OH to go over solutions.
 - Midterm 1 will be released next Friday, 3/13
+- Complete the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) if you have not already.
+- Support OH (Fridays 12-1 PM) is now hybrid!
 
 <!--
 ## Announcements: Friday, February 27
@@ -43,6 +42,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
