@@ -28,7 +28,7 @@ UC Berkeley, Spring 2026
 -->
 
 **Instructor:** <a href="https://people.eecs.berkeley.edu/~ddgarcia/">Teaching Professor Dan Garcia</a>  
-**Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall (starts week 3)  
+**Instructor’s OH:** Monday @ 3–4 PM in 777 Soda Hall
 **Lectures:** Monday, Wednesday, Friday @ 10–11 AM in 60 Evans Hall  
 **Labs:** Tuesday, Thursday @ 3–5 PM in 430 Soda Hall  
 **Discussion:** Thursday @ 11 AM–12 PM in 430 Soda Hall  
@@ -42,6 +42,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
