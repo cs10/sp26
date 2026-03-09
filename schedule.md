@@ -473,8 +473,8 @@
       <th>Fri 3/6</th>
       <td>
         Talk 7. Practice Midterm (Zone 12 & With Snap!)<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
@@ -503,8 +503,8 @@
       <th>Mon 3/9</th>
       <td>
         Lec 13. Guest Lecture: Saving the World with Computing<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1ID9R-hKr7mFSvaC5gIF-HjFuPFoSYJVn/view?usp=sharing">(Slides 13)</a> <br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495212/submissions">(Lecture Quiz 13)</a><br/>
       </td>
