@@ -505,7 +505,7 @@
         Lec 13. Guest Lecture: Saving the World with Computing<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        <a href="https://drive.google.com/open?id=1gTbWMd20mTzzdndbMlVtTe2z-Ww2n7jf&usp=drive_fs">(Slides 13)</a> <br/>
+        <a href="https://drive.google.com/file/d/1ID9R-hKr7mFSvaC5gIF-HjFuPFoSYJVn/view?usp=sharing">(Slides 13)</a> <br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495212/submissions">(Lecture Quiz 13)</a><br/>
       </td>
       <td></td>
