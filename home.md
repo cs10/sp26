@@ -14,11 +14,10 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, March 6
+## Announcements: Monday, March 9
 
-- Midterm 1 will be released next Friday, 3/13
-- Complete the [Pre-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSezGZvL_Q5UhxT8FsjlYOIARHvSiZ90Dc6i3dtk_TWrwAtY_w/viewform) if you have not already.
-- Support OH (Fridays 12-1 PM) is now hybrid!
+- Midterm 1 will be released this Friday, 3/13, at 4 PM and will stay open until Sunday at 11:59 PM.
+- Project 3 Party this Friday, 3/13! Time and location will be announced soon.
 
 <!--
 ## Announcements: Friday, February 27
@@ -42,6 +41,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
