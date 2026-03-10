@@ -515,7 +515,7 @@
     <tr>
       <th>Tue 3/10</th>
       <td></td>
-      <td>Midterm Practice (no code)</td>
+      <td> <a href="https://cs10.org/sp20/exams/midterm/2019Fa/exam.pdf">Midterm Practice (no code)</a><br/></td>
       <td></td>
       <td></td>
     </tr>
