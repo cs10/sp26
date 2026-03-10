@@ -20,9 +20,12 @@ UC Berkeley, Spring 2026
 - Project 3 Party this Friday, 3/13! Time and location will be announced soon.
 
 <!--
-## Announcements: Friday, February 27
-- GradeView is now up!
-- Quest 3 will be released this Friday, 2/27, at 4 PM and will stay open until Sunday at 11:59 PM.
+## Announcements: Wednesday, March 11
+- Dan's Instructor OH are on Mondays @ 3-4 PM in Soda 777!
+- Midterm 1 will be released this Friday, 3/13, at 4 PM and will stay open until Sunday at 11:59 PM.
+- Project 3 Party this Friday @ 5-8PM!
+- Project 4 released today
+
 - You only need to complete the questions you did not get right on Quest 1 or Quest 2.
 -->
 
@@ -41,6 +44,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
