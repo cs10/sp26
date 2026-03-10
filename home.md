@@ -21,6 +21,7 @@ UC Berkeley, Spring 2026
 
 <!--
 ## Announcements: Wednesday, March 11
+- No more handouts during lecture--please refer to the website for Lecture Slides. 
 - Dan's Instructor OH are on Mondays @ 3-4 PM in Soda 777!
 - Midterm 1 will be released this Friday, 3/13, at 4 PM and will stay open until Sunday at 11:59 PM.
 - Project 3 Party this Friday @ 5-8PM!
@@ -44,6 +45,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
