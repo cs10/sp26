@@ -572,7 +572,7 @@
       <td class="schedule-week-num" rowspan="5">Week 9</td>
       <th>Mon 3/16</th>
       <td>
-        Lec 15. Programming Paradigms<br/>
+        Lec 15. Higher-Order Functions<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
         (Slides 15)<br/>
@@ -592,7 +592,7 @@
     <tr>
       <th>Wed 3/18</th>
       <td>
-        Lec 16. OOP in Snap!<br/>
+        Lec 16. Programming Paradigms<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
         (Slides 16)<br/>
