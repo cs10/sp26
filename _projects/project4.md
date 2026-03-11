@@ -7,17 +7,17 @@ submission_files:
     - N/A
 ---
 
-*Version 1.0. Last Updated: 2025-10-31.*
+*Version 1.0. Last Updated: 2025-03-11.*
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
-- [Artifact + Documentation](https://www.gradescope.com/courses/1098053/assignments/6577001) Due: **Wednesday, 10/29 at 11:59 PM PT** on Gradescope
+- [Artifact + Documentation](https://www.gradescope.com/courses/1232070/assignments/7495230) Due: **Tuesday, 3/31 at 11:59 PM PT** on Gradescope
 
-- Presention on **Thursday, 4/2 at 11 AM PT in Soda 430** during discussion.
-    - Information on Mmake-up presentations is provided below. 
+- Presention on **Thursday, 4/2 at 11 AM in Soda 430** during discussion.
+    - Information on makeup presentations is provided below. 
 
-- [Comments + Peer Feedback](https://www.gradescope.com/courses/1098053/assignments/6577075) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
-    - Be sure to upload the comments to [Ed Discussion, linked here](https://edstem.org/us/courses/83126/discussion/7236195)
+- [Comments + Peer Feedback](https://www.gradescope.com/courses/1232070/assignments/7495242) Due: **Friday, 4/10 at 11:59 PM PT** on Gradescope
+    - Be sure to upload the comments to Ed Discussion (link TBD)
       
 > Any important updates or clarifications will be made here.
 
@@ -38,8 +38,8 @@ VII. Rubric & Grading
 ## Submission Guidelines
 
 1. Upload your project to the Project 4: Artifact + Documentation assignment on Gradescope 
-2. After you present, collect the peer feedback forms which you will need to upload to the Gradescope assignment: Project 4: Comments + Peer Feedback
-    - You will also need to include your comments to two peer’s projects.
+2. After you present, collect the peer feedback forms, which you will need to upload to the Gradescope assignment: Project 4: Comments + Peer Feedback
+    - You will also need to include your comments on two peers’ projects.
 3. Having trouble? Contact your lab TA or go to office hours (OH)!
 
 
@@ -61,7 +61,7 @@ We want this to be a fun and exciting project that allows you to pursue your int
 | Part  | Submission Method | Due Date |
 | :------------------------------: | :--------: | :-------------------: | 
 | Part 1: Artifact + Documentation | Gradescope | TUES 3/31 AT 11:59 PM |
-| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | FRI 4/10 |
+| Part 2: Presentation | In Person in Discussion or Makeup OH (makeup times will be limited and posted on EdStem) | THU 4/2 - FRI 4/10 |
 | Part 3: Peer Reflection/Comment + Feedback | Gradescope | FRI 4/10 11:59 PM |
 
 ## AI and Generative Tool Guidelines 
@@ -157,7 +157,7 @@ Your artifact should include details that express your technical topic in a crea
 
 ## Part 2: Group Presentation + Peer Feedback
 
-For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session (Thursday 11 AM - 12 PM). This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
+For this assignment, you will present your Artifact in small, collaborative groups during our scheduled Discussion session on 4/2, Thursday, 11 AM - 12 PM. This format is designed to foster a deeper exchange of ideas, encourage constructive feedback, and allow for a more intimate exploration of the societal, economic, or cultural impact of the tech-related topics we are studying.
 
 The small group setting is intended to create a supportive environment where you can confidently showcase your creative medium, whether it be an artwork, sculpture, video, infographic, collage, or diorama. The goal of the presentations is not only to exhibit your work but to engage with your peers, offering insights into how your chosen medium effectively communicates the implications of your topic.
 
@@ -172,16 +172,16 @@ If you can not attend the allotted Discussion Time for any reason. You will have
 ### Presentation Guidelines (7 minutes)
 
 - Signing up for a time
-    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1eOwFJM7H1RLn21xB9W_L91QdbPRTKeeEf1-BGHzB7rI/edit?usp=sharing)
+    - You must sign up for a time slot. Please do so by adding your first and last name to the [Google Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=0#gid=0)
     - Please note, you are expected to stay the full discussion hour
 - Artifact/Visual Aids
     - Present your physical project or digital archive
-    - You may have supplementary notes and material although not required.
+    - You may have supplementary notes and material, although not required.
 - Content Overview 
     - Provide a clear and engaging introduction to your artifact and its focus (e.g., the technology you explored and its societal implications)
     - Summarize the creative process behind your artifact, including your chosen medium and how it conveys your topic.
     - Highlight key points such as:
-        - The societal, conomic, or cultural impact of the technology.
+        - The societal, economic, or cultural impact of the technology.
         - Any challenges or ethical dilemmas explored.
         - The role of AI, if applicable, in your research or artifact creation.
         - Include a brief discussion of sources or research that informed your work (especially for AI use, citations, and references).
@@ -193,7 +193,7 @@ If you can not attend the allotted Discussion Time for any reason. You will have
     - Points from staff members - Staff members will be grading your participation to ensure that you adhered to the following:
         - Presents for at least six minutes.
         - Facilitates and leads discussion/Q&A with peers
-        - Explains artifact’s purpose and impact   
+        - Explains the artifact’s purpose and impact   
         - Provides thoughtful answers to at least 2 peer questions
         - Asks a question (as an audience member) to each presenter in the group
 
@@ -214,7 +214,7 @@ You will be writing comments for two members of your group. These comments will 
 
 ### Comments
 - Guidelines & Submission
-    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/10) .
+    - Reflect on 2 of your classmates’ essays on Gradescope (Due: 4/10).
         - Your response should be a short reflection based on two presentations you participated in. 
         - You can write about something new you learned, something that stood out to you or you found surprising, or how the project relates to your prior knowledge about the subject, how the topic of the essay connects with your topic, etc.
         - Your comments should include at least one question about the topic.
@@ -230,20 +230,20 @@ You will be writing comments for two members of your group. These comments will 
 
 ### Make-up Presentations + Logistics
 - We will offer make-up presentations during the following times, but you must sign up using the Google Sheet link above:
-    - TBD
-    - TBD
-    - TBD
+    - TBD 
+    - TBD 
+    - TBD 
 - Please note, you will need at least one other person to sign up for a presentation time.
     - If you only have one other person to do the presentation with, you will still need to gain points for the "Comments / Feedback" section.
-- To gain credit for the "Comments / Feedback" portion you will watch any [Ted Talk - Technology (click here)](https://www.ted.com/topics/technology), and upload meaningful comments onto EdStem while also providing a link to that Ted Talk. You can pick the Ted Talk you find the most interesting as long as it is technology related.
-    - If you need credit for two comments, you must watch and comment on two separate Ted Talks.
+- To gain credit for the "Comments / Feedback" portion, you will watch any [TED Talk - Technology (click here)](https://www.ted.com/topics/technology), and upload meaningful comments onto EdStem while also providing a link to that TED Talk. You can pick the TED Talk you find the most interesting as long as it is technology-related.
+    - If you need credit for two comments, you must watch and comment on two separate TED Talks.
 
 
 ## Feedback Form
 
 Congratulations on finishing your fourth project in CS10🥳
 
-Please spend some time completing this [feedback form](https://forms.gle/KvJaDL7GMnkeNZLK7). This will be worth 1 point of your project grade. Thank you!
+Please spend some time completing this [feedback form](https://forms.gle/vzAhF9xyY4CDp13v9). This will be worth 1 point of your project grade. Thank you!
 
 ## Rubric & Grading
 
@@ -275,6 +275,7 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Peer Feedback Slips from Presentation  | +1.0     |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 
 
 
