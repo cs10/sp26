@@ -33,8 +33,8 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 12: Functions as Data, HOFs](/sp26/labs/lab12) | THU 3/5 |
 | Midterm Practice (no code) | TUE 3/10 |
 | Midterm Practice (code) | THU 3/12 |
-| Project 4 Work Session (Optional) | TUE 3/17 – Nothing to submit |
-| Lab 13: OOP in Snap! | THU 3/19 |
+| NO LAB | TUE 3/17 – Nothing to submit |
+| Lab 13: OOP in Snap! (Optional) | THU 3/19 |
 | Lab 14: Welcome to Python | TUE 3/31 |
 | Lab 15: Data Structures in Python | THU 4/2 |
 | Lab 16: Concurrency | TUE 4/7 |
