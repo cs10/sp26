@@ -210,7 +210,7 @@ Conclude the Q&A with a brief summary of your project’s key points or takeaway
 
 ## Part 3: Peer Reflection/Comments
 
-You will be writing comments for two members of your group. These comments will be posted in [EdStem Thread](https://edstem.org/us/courses/83126/discussion/7236195). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
+You will be writing comments for two members of your group. These comments will be posted in the EdStem Thread(Link TBD). To submit, you will need to take screenshots of your comments from EdStem, and upload the screenshots to Gradescope.
 
 ### Comments
 - Guidelines & Submission
@@ -275,6 +275,7 @@ Project 4 will be graded for coherence and content based on the following rubric
 |                                   | Peer Feedback Slips from Presentation  | +1.0     |
 | **Feedback Form (1 pt)**           |                                                         |            |
 |                                   | Complete the feedback form                                   | +1.0       |
+
 
 
 
