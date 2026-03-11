@@ -525,7 +525,7 @@
         Lec 14. Computing in Education<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 14)<br/>
+        <a href="https://drive.google.com/file/d/1X3Wq8GPb03wpCnxYyAdbJTqVC5oNdQ7v/view?usp=sharing">(Slides 14)</a><br/>
         (Lecture Quiz 14)
       </td>
       <td></td>
