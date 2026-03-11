@@ -7,9 +7,9 @@ nav_order: 6
 
 # Projects
 
-> This page will be updated with CS10's project specifications / guidelines (specs) and walkthroughs. Recordings, if avaiable, will also be updated here. 
+> This page will be updated with CS10's project specifications/guidelines (specs) and walkthroughs. Recordings, if available, will also be updated here. 
 
-> Project specs may change; they are under construction until the day they are released. Please read the specs in their entirety as they contain specific information on what you need to complete and how you can complete those tasks.
+> Project specs may change; they are under construction until the day they are released. Please read the specs in full, as they contain specific information on what you need to complete and how to complete those tasks.
 
 > Each project will also have a Project Party (which are office hours that are more heavily staffed with many of your peers working on the same project). Dates, times, and locations for the Project parties will be released on EdStem.
 
@@ -53,18 +53,18 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 4: Tech in Context</td>
-      <!-- <td><a href="/sp26/projects/project4">Project 4 Intructions</a></td> -->
-      <td>Project 4 Intructions</td>
-      <!-- <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td> -->
-      <td>Example Projects</td>
+      <td><a href="/sp26/projects/project4">Project 4 Intructions</a></td>
+      <!-- <td>Project 4 Intructions</td> -->
+      <td><a href="https://drive.google.com/drive/folders/1Rr0uR3vTD9ch5qs6IaLWrtEILqh_mCzk?usp=sharing">Example Projects</a></td>
+      <!-- <td>Example Projects</td> -->
       <td>Wednesday, 3/11</td>
       <td>Tuesday, 3/31</td>
     </tr>
     <tr>
       <td>Project 4: Presentations</td>
       <td>Project 4 Intructions</td>
-      <!-- <td><a href="https://docs.google.com/document/d/1SHMKGwKYmTjeZ_Z-6Uo-VHEN0l2B4NxVk-oNSF7KQ6A/edit?usp=sharing">Presenting Instructions</a></td> -->
-      <td>Presenting Instructions</td>
+      <td><a href="https://docs.google.com/document/d/1N2R6tw35zo9M3eLd_E64V0EzxRUKq08VZPGb9oN9w9k/edit?usp=sharing">Presenting Instructions</a></td>
+      <!-- <td>Presenting Instructions</td> -->
       <td>-</td>
       <td>Thursday, 4/2</td>
     </tr>
@@ -104,6 +104,7 @@ nav_order: 6
     </tr>
   </tbody>
 </table>
+
 
 
 
