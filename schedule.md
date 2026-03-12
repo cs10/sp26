@@ -535,7 +535,7 @@
     <tr>
       <th>Thu 3/12</th>
       <td></td>
-      <td>Midterm Practice (code)</td>
+      <td><a href="https://cs10.org/sp26/labs/practicemidterm/">Midterm Practice (code)</a><br/</td>
       <td>Disc 8. Midterm Preview</td>
       <td></td>
     </tr>
