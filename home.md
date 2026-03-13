@@ -14,15 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Wednesday, March 11
+## Announcements: Friday, March 13
 
-- Read [Weekly Blast 8 ✏️🧐📚](https://edstem.org/us/courses/93956/discussion/7794218)
-- No more handouts during lecture--please refer to the website for Lecture Slides. 
-- Dan's Instructor OH are on Mondays @ 3-4 PM in Soda 777!
-- Midterm 1 will be released this Friday, 3/13, at 4 PM and will stay open until Sunday at 11:59 PM.
-- Project 3 Party this Friday @ 5-8PM!
-- Project 4 released today
-
+- Midterm 1 will be released Friday, 3/13, at 4 PM and will stay open until Sunday, 3/15, at 11:59 PM.
+- Project 3 Party today @ 5-8PM in Soda 380!
+  
 <!--
 ## Announcements: Wednesday, March 11
 - Read [Weekly Blast 8 ✏️🧐📚](https://edstem.org/us/courses/93956/discussion/7794218)
@@ -48,6 +44,7 @@ UC Berkeley, Spring 2026
 ## CS10 Calendar
 
 {% include_relative schedule.md %}
+
 
 
 
