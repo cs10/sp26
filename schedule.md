@@ -575,7 +575,7 @@
         Lec 15. Higher-Order Functions<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 15)<br/>
+        <a href="https://drive.google.com/file/d/1P3uPWHNKfCH4wDb0Bm78OppqcUwVuHzi/view?usp=sharing">(Slides 15)</a><br/>
         (Lecture Quiz 15)
       </td>
       <td></td>
@@ -595,7 +595,7 @@
         Lec 16. Programming Paradigms<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 16)<br/>
+        <a href="https://drive.google.com/file/d/1xxxfLh1hqQ5hLTxI7HYfyevfWZ85-DyR/view?usp=sharing">(Slides 16)</a><br/>
         (Lecture Quiz 16)
       </td>
       <td></td>
@@ -684,7 +684,7 @@
         Lec 17. Python I - Intro<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 17)<br/>
+        <a href ="https://drive.google.com/file/d/1YUJ3u3rAEupUhF-FXN2tmxmMa7cF76Gl/view?usp=sharing"> (Slides 17)</a><br/>
         (Lecture Quiz 17)
       </td>
       <td></td>
@@ -704,7 +704,7 @@
         Lec 18. Python II - Data Types & Structures<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 18)<br/>
+        <a href="https://drive.google.com/file/d/1MCDsVs7i7PDOWl3UiLdvXT3uh6a4eEWt/view?usp=sharing">(Slides 18)</a><br/>
         (Lecture Quiz 18)
       </td>
       <td></td>
@@ -754,7 +754,7 @@
         Lec 19. Concurrency<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 19)<br/>
+        <a href="https://drive.google.com/file/d/1mah53ezKlaazkbHCLn3EBMzEm1HPfQdK/view?usp=sharing">(Slides 19)</a><br/>
         (Lecture Quiz 19)
       </td>
       <td></td>
@@ -774,7 +774,7 @@
         Lec 20. Gen AI<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 20)<br/>
+        <a href="https://drive.google.com/file/d/1wAdfcJAekA995hhxkHmtCgGaFpJ1ft9B/view?usp=sharing">(Slides 20)</a><br/>
         (Lecture Quiz 20)
       </td>
       <td></td>
@@ -844,7 +844,7 @@
         Lec 22. Ethics in AI<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 22)<br/>
+        <a href="https://drive.google.com/file/d/1_x2ZngZnsFuYmaLbNXMvbSnrw5uJrhC4/view?usp=sharing">(Slides 22)</a><br/>
         (Lecture Quiz 22)
       </td>
       <td></td>
@@ -894,7 +894,7 @@
         Lec 23. Python III - Game Theory<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 23)<br/>
+        <a href="https://drive.google.com/file/d/1WjUMNPPyux9ufzt0qYzZ8PWValg2Pf8q/view?usp=sharing">(Slides 23)</a><br/>
         (Lecture Quiz 23)
       </td>
       <td></td>
@@ -914,7 +914,7 @@
         Lec 24. Python IV – OOP<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 24)<br/>
+        <a href="https://drive.google.com/file/d/1n1cRmiF0logdUF_JbRB2YzJ63Lzf4Nb1/view?usp=drive_link">(Slides 24)</a><br/>
         (Lecture Quiz 24)
       </td>
       <td></td>
@@ -984,7 +984,7 @@
         Lec 26. Conclusion and Farewell<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 26)<br/>
+        <a href="https://drive.google.com/file/d/1Gg70aKVxQ6XdGED4mPcPHHdwRrkdkGdv/view?usp=sharing">(Slides 26)</a><br/>
         (Lecture Quiz 26)
       </td>
       <td></td>
