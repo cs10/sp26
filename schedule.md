@@ -585,7 +585,7 @@
     <tr>
       <th>Tue 3/17</th>
       <td></td>
-      <td>Project 4 Work Session (Optional)</td>
+      <td>NO LAB</td>
       <td></td>
       <td></td>
     </tr>
