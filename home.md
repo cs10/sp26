@@ -14,10 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, March 13
+## Announcements: Monday, March 16
 
-- Midterm 1 will be released Friday, 3/13, at 4 PM and will stay open until Sunday, 3/15, at 11:59 PM.
-- Project 3 Party today @ 5-8PM in Soda 380!
+- There will be no lab tomorrow, 3/17!
+- Thursday's lab will be optional.
+- Project 3 is due today, 3/16.
   
 <!--
 ## Announcements: Wednesday, March 11
