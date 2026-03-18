@@ -14,11 +14,12 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, March 16
-
-- There will be no lab tomorrow, 3/17!
-- Thursday's lab will be optional.
-- Project 3 is due today, 3/16.
+## Announcements: Wednesday, March 18
+- [Midterm 1](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=0#gid=0) Scores Released!
+- Midterm 2 will be released this Friday, 3/20, at 4 PM and will stay open until Sunday, 3/22, at 11:59 PM.
+- Thursday's (3/19) lab will be optional.
+- [Project 4](https://cs10.org/sp26/projects/project4/) has been released!
+  - [Sign up](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=0#gid=0) for a presentation slot.
   
 <!--
 ## Announcements: Wednesday, March 18
