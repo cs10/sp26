@@ -605,7 +605,7 @@
     <tr>
       <th>Thu 3/19</th>
       <td></td>
-      <td>Lab 13. OOP in Snap!</td>
+      <td>(Optional) Lab 13. OOP in Snap!</td>
       <td>Disc 9. OOP</td>
       <td></td>
     </tr>
