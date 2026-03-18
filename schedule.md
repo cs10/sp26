@@ -595,7 +595,7 @@
         Lec 16. Programming Paradigms<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        <a href="https://drive.google.com/file/d/1xxxfLh1hqQ5hLTxI7HYfyevfWZ85-DyR/view?usp=sharing">(Slides 16)</a><br/>
+        <a href="https://drive.google.com/file/d/1ljITcJFkp8jdYV2XlAHW90JImZ1mW4zX/view?usp=sharing">(Slides 16)</a><br/>
         (Lecture Quiz 16)
       </td>
       <td></td>
