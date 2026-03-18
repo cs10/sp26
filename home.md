@@ -15,7 +15,8 @@ UC Berkeley, Spring 2026
 {{ site.description }}
 
 ## Announcements: Wednesday, March 18
-- [Midterm 1](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=0#gid=0) Scores Released!
+- [Read Weekly Blast 8 ✏️🧐📚](https://edstem.org/us/courses/93956/discussion/7794218)
+- [Midterm 1 Scores Released!](https://edstem.org/us/courses/93956/discussion/7826040)
 - Midterm 2 will be released this Friday, 3/20, at 4 PM and will stay open until Sunday, 3/22, at 11:59 PM.
 - Thursday's (3/19) lab will be optional.
 - [Project 4](https://cs10.org/sp26/projects/project4/) has been released!
