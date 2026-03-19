@@ -104,7 +104,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 9 Discussion</td>
       <td>OOP</td>
-      <td>Worksheet 9</td>
+      <td><a href="https://docs.google.com/document/d/14nLbChkqeg6e4452oLVEDQQJITkKzQRC/edit">Worksheet 9</a></td>
       <td>Solutions 9</td>
       <td>Recording 9<br/>Passcode: ???</td>
       <td>Slides 9</td>
