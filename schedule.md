@@ -605,7 +605,7 @@
     <tr>
       <th>Thu 3/19</th>
       <td></td>
-      <td>(Optional) Lab 13. OOP in Snap!</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab13">(Optional) Lab 13. OOP in Snap! </a><br/></td>
       <td>Disc 9. OOP</td>
       <td></td>
     </tr>
