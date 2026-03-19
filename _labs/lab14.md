@@ -1,21 +1,19 @@
 ---
-title: "Lab 14"
+title: "Lab 13"
 description: "OOP in Snap!"
-due: "Friday, 10/31"
+due:
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 14: OOP in Snap! (In Person Checkoff)
+# Lab 13: OOP in Snap! (Optional)
 
 ## Instructions
-- **To get credit for this lab, you will need to get checked off by a TA/USC1 or Academic Intern**
 - There is no workbook for this lab.
 - [Here is an optional starter file](https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%2013%3a%20Starter%20%28OOP%20in%20Snap%21%29&editMode&noRun). You are not required to use it, but you can!
-- *If you did not get checked-off during lab, you will need to attend office hours so a course staff member can check you off*
 
 ## Submitting
-This lab requires in-person checkoff. There is no Gradescope submission for this lab.
+There is no submission required for this lab.
 
 ## Objectives
 In this lab, you will practice Object-Oriented Programming (OOP) concepts through Snap! By the end of the lab, you will:
@@ -32,7 +30,7 @@ In this lab, you will practice Object-Oriented Programming (OOP) concepts throug
 
 ---
 
-## Required Sections
+## Sections
 
 ### 1. Create Clones to shoot Balloons at the Target
 
@@ -95,5 +93,3 @@ Make the sprite "faint" or make a funny sound after it's been hit too many times
 - **Add special effects**: Use sounds, colors, or animations when shooting water balloons or when the target is hit.
 
 ---
-
-**Remember to get checked off by a TA/USC1 or Academic Intern!**
