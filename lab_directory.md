@@ -31,7 +31,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 10: Recursive Reporters](/sp26/labs/lab10) | THU 2/26 |
 | [Lab 11: Testing + 2048](/sp26/labs/lab11) | TUE 3/3 |
 | [Lab 12: Functions as Data, HOFs](/sp26/labs/lab12) | THU 3/5 |
-| Midterm Practice (no code) | TUE 3/10 |
+| [Midterm Practice (no code)](https://cs10.org/sp20/exams/midterm/2019Fa/exam.pdf) | TUE 3/10 |
 | [Midterm Practice (code)](/sp26/labs/practicemidterm) | THU 3/12 |
 | NO LAB | TUE 3/17 – Nothing to submit |
 | [Lab 13: OOP in Snap! (Optional)](/sp26/labs/lab13) | THU 3/19 |
