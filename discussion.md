@@ -89,7 +89,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 7 Discussion</td>
       <td>HOFs, Rings, Debugging</td>
       <td><a href="https://docs.google.com/document/d/1q2jED6UdmFGkmwLVgXl3uPAASeCKKzuM/edit">Worksheet 7</a></td>
-      <td>Solutions 7</td>
+      <td><a href="https://docs.google.com/document/d/1BFeXyQirnWyBXr6-Uteq1J1SmvJhYgXc/edit?usp=sharing&ouid=111954439665665643124&rtpof=true&sd=true">Solutions 7</a></td>
       <td>Recording 7<br/>Passcode: ???</td>
       <td>Slides 7</td>
     </tr>
