@@ -97,7 +97,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
       <td>Week 8 Discussion</td>
       <td>Midterm Preview</td>
       <td><a href="https://docs.google.com/document/d/1-jGJKXW6O9Td9uS5ww8rrVrRVkNQ3gqQ/edit">Worksheet 8</a></td>
-      <td>Solutions 8</td>
+      <td><a href="https://docs.google.com/document/d/1QgJpGegecn33EXuJDFDMb3snUXb0BtNU/edit?usp=sharing&ouid=111954439665665643124&rtpof=true&sd=true">Solutions 8</a></td>
       <td>Recording 8<br/>Passcode: ???</td>
       <td>Slides 8</td>
     </tr>
