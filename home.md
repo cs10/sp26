@@ -14,9 +14,12 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, March 20
-- Midterm 2 will be released this Friday, 3/20, at 4 PM and will stay open until Sunday, 3/22, at 11:59 PM.
+## Announcements: Monday, March 30
+- Midterm 3 will be released this Friday, 4/3, at 4 PM and will stay open until Sunday, 4/5, at 11:59 PM.
 - [Project 4](https://cs10.org/sp26/projects/project4/) Artifact & Documentation is due 3/31.
+- Project 4 Group Presentations are in-person during this week's discussion (4/2).
+  - You MUST [sign up](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?usp=sharing) for a presentation slot.
+  - We will provide makeup presentation options. The exact times are TBD. 
   
 <!--
 ## Announcements: Wednesday, March 18
