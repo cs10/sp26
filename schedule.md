@@ -694,7 +694,7 @@
     <tr>
       <th>Tue 3/31</th>
       <td></td>
-      <td>Lab 14. Welcome to Python</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab14/">Lab 14. Welcome to Python</a><br/></td>
       <td></td>
       <td><b>Proj 4 Due</b></td>
     </tr>
