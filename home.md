@@ -20,7 +20,7 @@ UC Berkeley, Spring 2026
 - Friday's Talk will go over Midterm 2 solutions. This will NOT be recorded.
 - Project 4 Group Presentations are in-person during this week's discussion (4/2).
   - You MUST [sign up](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?usp=sharing) for a presentation slot.
-  - If you are unable to attend the Project 4 in-person presentation for some reason, please sign up for a make-up session here: [Makeup Presentation Sign-up Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?usp=sharing).
+  - If you are unable to attend the Project 4 in-person presentation for some reason, please sign up for a make-up session here: [Makeup Presentation Sign-up Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=1242219335#gid=1242219335).
   
 <!--
 ## Announcements: Wednesday, March 18
