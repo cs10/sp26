@@ -523,8 +523,8 @@
       <th>Wed 3/11</th>
       <td>
         Lec 14. Computing in Education<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1X3Wq8GPb03wpCnxYyAdbJTqVC5oNdQ7v/view?usp=sharing">(Slides 14)</a><br/>
         <a href = "https://www.gradescope.com/courses/1232070/assignments/7495169/submissions"> (Lecture Quiz 14)</a><br/>
       </td>
