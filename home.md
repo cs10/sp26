@@ -14,12 +14,13 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, March 30
+## Announcements: Wednesday, April 1
+- Read [Weekly Blast 11🌼🐍🐍](https://edstem.org/us/courses/93956/discussion/7876821)
 - Midterm 3 will be released this Friday, 4/3, at 4 PM and will stay open until Sunday, 4/5, at 11:59 PM.
-- [Project 4](https://cs10.org/sp26/projects/project4/) Artifact & Documentation is due 3/31.
+- Friday's Talk will go over Midterm 2 solutions. This will NOT be recorded.
 - Project 4 Group Presentations are in-person during this week's discussion (4/2).
   - You MUST [sign up](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?usp=sharing) for a presentation slot.
-  - We will provide makeup presentation options. The exact times are TBD. 
+  - If you are unable to attend the Project 4 in-person presentation for some reason, please sign up for a make-up session here: [Makeup Presentation Sign-up Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?usp=sharing).
   
 <!--
 ## Announcements: Wednesday, March 18
