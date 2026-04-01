@@ -229,10 +229,10 @@ You will be writing comments for two members of your group. These comments will 
  
 
 ### Make-up Presentations + Logistics
-- We will offer make-up presentations during the following times, but you must sign up using the Google Sheet link above:
-    - TBD 
-    - TBD 
-    - TBD 
+- We will offer make-up presentations during the following times, but you must sign up using this [Google Sheet](https://docs.google.com/spreadsheets/d/1LXAl9b7m90uj-DpzQ1mUTMCYu-KTDFOeRR55sPNsuFI/edit?gid=1242219335#gid=1242219335):
+    - April 7th, 2026 (11AM - 12PM)
+    - April 8th, 2026 (3PM - 4PM)
+    - April 9th, 2026 (12PM - 1PM) 
 - Please note, you will need at least one other person to sign up for a presentation time.
     - If you only have one other person to do the presentation with, you will still need to gain points for the "Comments / Feedback" section.
 - To gain credit for the "Comments / Feedback" portion, you will watch any [TED Talk - Technology (click here)](https://www.ted.com/topics/technology), and upload meaningful comments onto EdStem while also providing a link to that TED Talk. You can pick the TED Talk you find the most interesting as long as it is technology-related.
