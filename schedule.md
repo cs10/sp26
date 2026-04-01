@@ -613,6 +613,7 @@
       <th>Fri 3/20</th>
       <td>
         Talk 9. Midterm 1 Review<br/>
+      </td>
       <td></td>
       <td></td>
       <td><b>MIDTERM 2</b></td>
