@@ -543,8 +543,8 @@
       <th>Fri 3/13</th>
       <td>
         Talk 8. Midterm 1 Preview<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
@@ -573,8 +573,8 @@
       <th>Mon 3/16</th>
       <td>
         Lec 15. Higher-Order Functions<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1P3uPWHNKfCH4wDb0Bm78OppqcUwVuHzi/view?usp=sharing">(Slides 15)</a><br/>
         (Lecture Quiz 15)
       </td>
@@ -593,8 +593,8 @@
       <th>Wed 3/18</th>
       <td>
         Lec 16. Programming Paradigms<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1ljITcJFkp8jdYV2XlAHW90JImZ1mW4zX/view?usp=sharing">(Slides 16)</a><br/>
         (Lecture Quiz 16)
       </td>
@@ -682,8 +682,8 @@
       <th>Mon 3/30</th>
       <td>
         Lec 17. Python I - Intro<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href ="https://drive.google.com/file/d/1YUJ3u3rAEupUhF-FXN2tmxmMa7cF76Gl/view?usp=sharing"> (Slides 17)</a><br/>
         (Lecture Quiz 17)
       </td>
