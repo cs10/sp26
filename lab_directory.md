@@ -36,7 +36,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | NO LAB | TUE 3/17 – Nothing to submit |
 | [Lab 13: OOP in Snap! (Optional)](/sp26/labs/lab13) | THU 3/19 |
 | [Lab 14: Welcome to Python](/sp26/labs/lab14) | TUE 3/31 |
-| Lab 15: Data Structures in Python | THU 4/2 |
+| [Lab 15: Data Structures in Python](/sp26/labs/lab15) | THU 4/2 |
 | Lab 16: Concurrency | TUE 4/7 |
 | Catch-up Session (Optional) | THU 4/9 – Nothing to submit |
 | Lab 17: Text Processing in Python | TUE 4/14 |
