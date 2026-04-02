@@ -712,7 +712,7 @@
     <tr>
       <th>Thu 4/2</th>
       <td></td>
-      <td>Lab 15. Data Structures in Python</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab15/">Lab 15. Data Structures in Python</a><br/></td>
       <td>Proj 4 Presentations</td>
       <td><b>Proj 4 Presentations</b></td>
     </tr>
