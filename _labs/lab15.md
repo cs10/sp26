@@ -1,12 +1,12 @@
 ---
-title: "Lab 17"
+title: "Lab 15"
 description: "Data Structures in Python"
-due: "Wednesday, November 12th, 11:59PM"
+due: "Thursday, April 9th, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 17: Data Structures in Python
+# Lab 15: Data Structures in Python
 
 ## Instructions
 This worksheet serves as a guide and set of instructions to complete the lab.
