@@ -11,6 +11,8 @@ submission_files:
 
 *We highly recommend reading through this spec in its entirety before you begin.*
 
+**[Sign up for a 10-minute Project 5 Proposal Meeting HERE](https://calendar.app.google/wB8NA3KBW1jGhodq9)**
+
 - Meeting with a Staff Member
     - Before meeting with a staff member, you must submit your proposal.
     - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Spring 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
