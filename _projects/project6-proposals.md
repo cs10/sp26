@@ -15,7 +15,7 @@ submission_files:
     - Before meeting with a staff member, you must submit your proposal.
     - You must sign-up for a 10-minute slot with a staff member to get your project approved. Only one member of your group needs to attend. Failure to be one time will mean you will need to sign-up for a new time slot; otherwise, you will get a '0' score. 
         - Click here for the [link to sign up](https://calendar.app.google/WX8udamw8kJxfDkZ9)
-    - Meetings will run at specific times during Week 12 (April 6th through April 10th)
+    - Meetings will run at specific times during Week 12 (April 7th through April 10th)
 
 ## Content
 
