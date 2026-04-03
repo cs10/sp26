@@ -78,26 +78,26 @@ nav_order: 6
     </tr>
     <tr>
       <td>Project 5: Proposals</td>
-      <!-- <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
-      <td>Project 5 Proposal Intructions</td>
-      <!-- <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td> -->
-      <td>Example Projects Proposals</td>
+      <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
+      <!-- <td>Project 5 Proposal Intructions</td> -->
+      <td><a href="https://docs.google.com/document/d/1IBLwmPiIa9qJ3p1Jvg6o23CnJNGfK0Jr0xQbZg9nMNM/edit?usp=sharing">Example Projects Proposals</a></td>
+      <!-- <td>Example Projects Proposals</td> -->
       <td>Wednesday, 4/1</td>
       <td>Monday, 4/6</td>
     </tr>
     <tr>
       <td>Project 5: Proposal Meetings</td>
-      <!-- <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td> -->
-      <td>Project 5 Proposal Intructions</td>
-      <!-- <td><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ16qdWw-qlMNKLLF79jCXT8I92ENGoAeP3Jm0s=">Proposal Meeting Sign-up Link</a></td> -->
-      <td>Proposal Meeting Sign-up Link</td>
+      <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
+      <!-- <td>Project 5 Proposal Intructions</td> -->
+      <td><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ16qdWw-qlMNKLLF79jCXT8I92ENGoAeP3Jm0s=">Proposal Meeting Sign-up Link</a></td>
+      <!-- <td>Proposal Meeting Sign-up Link</td> -->
       <td>Tuesday–Thursday, 4/7–4/9</td>
       <td>Thursday, 4/9</td>
     </tr>
     <tr>
       <td>Project 5: Final Project</td>
-      <!-- <td><a href="/sp26/projects/project6-project">Project 5 Intructions</a></td> -->
-      <td>Project 5 Intructions</td>
+      <td><a href="/sp26/projects/project6-project">Project 5 Intructions</a></td>
+      <!-- <td>Project 5 Intructions</td> -->
       <td>-</td>
       <td>Wednesday, 4/1<br/>Only start once your project has been approved</td>
       <td>Monday, 5/4</td>
