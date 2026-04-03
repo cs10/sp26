@@ -18,8 +18,9 @@ submission_files:
     - You must sign up for a 10-minute slot with a staff member to get your project approved. For the Spring 2026 semester, you may attend the meeting either in person or via Zoom. Only one member of your group needs to attend. Failure to be on time will mean you will need to sign up for a new time slot; otherwise, you will get a '0' score. 
         - Click here for the [link to sign up](https://calendar.app.google/wB8NA3KBW1jGhodq9)
     - Meetings will run at specific times during Week 12 (April 6th through April 10th)
-    - Sign-up is due by 11:59 PM PST on Monday, 4/6, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
-    - If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
+    - 1 or more attendees required (not all group members need to be present)
+- Sign-up is due by 11:59 PM PST on Monday, 4/6, but you may continue to revise and resubmit your proposal until the time of your meeting. Your proposal will be graded based on the content discussed during the meeting.
+- If you cannot attend any of the available sign-up slots or if all slots are full, please post on Ed as soon as possible so we can make further arrangements.
 
 
 ## Content
