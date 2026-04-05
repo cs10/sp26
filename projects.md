@@ -89,7 +89,7 @@ nav_order: 6
       <td>Project 5: Proposal Meetings</td>
       <td><a href="/sp26/projects/project6-proposals">Project 5 Proposal Intructions</a></td>
       <!-- <td>Project 5 Proposal Intructions</td> -->
-      <td><a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ16qdWw-qlMNKLLF79jCXT8I92ENGoAeP3Jm0s=">Proposal Meeting Sign-up Link</a></td>
+      <td><a href="https://calendar.app.google/FJ27SLDzbZMxAg3m9">Proposal Meeting Sign-up Link</a></td>
       <!-- <td>Proposal Meeting Sign-up Link</td> -->
       <td>Tuesday–Thursday, 4/7–4/9</td>
       <td>Thursday, 4/9</td>
