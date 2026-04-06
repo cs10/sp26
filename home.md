@@ -14,9 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, April 3
-- Midterm 3 will be released today at 4 PM and will stay open until Sunday, 4/5, at 11:59 PM.
+## Announcements: Monday, April 6
 - [Project 4: Peer Feedback + Comments](https://edstem.org/us/courses/93956/discussion/7875117) are due 4/10.
+- [Project 5](https://cs10.org/sp26/projects/project6-proposals/) proposals are due today.
+  - [Sign up](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ06RKDXVAebe2_6rZl0A5x7XJiLCSbBMPbzSvkLIZS5WwGWY83SWdp3p4z-CV-Z2DY37q-sYqjp) for a project proposal meeting now! They will be taking place this week.
+  - Postterm 1 released next Friday
   
 <!--
 ## Announcements: Wednesday, March 18
