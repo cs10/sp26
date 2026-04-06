@@ -18,7 +18,7 @@ UC Berkeley, Spring 2026
 - [Project 4: Peer Feedback + Comments](https://edstem.org/us/courses/93956/discussion/7875117) are due 4/10.
 - [Project 5](https://cs10.org/sp26/projects/project6-proposals/) proposals are due today.
   - [Sign up](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ06RKDXVAebe2_6rZl0A5x7XJiLCSbBMPbzSvkLIZS5WwGWY83SWdp3p4z-CV-Z2DY37q-sYqjp) for a project proposal meeting now! They will be taking place this week.
-  - Postterm 1 released next Friday
+- Postterm 1 released next Friday
   
 <!--
 ## Announcements: Wednesday, March 18
