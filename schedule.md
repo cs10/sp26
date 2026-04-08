@@ -762,7 +762,7 @@
     <tr>
       <th>Tue 4/7</th>
       <td></td>
-      <td> <a href="https://www.gradescope.com/courses/1232070/assignments/7495229/submissions">Lab 16. Concurrency</a><br/></td>
+      <td> <a href="https://www.gradescope.com/courses/1232070/assignments/7495229/">Lab 16. Concurrency</a><br/></td>
       <td></td>
       <td><b>Final Project Proposal Meetings</b></td>
     </tr>
