@@ -37,7 +37,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 13: OOP in Snap! (Optional)](/sp26/labs/lab13) | THU 3/19 |
 | [Lab 14: Welcome to Python](/sp26/labs/lab14) | TUE 3/31 |
 | [Lab 15: Data Structures in Python](/sp26/labs/lab15) | THU 4/2 |
-| [Lab 16: Concurrency](https://www.gradescope.com/courses/1232070/assignments/7495229/submissions) | TUE 4/7 |
+| [Lab 16: Concurrency](https://www.gradescope.com/courses/1232070/assignments/7495229) | TUE 4/7 |
 | Catch-up Session (Optional) | THU 4/9 – Nothing to submit |
 | Lab 17: Text Processing in Python | TUE 4/14 |
 | Postterm Practice | THU 4/16 |
