@@ -128,7 +128,7 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 12 Discussion</td>
       <td>Data Structures in Python</td>
-      <td><a href="https://docs.google.com/document/d/1nfcPdnx0daGMikrk2kNmRUZi-l9QoTwZ/edit"></a>Worksheet 10</td>
+      <td><a href="https://docs.google.com/document/d/1nfcPdnx0daGMikrk2kNmRUZi-l9QoTwZ/edit">Worksheet 10</a></td>
       <td>Solutions 10</td>
       <td>Recording 10<br/>Passcode: ???</td>
       <td>Slides 10</td>
