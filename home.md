@@ -14,8 +14,7 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Wednesday, April 8
-- Midterm 3 Scores have been released!
+## Announcements: Friday, April 10
 - [Sign up](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ06RKDXVAebe2_6rZl0A5x7XJiLCSbBMPbzSvkLIZS5WwGWY83SWdp3p4z-CV-Z2DY37q-sYqjp) for a Project 5 Proposal Meeting now! Additional times have been added and they will be taking place throughout this week.
   - You cannot begin working on your project until your proposal is approved by a staff member.
 - Postterm 1 released next Friday
