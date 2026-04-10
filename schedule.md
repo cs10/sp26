@@ -769,10 +769,10 @@
     <tr>
       <th>Wed 4/8</th>
       <td>
-        Lec 20. Gen AI<br/>
+        Lec 20. Guest Lecture: Human-computer interaction (HCI)<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        <a href="https://drive.google.com/file/d/1wAdfcJAekA995hhxkHmtCgGaFpJ1ft9B/view?usp=sharing">(Slides 20)</a><br/>
+        (Slides 20)<br/>
         (Lecture Quiz 20)
       </td>
       <td></td>
@@ -819,10 +819,10 @@
       <td class="schedule-week-num" rowspan="5">Week 13</td>
       <th>Mon 4/13</th>
       <td>
-        Lec 21. Guest Lecture: Human-computer interaction (HCI)<br/>
+        Lec 21. Gen AI<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 21)<br/>
+        <a href="https://drive.google.com/file/d/1wAdfcJAekA995hhxkHmtCgGaFpJ1ft9B/view?usp=sharing">(Slides 21)</a><br/>
         (Lecture Quiz 21)
       </td>
       <td></td>
