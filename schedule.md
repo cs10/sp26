@@ -472,7 +472,7 @@
     <tr>
       <th>Fri 3/6</th>
       <td>
-        Talk 7. Practice Midterm (Zone 12 & With Snap!)<br/>
+        Talk 7. Midterm 1 Preview Part 1<br/>
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording) -->
       </td>
@@ -542,7 +542,7 @@
     <tr>
       <th>Fri 3/13</th>
       <td>
-        Talk 8. Midterm 1 Preview<br/>
+        Talk 8. Midterm 1 Preview Part 2<br/>
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording) -->
       </td>
@@ -789,7 +789,7 @@
     <tr>
       <th>Fri 4/10</th>
       <td>
-        Talk 11. Python live coding<br/>
+        Talk 11. Postterm 1 Preview Part 1<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)
       </td>
@@ -859,7 +859,7 @@
     <tr>
       <th>Fri 4/17</th>
       <td>
-        Talk 12. POSTTERM 1 PREVIEW<br/>
+        Talk 12. Postterm 1 Preview Part 2<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)
       </td>
