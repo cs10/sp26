@@ -772,7 +772,6 @@
         Lec 20. Guest Lecture: Human-computer interaction (HCI)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
-        (Slides 20)<br/>
         (Lecture Quiz 20)
       </td>
       <td></td>
