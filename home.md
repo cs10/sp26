@@ -14,10 +14,10 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, April 10
-- [Sign up](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ06RKDXVAebe2_6rZl0A5x7XJiLCSbBMPbzSvkLIZS5WwGWY83SWdp3p4z-CV-Z2DY37q-sYqjp) for a Project 5 Proposal Meeting now! Additional times have been added and they will be taking place throughout this week.
-  - You cannot begin working on your project until your proposal is approved by a staff member.
-- Postterm 1 released next Friday
+## Announcements: Monday, April 13
+- Postterm 1 will be released this Friday at 4PM and remain opened until Sunday at 11:59PM
+- If you haven't gotten your Project 5 proposal approved, please attend any OH and read [this post](https://edstem.org/us/courses/93956/discussion/7921439)
+  - You can ONLY start Project 5 once your project has been approved
   
 <!--
 ## Announcements: Wednesday, March 18
