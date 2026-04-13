@@ -700,8 +700,8 @@
       <th>Wed 4/1</th>
       <td>
         Lec 18. Python II - Data Types & Structures<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1MCDsVs7i7PDOWl3UiLdvXT3uh6a4eEWt/view?usp=sharing">(Slides 18)</a><br/>
         (Lecture Quiz 18)
       </td>
@@ -750,8 +750,8 @@
       <th>Mon 4/6</th>
       <td>
         Lec 19. Concurrency<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1mah53ezKlaazkbHCLn3EBMzEm1HPfQdK/view?usp=sharing">(Slides 19)</a><br/>
         (Lecture Quiz 19)
       </td>
@@ -770,8 +770,8 @@
       <th>Wed 4/8</th>
       <td>
         Lec 20. Guest Lecture: Human-computer interaction (HCI)<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         (Slides 20)<br/>
         (Lecture Quiz 20)
       </td>
@@ -790,8 +790,8 @@
       <th>Fri 4/10</th>
       <td>
         Talk 11. Postterm 1 Preview Part 1<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
       </td>
       <td></td>
       <td></td>
