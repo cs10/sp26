@@ -831,7 +831,7 @@
     <tr>
       <th>Tue 4/14</th>
       <td></td>
-      <td>Lab 17. Text Processing in Python</td>
+      <td><a href="https://cs10.org/sp26/labs/lab17/">Lab 17. Text Processing in Python</a><br/></td>
       <td></td>
       <td></td>
     </tr>
