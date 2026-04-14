@@ -1,12 +1,12 @@
 ---
-title: "Lab 18"
-description: "Text Processing"
-due: "Friday, November 14th, 11:59PM"
+title: "Lab 17"
+description: "Text Processing in Python"
+due: "Thursday, April 16th, 11:59PM"
 gradescope_assignment_id:
 submission_files:
 ---
 
-# Lab 18: Text Processing
+# Lab 17: Text Processing in Python
 
 ## Instructions
 
