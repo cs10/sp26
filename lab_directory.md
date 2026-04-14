@@ -39,7 +39,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Lab 15: Data Structures in Python](/sp26/labs/lab15) | THU 4/2 |
 | [Lab 16: Concurrency](https://www.gradescope.com/courses/1232070/assignments/7495229) | TUE 4/7 |
 | Catch-up Session (Optional) | THU 4/9 – Nothing to submit |
-| Lab 17: Text Processing in Python | TUE 4/14 |
+| [Lab 17: Text Processing in Python](/sp26/labs/lab17) | TUE 4/14 |
 | Postterm Practice | THU 4/16 |
 | Lab 18: Linear Recursion in Python | TUE 4/21 |
 | Lab 19: FUN Data Science | THU 4/23 |
