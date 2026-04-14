@@ -819,8 +819,8 @@
       <th>Mon 4/13</th>
       <td>
         Lec 21. Gen AI<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1wAdfcJAekA995hhxkHmtCgGaFpJ1ft9B/view?usp=sharing">(Slides 21)</a><br/>
         (Lecture Quiz 21)
       </td>
