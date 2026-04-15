@@ -15,6 +15,7 @@ UC Berkeley, Spring 2026
 {{ site.description }}
 
 ## Announcements: Wednesday, April 15
+- Read [Weekly Blast 13 🤖🦾👾](https://edstem.org/us/courses/93956/discussion/7940978)
 - Postterm 1 will be released this Friday at 4PM and will remain open until Sunday at 11:59PM
 - Friday's Talk will go over Practice Postterm (No Snap!, No Python!) solutions
   - Thursday's lab will give you time to work on the Practice Postterm
