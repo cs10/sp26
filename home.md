@@ -14,10 +14,10 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, April 13
-- Postterm 1 will be released this Friday at 4PM and remain opened until Sunday at 11:59PM
-- If you haven't gotten your Project 5 proposal approved, please attend any OH and read [this post](https://edstem.org/us/courses/93956/discussion/7921439)
-  - You can ONLY start Project 5 once your project has been approved
+## Announcements: Wednesday, April 15
+- Postterm 1 will be released this Friday at 4PM and will remain open until Sunday at 11:59PM
+- Friday's Talk will go over Practice Postterm (No Snap!, No Python!) solutions
+  - Thursday's lab will give you time to work on the Practice Postterm
   
 <!--
 ## Announcements: Wednesday, March 18
