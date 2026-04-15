@@ -18,6 +18,8 @@ UC Berkeley, Spring 2026
 - Postterm 1 will be released this Friday at 4PM and will remain open until Sunday at 11:59PM
 - Friday's Talk will go over Practice Postterm (No Snap!, No Python!) solutions
   - Thursday's lab will give you time to work on the Practice Postterm
+- Discussion this week: Social Implications of AI
+- Project 4 grades are now released! We will accept Project 4 resubmissions until Sunday, 4/19, 11:59 PM
   
 <!--
 ## Announcements: Wednesday, March 18
