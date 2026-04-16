@@ -851,7 +851,7 @@
     <tr>
       <th>Thu 4/16</th>
       <td></td>
-      <td>Postterm Practice</td>
+      <td><a href="https://us.prairielearn.com/pl/course_instance/205345/assessment/2633510">Postterm Practice</a><br/></td>
       <td>Disc 11: Postterm Practice</td>
       <td></td>
     </tr>
