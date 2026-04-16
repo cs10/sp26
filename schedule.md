@@ -576,7 +576,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1P3uPWHNKfCH4wDb0Bm78OppqcUwVuHzi/view?usp=sharing">(Slides 15)</a><br/>
-        (Lecture Quiz 15)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495216/submissions">(Lecture Quiz 15)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -596,7 +596,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1ljITcJFkp8jdYV2XlAHW90JImZ1mW4zX/view?usp=sharing">(Slides 16)</a><br/>
-        (Lecture Quiz 16)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495182/submissions">(Lecture Quiz 16)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -683,7 +683,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href ="https://drive.google.com/file/d/1YUJ3u3rAEupUhF-FXN2tmxmMa7cF76Gl/view?usp=sharing"> (Slides 17)</a><br/>
-        (Lecture Quiz 17)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495201/submissions">(Lecture Quiz 17)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -703,7 +703,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1MCDsVs7i7PDOWl3UiLdvXT3uh6a4eEWt/view?usp=sharing">(Slides 18)</a><br/>
-        (Lecture Quiz 18)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495235/submissions">(Lecture Quiz 18)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -753,7 +753,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1mah53ezKlaazkbHCLn3EBMzEm1HPfQdK/view?usp=sharing">(Slides 19)</a><br/>
-        (Lecture Quiz 19)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495189/submissions">(Lecture Quiz 19)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -772,7 +772,7 @@
         Lec 20. Guest Lecture: Human-computer interaction (HCI)<br/>
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
-        (Lecture Quiz 20)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495209/submissions">(Lecture Quiz 20)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -822,7 +822,7 @@
         <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
         <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1wAdfcJAekA995hhxkHmtCgGaFpJ1ft9B/view?usp=sharing">(Slides 21)</a><br/>
-        (Lecture Quiz 21)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495199/submissions">(Lecture Quiz 21)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -842,7 +842,7 @@
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
         <a href="https://drive.google.com/file/d/1_x2ZngZnsFuYmaLbNXMvbSnrw5uJrhC4/view?usp=sharing">(Slides 22)</a><br/>
-        (Lecture Quiz 22)
+        <a href="https://www.gradescope.com/courses/1232070/assignments/7495197/submissions">(Lecture Quiz 22)</a><br/>
       </td>
       <td></td>
       <td></td>
@@ -852,7 +852,7 @@
       <th>Thu 4/16</th>
       <td></td>
       <td><a href="https://us.prairielearn.com/pl/course_instance/205345/assessment/2633510">Postterm Practice</a><br/></td>
-      <td>Disc 11: Postterm Practice</td>
+      <td>Disc 11: Social Implications of AI</td>
       <td></td>
     </tr>
     <tr>
