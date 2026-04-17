@@ -16,7 +16,7 @@ UC Berkeley, Spring 2026
 
 ## Announcements: Friday, April 17
 - Read [Weekly Blast 13 🤖🦾👾](https://edstem.org/us/courses/93956/discussion/7940978)
-- Postterm 1 will be released this Friday at 4PM and will remain open until Sunday at 11:59PM
+- Postterm 1 will be released today at 4PM and will remain open until Sunday, 4/19, at 11:59PM
 - Project 4 grades are now released! We will accept Project 4 resubmissions/regrades until Sunday, 4/19, 11:59 PM
   
 <!--
