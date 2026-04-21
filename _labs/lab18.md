@@ -61,7 +61,7 @@ Create a function that separates each digit of the input and then sums the digit
 
 **Examples**
 - Doctests available
-  - `python3 -m doctest <labfilename>.py to run autograder`
+  - `python3 -m doctest <labfilename>.py` to run autograder
     - Must be in correct parent file
 
 ---
@@ -84,7 +84,7 @@ Create a function that finds the greatest common divisor of two positive integer
 
 **Examples**
 - Doctests available
-  - `python3 -m doctest <labfilename>.py to run autograder`
+  - `python3 -m doctest <labfilename>.py` to run autograder
     - Must be in correct parent file
 
 ---
@@ -107,7 +107,7 @@ Create a function that converts a non-negative integer to its binary representat
 
 **Examples**
 - Doctests available
-  - `python3 -m doctest <labfilename>.py to run autograder`
+  - `python3 -m doctest <labfilename>.py` to run autograder
     - Must be in correct parent file
 
 ---
