@@ -901,7 +901,7 @@
     <tr>
       <th>Tue 4/21</th>
       <td></td>
-      <td>Lab 18. Linear Recursion in Python</td>
+      <td> <a href="https://cs10.org/sp26/labs/lab18/">Lab 18. Linear Recursion in Python</a><br/></td>
       <td></td>
       <td></td>
     </tr>
