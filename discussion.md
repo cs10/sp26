@@ -135,11 +135,11 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 13 Discussion</td>
-      <td>Postterm Practice</td>
-      <td>Worksheet 11</td>
-      <td>Solutions 11</td>
+      <td>Social Implications of AI</td>
+      <td>(No worksheet, No submission required)</td>
+      <td>(No solutions)</td>
       <td>Recording 11<br/>Passcode: ???</td>
-      <td>Slides 11</td>
+      <td>(No slides)</td>
     </tr>
     <tr>
       <td>Week 14 Discussion</td>
