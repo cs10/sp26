@@ -41,7 +41,7 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | Catch-up Session (Optional) | THU 4/9 – Nothing to submit |
 | [Lab 17: Text Processing in Python](/sp26/labs/lab17) | TUE 4/14 |
 | [Postterm Practice](https://us.prairielearn.com/pl/course_instance/205345/assessment/2633510) | THU 4/16 |
-| Lab 18: Linear Recursion in Python | TUE 4/21 |
+| [Lab 18: Linear Recursion in Python](/sp26/labs/lab18) | TUE 4/21 |
 | Lab 19: FUN Data Science | THU 4/23 |
 | Lab 20: Snap + Python Libraries (Optional) | TUE 4/28 – Nothing to submit |
 | Project Work Session (Optional) | THU 4/30 – Nothing to submit |
