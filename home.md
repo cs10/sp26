@@ -14,10 +14,10 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Monday, April 20
-- Congratulations on finishing Postterm 1! Scores will be released very soon.
+## Announcements: Wednesday, April 23
 - Postterm 2 will be released this Friday, 4/24 at 4PM and will remain open until Sunday, 4/26, at 11:59PM
-- Project 5 is due on 5/4
+- Friday's Talk will be Postterm 1 Review. This will not be recorded.
+- Project 5 Party times and dates will be announced soon!
   
 <!--
 ## Announcements: Wednesday, March 18
