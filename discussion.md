@@ -128,34 +128,34 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     <tr>
       <td>Week 12 Discussion</td>
       <td>Data Structures in Python</td>
-      <td><a href="https://docs.google.com/document/d/1nfcPdnx0daGMikrk2kNmRUZi-l9QoTwZ/edit">Worksheet 10</a></td>
-      <td>Solutions 10</td>
-      <td>Recording 10<br/>Passcode: ???</td>
-      <td>Slides 10</td>
+      <td><a href="https://docs.google.com/document/d/1nfcPdnx0daGMikrk2kNmRUZi-l9QoTwZ/edit">Worksheet 12</a></td>
+      <td>Solutions 12</td>
+      <td>Recording 12<br/>Passcode: ???</td>
+      <td>Slides 12</td>
     </tr>
     <tr>
       <td>Week 13 Discussion</td>
       <td>Social Implications of AI</td>
       <td>(No worksheet, No submission required)</td>
       <td>(No solutions)</td>
-      <td>Recording 11<br/>Passcode: ???</td>
+      <td>(No recording)<br/>Passcode: ???</td>
       <td>(No slides)</td>
     </tr>
     <tr>
       <td>Week 14 Discussion</td>
-      <td>Review</td>
-      <td>Worksheet 12</td>
-      <td>Solutions 12</td>
-      <td>Recording 12</td>
-      <td>Slides 12</td>
+      <td>Postterm Practice</td>
+      <td><a href="https://docs.google.com/document/d/1cYSozZDMu33QGV2keqTzYMCVLVkPQb8J/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 14</a></td>
+      <td>Solutions 14</td>
+      <td>Recording 14</td>
+      <td>Slides 14</td>
     </tr>
     <tr>
       <td>Week 15 Discussion</td>
       <td>Review + Ask Me Anything</td>
-      <td>Worksheet 13</td>
-      <td>Solutions 13</td>
-      <td>Recording 13<br/>Passcode: ???</td>
-      <td>Slides 13</td>
+      <td>Worksheet 15</td>
+      <td>Solutions 15</td>
+      <td>Recording 15<br/>Passcode: ???</td>
+      <td>Slides 15</td>
     </tr>
   </tbody>
 </table>
