@@ -128,9 +128,9 @@ Note: If you modify your data directly in the functions, you can always reset th
 
 - Example 2:
   - Input:
-    ![example input of appending new data with one column to world data][sp26-lab19-image3]
+  - ![example input of appending new data with one column to world data][sp26-lab19-image3]
   - Output:
-    ![example output of appending new data with one column to world data][sp26-lab19-image4]
+  - ![example output of appending new data with one column to world data][sp26-lab19-image4]
 
 ---
 
@@ -240,9 +240,9 @@ Hint: You may need to clean your number data before using a block like max.
 - Which country has the highest annual CO2 emissions?
 - Which country has the worst average air quality?
 
-All CO2 emission data was collected from: https://ourworldindata.org/co2-emissions
+All CO2 emission data was collected from: [https://ourworldindata.org/co2-emissions](https://ourworldindata.org/co2-emissions)
 
-Hannah Ritchie and Max Roser (2020) - “CO₂ emissions” Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/co2-emissions' [Online Resource]
+Hannah Ritchie and Max Roser (2020) - “CO₂ emissions” Published online at OurWorldInData.org. Retrieved from: '[https://ourworldindata.org/co2-emissions](https://ourworldindata.org/co2-emissions)' [Online Resource]
 
 ---
 
