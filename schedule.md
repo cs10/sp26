@@ -921,7 +921,7 @@
     <tr>
       <th>Thu 4/23</th>
       <td></td>
-      <td> <a href="https://cs10.org/sp26/labs/lab119/">Lab 19. FUN Data Science</a><br/></td>
+      <td> <a href="https://cs10.org/sp26/labs/lab19/">Lab 19. FUN Data Science</a><br/></td>
       <td>Disc 12. Review</td>
       <td></td>
     </tr>
