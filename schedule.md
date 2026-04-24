@@ -839,8 +839,8 @@
       <th>Wed 4/15</th>
       <td>
         Lec 22. Ethics in AI<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1_x2ZngZnsFuYmaLbNXMvbSnrw5uJrhC4/view?usp=sharing">(Slides 22)</a><br/>
         <a href="https://www.gradescope.com/courses/1232070/assignments/7495197/submissions">(Lecture Quiz 22)</a><br/>
       </td>
@@ -859,8 +859,8 @@
       <th>Fri 4/17</th>
       <td>
         Talk 12. Postterm 1 Preview Part 2<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording) -->
       </td>
       <td></td>
       <td></td>
@@ -889,8 +889,8 @@
       <th>Mon 4/20</th>
       <td>
         Lec 23. Python III - Game Theory<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1WjUMNPPyux9ufzt0qYzZ8PWValg2Pf8q/view?usp=sharing">(Slides 23)</a><br/>
         (Lecture Quiz 23)
       </td>
@@ -909,8 +909,8 @@
       <th>Wed 4/22</th>
       <td>
         Lec 24. Python IV – OOP<br/>
-        <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)<br/>
+        <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/>
+        <!-- (Recording)<br/> -->
         <a href="https://drive.google.com/file/d/1n1cRmiF0logdUF_JbRB2YzJ63Lzf4Nb1/view?usp=drive_link">(Slides 24)</a><br/>
         (Lecture Quiz 24)
       </td>
@@ -930,7 +930,7 @@
       <td>
         Talk 13. POSTTERM 1 REVIEW<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
-        (Recording)
+        (No Recording)
       </td>
       <td></td>
       <td></td>
