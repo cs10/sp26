@@ -14,10 +14,11 @@ UC Berkeley, Spring 2026
 
 {{ site.description }}
 
-## Announcements: Friday, April 24
-- Postterm 2 will be released today, 4/24 at 4PM and will remain open until Sunday, 4/26, at 11:59PM
+## Announcements: Monday, April 27
+- Postterm 3 will be released Friday, 5/1 at 4PM and will remain open until Sunday, 5/3, at 11:59PM
+- Friday's talk will go over Postterm 2. This will not be recorded.
 - Project 5 Proposal grades and approval comments have been released
-- Next week's labs are optional and will be Project 5 Work Sessions!
+- This week's labs are optional and will be Project 5 Work Sessions!
   
 <!--
 ## Announcements: Wednesday, March 18
