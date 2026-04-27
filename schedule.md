@@ -961,7 +961,7 @@
         Lec 25. Alumni Panel<br/>
         <!-- <a href="https://bcourses.berkeley.edu/courses/1552632/external_tools/90481">(Recording)</a><br/> -->
         (Recording)<br/>
-        (Slides 25)<br/>
+        <a href="https://drive.google.com/drive/u/0/folders/18vVHDm1dwdOejHJuWJk42K9XslGt_oa5">(Slides 25)</a><br/>
         (Lecture Quiz 25)
       </td>
       <td></td>
