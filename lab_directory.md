@@ -43,5 +43,5 @@ Lab Slides: [here](https://drive.google.com/drive/folders/1aAkCl8LahgMF5AWwjGCoP
 | [Postterm Practice](https://us.prairielearn.com/pl/course_instance/205345/assessment/2633510) | THU 4/16 |
 | [Lab 18: Linear Recursion in Python](/sp26/labs/lab18) | TUE 4/21 |
 | [Lab 19: FUN Data Science](/sp26/labs/lab19) | THU 4/23 |
-| Lab 20: Snap + Python Libraries (Optional) | TUE 4/28 – Nothing to submit |
+| [Lab 20: Snap + Python Libraries](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment) & Project 5 Work Session (Optional) | TUE 4/28 – Nothing to submit |
 | Project Work Session (Optional) | THU 4/30 – Nothing to submit |
