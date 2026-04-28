@@ -971,7 +971,7 @@
     <tr>
       <th>Tue 4/28</th>
       <td></td>
-      <td>Lab 20. Snap + Python Libraries (Optional)</td>
+      <td>Lab 20. Snap + Python Libraries and Project Work Session (Optional)</td>
       <td></td>
       <td></td>
     </tr>
