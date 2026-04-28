@@ -971,7 +971,7 @@
     <tr>
       <th>Tue 4/28</th>
       <td></td>
-      <td>Lab 20. Snap + Python Libraries and Project Work Session (Optional)</td>
+      <td> <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/libraries/libraries.topic&course=cs10_fa20.html&novideo&noreading&noassignment">Lab 20. Snap + Python Libraries and Project Work Session (Optional)</a><br/></td>
       <td></td>
       <td></td>
     </tr>
