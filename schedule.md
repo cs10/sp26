@@ -992,7 +992,7 @@
       <th>Thu 4/30</th>
       <td></td>
       <td>Project Work Session (Optional)</td>
-      <td>Disc 15: Review</td>
+      <td><a href="https://docs.google.com/document/d/1RCCviKXi5J49RO69pIkOvTlbanbwSzOE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Disc 15: Postterm Practice + Farewell</a></td>
       <td></td>
     </tr>
     <tr>
