@@ -151,8 +151,8 @@ This page will be updated with discussion Worksheets and Solutions throughout th
     </tr>
     <tr>
       <td>Week 15 Discussion</td>
-      <td>Review + Ask Me Anything</td>
-      <td>Worksheet 15</td>
+      <td>Postterm Practice + Farewell</td>
+      <td><a href="https://docs.google.com/document/d/1RCCviKXi5J49RO69pIkOvTlbanbwSzOE/edit?usp=sharing&ouid=108241901646567491558&rtpof=true&sd=true">Worksheet 15</a></td>
       <td>Solutions 15</td>
       <td>Recording 15<br/>Passcode: ???</td>
       <td>Slides 15</td>
